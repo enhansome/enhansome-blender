@@ -14,7 +14,7 @@
             "last_commit": "2026-07-27T18:21:05Z",
             "owner": "rlguy",
             "repo": "Blender-FLIP-Fluids",
-            "stars": 1932
+            "stars": 1934
           }
         },
         {
@@ -160,7 +160,7 @@
             "last_commit": "2026-08-10T12:19:00Z",
             "owner": "makehumancommunity",
             "repo": "mpfb2",
-            "stars": 569
+            "stars": 570
           }
         },
         {
@@ -235,7 +235,7 @@
                 "last_commit": "2026-08-05T01:40:06Z",
                 "owner": "princeton-vl",
                 "repo": "infinigen",
-                "stars": 7198
+                "stars": 7201
               }
             }
           ]
@@ -257,7 +257,7 @@
             "last_commit": "2022-05-04T07:25:15Z",
             "owner": "stuffmatic",
             "repo": "fSpy-Blender",
-            "stars": 1438
+            "stars": 1440
           }
         },
         {
@@ -285,7 +285,7 @@
             "last_commit": "2026-08-10T19:10:31Z",
             "owner": "mrachinskiy",
             "repo": "jewelcraft",
-            "stars": 581
+            "stars": 582
           }
         },
         {
@@ -363,10 +363,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-08-12T16:18:28Z",
+                "last_commit": "2026-08-13T16:59:58Z",
                 "owner": "hlorus",
                 "repo": "CAD_Sketcher",
-                "stars": 3381
+                "stars": 3384
               }
             },
             {
@@ -377,10 +377,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-13T03:13:41Z",
+                "last_commit": "2026-08-13T21:09:42Z",
                 "owner": "IfcOpenShell",
                 "repo": "IfcOpenShell",
-                "stars": 2703
+                "stars": 2704
               }
             },
             {
@@ -394,7 +394,7 @@
                 "last_commit": "2026-08-02T17:02:00Z",
                 "owner": "nortikin",
                 "repo": "sverchok",
-                "stars": 2509
+                "stars": 2510
               }
             },
             {
@@ -422,7 +422,7 @@
                 "last_commit": "2026-03-20T22:26:21Z",
                 "owner": "kevancress",
                 "repo": "MeasureIt_ARCH",
-                "stars": 311
+                "stars": 312
               }
             },
             {
@@ -492,7 +492,7 @@
                 "last_commit": "2026-07-25T18:23:52Z",
                 "owner": "CGCookie",
                 "repo": "retopoflow",
-                "stars": 3183
+                "stars": 3184
               }
             },
             {
@@ -758,7 +758,7 @@
             "last_commit": "2026-07-07T08:05:45Z",
             "owner": "JacquesLucke",
             "repo": "animation_nodes",
-            "stars": 2375
+            "stars": 2376
           }
         },
         {
@@ -875,7 +875,7 @@
                 "last_commit": "2024-04-18T22:49:26Z",
                 "owner": "shteeve3d",
                 "repo": "blender-wiggle-2",
-                "stars": 1010
+                "stars": 1012
               }
             },
             {
@@ -1041,7 +1041,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T06:58:53Z",
+            "last_commit": "2026-08-13T20:58:27Z",
             "owner": "mitsuba-renderer",
             "repo": "mitsuba3",
             "stars": 2887
@@ -1058,7 +1058,7 @@
             "last_commit": "2026-06-11T07:46:01Z",
             "owner": "appleseedhq",
             "repo": "appleseed",
-            "stars": 2311
+            "stars": 2312
           }
         },
         {
@@ -1072,7 +1072,7 @@
             "last_commit": "2026-08-05T20:55:14Z",
             "owner": "LuxCoreRender",
             "repo": "LuxCore",
-            "stars": 1317
+            "stars": 1318
           }
         },
         {
@@ -1106,7 +1106,7 @@
             "last_commit": "2024-12-02T09:11:13Z",
             "owner": "franMarz",
             "repo": "TexTools-Blender",
-            "stars": 2372
+            "stars": 2371
           }
         },
         {
@@ -1120,7 +1120,7 @@
             "last_commit": "2026-08-12T06:30:24Z",
             "owner": "ucupumar",
             "repo": "ucupaint",
-            "stars": 2215
+            "stars": 2217
           }
         },
         {
@@ -1322,7 +1322,7 @@
             "last_commit": "2026-08-10T08:37:00Z",
             "owner": "xavier150",
             "repo": "Blender-For-UnrealEngine-Addons",
-            "stars": 2629
+            "stars": 2630
           }
         },
         {
@@ -1411,7 +1411,7 @@
                 "last_commit": "2026-07-16T06:31:41Z",
                 "owner": "armory3d",
                 "repo": "armory",
-                "stars": 3314
+                "stars": 3315
               }
             },
             {
@@ -1422,7 +1422,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "C++",
-                "last_commit": "2026-08-13T04:59:43Z",
+                "last_commit": "2026-08-13T14:30:34Z",
                 "owner": "UPBGE",
                 "repo": "upbge",
                 "stars": 1795
@@ -1475,7 +1475,7 @@
             "last_commit": "2026-01-20T18:01:09Z",
             "owner": "DLR-RM",
             "repo": "BlenderProc",
-            "stars": 3668
+            "stars": 3670
           }
         },
         {
@@ -1559,7 +1559,7 @@
             "last_commit": "2026-07-11T20:39:55Z",
             "owner": "BrendanParmer",
             "repo": "NodeToPython",
-            "stars": 357
+            "stars": 358
           }
         },
         {
@@ -1844,7 +1844,7 @@
                 "last_commit": "2025-12-20T18:19:10Z",
                 "owner": "domlysz",
                 "repo": "BlenderGIS",
-                "stars": 9281
+                "stars": 9284
               }
             },
             {
@@ -2131,7 +2131,7 @@
                 "last_commit": "2026-05-23T13:18:16Z",
                 "owner": "nutti",
                 "repo": "Screencast-Keys",
-                "stars": 1425
+                "stars": 1426
               }
             },
             {
@@ -2554,7 +2554,7 @@
             "last_commit": "2025-10-13T20:11:43Z",
             "owner": "nidorx",
             "repo": "matcaps",
-            "stars": 3329
+            "stars": 3330
           }
         },
         {
@@ -2593,7 +2593,7 @@
             "last_commit": "2022-01-03T03:31:55Z",
             "owner": "wjakob",
             "repo": "instant-meshes",
-            "stars": 6182
+            "stars": 6184
           }
         },
         {
@@ -2607,7 +2607,7 @@
             "last_commit": "2026-08-12T05:14:56Z",
             "owner": "cnr-isti-vclab",
             "repo": "meshlab",
-            "stars": 5785
+            "stars": 5787
           }
         },
         {
@@ -2621,7 +2621,7 @@
             "last_commit": "2026-07-26T03:18:33Z",
             "owner": "guillaumechereau",
             "repo": "goxel",
-            "stars": 3173
+            "stars": 3174
           }
         },
         {
@@ -2632,10 +2632,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T13:39:26Z",
+            "last_commit": "2026-08-13T13:31:41Z",
             "owner": "huxingyi",
             "repo": "autoremesher",
-            "stars": 3153
+            "stars": 3159
           }
         },
         {
@@ -2708,10 +2708,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T06:04:23Z",
+            "last_commit": "2026-08-14T03:59:41Z",
             "owner": "f3d-app",
             "repo": "f3d",
-            "stars": 4619
+            "stars": 4623
           }
         },
         {
@@ -2722,10 +2722,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T02:40:54Z",
+            "last_commit": "2026-08-14T02:29:10Z",
             "owner": "grizzlypeak3d",
             "repo": "DJV",
-            "stars": 1086
+            "stars": 1087
           }
         },
         {
@@ -2739,7 +2739,7 @@
             "last_commit": "2024-04-23T18:28:11Z",
             "owner": "allusion-app",
             "repo": "Allusion",
-            "stars": 899
+            "stars": 900
           }
         },
         {
@@ -2875,10 +2875,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T17:40:00Z",
+            "last_commit": "2026-08-13T07:38:47Z",
             "owner": "alicevision",
             "repo": "Meshroom",
-            "stars": 12895
+            "stars": 12898
           }
         },
         {
@@ -2889,10 +2889,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T16:23:24Z",
+            "last_commit": "2026-08-13T13:13:04Z",
             "owner": "colmap",
             "repo": "colmap",
-            "stars": 12462
+            "stars": 12474
           }
         },
         {
@@ -2926,7 +2926,7 @@
             "last_commit": "2024-08-26T02:23:11Z",
             "owner": "carson-katri",
             "repo": "dream-textures",
-            "stars": 8191
+            "stars": 8192
           }
         },
         {
@@ -2940,7 +2940,7 @@
             "last_commit": "2026-08-06T15:27:03Z",
             "owner": "RodZill4",
             "repo": "material-maker",
-            "stars": 5827
+            "stars": 5828
           }
         },
         {
@@ -2951,10 +2951,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T18:36:09Z",
+            "last_commit": "2026-08-13T14:48:21Z",
             "owner": "armory3d",
             "repo": "armorpaint",
-            "stars": 4018
+            "stars": 4020
           }
         },
         {
@@ -3016,7 +3016,7 @@
             "last_commit": "2026-03-17T06:28:29Z",
             "owner": "anvaka",
             "repo": "city-roads",
-            "stars": 9544
+            "stars": 9545
           }
         },
         {
@@ -3030,7 +3030,7 @@
             "last_commit": "2024-05-09T21:32:30Z",
             "owner": "ProbableTrain",
             "repo": "MapGenerator",
-            "stars": 1412
+            "stars": 1414
           }
         }
       ],
@@ -3075,7 +3075,7 @@
             "last_commit": "2026-08-05T06:11:04Z",
             "owner": "vinta",
             "repo": "awesome-python",
-            "stars": 313654
+            "stars": 313858
           }
         },
         {
@@ -3089,7 +3089,7 @@
             "last_commit": "2026-08-03T18:44:56Z",
             "owner": "TheAlgorithms",
             "repo": "Python",
-            "stars": 223707
+            "stars": 223736
           }
         }
       ],
@@ -3109,7 +3109,7 @@
             "last_commit": "2026-07-29T12:13:12Z",
             "owner": "ssloy",
             "repo": "tinyrenderer",
-            "stars": 24088
+            "stars": 24094
           }
         },
         {
@@ -3151,7 +3151,7 @@
             "last_commit": "2020-02-29T22:27:34Z",
             "owner": "ericjang",
             "repo": "awesome-graphics",
-            "stars": 1115
+            "stars": 1116
           }
         },
         {
@@ -3185,7 +3185,7 @@
             "last_commit": "2024-07-28T19:57:31Z",
             "owner": "goabstract",
             "repo": "Awesome-Design-Tools",
-            "stars": 40861
+            "stars": 40874
           }
         },
         {
@@ -3199,7 +3199,7 @@
             "last_commit": "2024-07-04T18:17:39Z",
             "owner": "gztchan",
             "repo": "awesome-design",
-            "stars": 17396
+            "stars": 17399
           }
         },
         {
@@ -3213,7 +3213,7 @@
             "last_commit": "2026-02-11T22:01:53Z",
             "owner": "neutraltone",
             "repo": "awesome-stock-resources",
-            "stars": 14419
+            "stars": 14424
           }
         },
         {
@@ -3241,7 +3241,7 @@
             "last_commit": "2026-04-10T19:20:30Z",
             "owner": "Kavex",
             "repo": "GameDev-Resources",
-            "stars": 6840
+            "stars": 6854
           }
         },
         {
@@ -3255,7 +3255,7 @@
             "last_commit": "2026-07-07T19:10:59Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 3096
+            "stars": 3097
           }
         },
         {
@@ -3269,7 +3269,7 @@
             "last_commit": "2026-08-11T08:50:06Z",
             "owner": "ad-si",
             "repo": "awesome-3d-printing",
-            "stars": 1923
+            "stars": 1924
           }
         },
         {
@@ -3373,7 +3373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:07:47.985Z",
+    "last_updated": "2026-08-14T06:05:52.593Z",
     "original_repository": "agmmnn/awesome-blender",
     "original_repository_sha": "beb0028ba436de00da336e1fd08098c1da1376df",
     "enhanced_repository": "enhansome/enhansome-blender",
