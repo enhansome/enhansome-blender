@@ -2889,7 +2889,7 @@
                 "last_commit": "2026-08-24T11:51:14Z",
                 "owner": "huxingyi",
                 "repo": "autoremesher",
-                "stars": 3337
+                "stars": 3338
               }
             },
             {
@@ -2956,7 +2956,7 @@
                 "last_commit": "2026-07-24T09:49:49Z",
                 "owner": "NatronGitHub",
                 "repo": "Natron",
-                "stars": 5493
+                "stars": 5494
               }
             },
             {
@@ -3177,7 +3177,7 @@
                 "archived": false,
                 "id": 23007417,
                 "language": "C++",
-                "last_commit": "2026-08-24T19:59:13Z",
+                "last_commit": "2026-08-25T05:48:21Z",
                 "owner": "colmap",
                 "repo": "colmap",
                 "stars": 12549
@@ -3565,7 +3565,7 @@
                 "last_commit": "2026-08-25T04:08:40Z",
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 315912
+                "stars": 315914
               }
             },
             {
@@ -3847,7 +3847,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:18:58.656Z",
+    "last_updated": "2026-08-25T05:49:11.794Z",
     "original_repository": "agmmnn/awesome-blender",
     "original_repository_id": 234972124,
     "original_repository_sha": "beb0028ba436de00da336e1fd08098c1da1376df",

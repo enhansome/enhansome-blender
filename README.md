@@ -663,7 +663,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 
 * [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,194 | 🐛 97 | 🌐 C++ | 📅 2022-01-03 : Interactive field-aligned mesh generator.
 * [MeshLab](http://www.meshlab.net/) : Open source system for processing and editing 3D triangular meshes. [![][repo]](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,799 | 🐛 197 | 🌐 C++ | 📅 2026-08-24
-* [AutoRemesher](https://github.com/huxingyi/autoremesher) ⭐ 3,337 | 🐛 34 | 🌐 C++ | 📅 2026-08-24 : Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
+* [AutoRemesher](https://github.com/huxingyi/autoremesher) ⭐ 3,338 | 🐛 34 | 🌐 C++ | 📅 2026-08-24 : Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
 * [Goxel](https://github.com/guillaumechereau/goxel) ⭐ 3,183 | 🐛 129 | 🌐 C++ | 📅 2026-07-26 : Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
 * [Make Human](http://www.makehumancommunity.org/) : Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender) ⭐ 229 | 🐛 21 | 🌐 Python | 📅 2024-11-23) [![][repo]](https://github.com/makehumancommunity/makehuman) ⭐ 1,549 | 🐛 71 | 🌐 Python | 📅 2024-08-19
 * [Magica Voxel](https://ephtracy.github.io/index.html?page=mv_main) : A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
@@ -689,7 +689,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 ### Various Tools [^](#table)
 
 * [Processing](https://processing.org/) : is a flexible software sketchbook and a language for learning how to code within the context of the visual arts. [![][repo]](https://github.com/processing/processing) ⭐ 6,484 | 🐛 0 | 🌐 Java | 📅 2026-07-15
-* [Natron](https://natrongithub.github.io/) : Open Source Compositing Software For VFX and Motion Graphics. [![][repo]](https://github.com/NatronGitHub/Natron) ⭐ 5,493 | 🐛 281 | 🌐 C++ | 📅 2026-07-24
+* [Natron](https://natrongithub.github.io/) : Open Source Compositing Software For VFX and Motion Graphics. [![][repo]](https://github.com/NatronGitHub/Natron) ⭐ 5,494 | 🐛 281 | 🌐 C++ | 📅 2026-07-24
 * [SHADERed](https://github.com/dfranx/SHADERed) ⭐ 4,787 | 🐛 119 | 🌐 C++ | 📅 2023-09-22 : is a lightweight tool for creating and testing HLSL and GLSL shaders.
 * [F3D](http://f3d.app) : Fast and minimalist open source cross-platform 3D viewer. Support many fileformats and rendering style. [![][repo]](https://github.com/f3d-app/f3d) ⭐ 4,650 | 🐛 334 | 🌐 C++ | 📅 2026-08-25
 * [DJV](https://darbyjohnston.github.io/DJV/) : Professional image sequence, media review software for VFX, animation, and film production. [![][repo]](https://github.com/darbyjohnston/DJV) ⭐ 1,096 | 🐛 125 | 🌐 C++ | 📅 2026-08-25
@@ -717,7 +717,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 ### Photogrammetry [^](#table)
 
 * [Meshroom](https://alicevision.org/#meshroom) : is a free, open-source 3D Photogrammetry Software. [![][repo]](https://github.com/alicevision/meshroom) ⭐ 12,918 | 🐛 516 | 🌐 Python | 📅 2026-08-20
-* [COLMAP](https://colmap.github.io/) : Reconstruct 3D models from ordered or unordered image collections automatically. [![][repo]](https://github.com/colmap/colmap) ⭐ 12,549 | 🐛 706 | 🌐 C++ | 📅 2026-08-24
+* [COLMAP](https://colmap.github.io/) : Reconstruct 3D models from ordered or unordered image collections automatically. [![][repo]](https://github.com/colmap/colmap) ⭐ 12,549 | 🐛 706 | 🌐 C++ | 📅 2026-08-25
 * [MicMac](https://github.com/micmacIGN/micmac) ⭐ 918 | 🐛 116 | 🌐 C++ | 📅 2026-06-19 : is a free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
 * [3DF Zephyr Free](https://www.3dflow.net/3df-zephyr-free/) : is free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.
 * [RealityCapture](https://www.capturingreality.com/) \[$] : Create virtual reality scenes, textured 3D meshes, orthographic projections, geo-referenced maps and much more from images and/or laser scans completely automatically.
@@ -994,7 +994,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 
 ### Learn Python [^](#table)
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 315,912 | 🐛 15 | 🌐 Python | 📅 2026-08-25 : A curated list of awesome Python frameworks, libraries, software and resources.
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 315,914 | 🐛 15 | 🌐 Python | 📅 2026-08-25 : A curated list of awesome Python frameworks, libraries, software and resources.
 * [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 224,007 | 🐛 1,056 | 🌐 Python | 📅 2026-08-21.
 
 ### Learn Computer Graphics [^](#table)
@@ -1165,7 +1165,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 
 ### Contributing [^](#table)
 
-Your contributions are always welcome! ^\_^ If you want to contribute to this list, send a *pull request*, open an *issue* or *contact with me* @agmmnn. Please read the *[contributing guidelines](https://github.com/agmmnn/awesome-blender/blob/master/CONTRIBUTING.md) ⭐ 7,235 | 🐛 26 | 📅 2026-01-22* first, some sections have their own guidelines as a comment line.
+Your contributions are always welcome! ^\_^ If you want to contribute to this list, send a *pull request*, open an *issue* or *contact with me* @agmmnn. Please read the *[contributing guidelines](https://github.com/agmmnn/awesome-blender/blob/master/CONTRIBUTING.md) ⭐ 7,236 | 🐛 26 | 📅 2026-01-22* first, some sections have their own guidelines as a comment line.
 
 ***
 
