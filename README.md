@@ -197,7 +197,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 * [Synced Modifiers](https://amanbairwal.gumroad.com/l/SyncedModifiers) : allows you to add modifiers to multiple objects at the same time and automatically syncs all the modifiers using Drivers.
 * CAD:
   * [CAD Sketcher](https://www.cadsketcher.com) : CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender by bringing CAD like tools, features and usability. [![][repo]](https://github.com/hlorus/CAD_Sketcher) ⭐ 3,446 | 🐛 11 | 🌐 Python | 📅 2026-10-06 ![][gpl]
-  * [BlenderBIM](https://blenderbim.org) : An add-on for beautiful, detailed, and data-rich OpenBIM with Blender. [![][repo]](https://github.com/ifcopenshell/ifcopenshell) ⭐ 2,831 | 🐛 2,004 | 🌐 C++ | 📅 2026-10-06 ![][gpl]
+  * [BlenderBIM](https://blenderbim.org) : An add-on for beautiful, detailed, and data-rich OpenBIM with Blender. [![][repo]](https://github.com/ifcopenshell/ifcopenshell) ⭐ 2,831 | 🐛 2,005 | 🌐 C++ | 📅 2026-10-06 ![][gpl]
   * [Sverchok](https://nortikin.github.io/sverchok) : is a powerful parametric tool for architects, allowing geometry to be programmed visually with nodes. [![][repo]](https://github.com/nortikin/sverchok) ⭐ 2,527 | 🐛 220 | 🌐 Python | 📅 2026-09-24 ![][gpl]
   * [Building Tools](https://github.com/ranjian0/building_tools) ⭐ 1,509 | 🐛 27 | 🌐 Python | 📅 2026-09-24 : Building generation addon for blender.
   * [MeasureIt-ARCH](https://github.com/kevancress/MeasureIt_ARCH) ⭐ 317 | 🐛 85 | 🌐 Python | 📅 2026-03-20 : An expansion of Antonio Vazquez's MeasureIt addon to add features to create Architectural Drawings.
@@ -572,7 +572,7 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 
 ### 🖼️Art/Reference [^](#table)
 
-* [Dezoomify](https://dezoomify.ophir.dev/) : Download zoomable images from [Google Arts & Culture](https://artsandculture.google.com/), [The National Gallery](https://www.nationalgallery.org.uk/), [Gallica](https://gallica.bnf.fr/), [Van Gogh Museum](https://www.vangoghmuseum.nl/en/search/collection) and [more](https://github.com/lovasoa/dezoomify#supported-zoomable-image-formats) ⭐ 833 | 🐛 207 | 🌐 Rust | 📅 2026-10-05. ([Desktop App](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,038 | 🐛 74 | 🌐 Rust | 📅 2026-09-17) [![][repo]](https://github.com/lovasoa/dezoomify) ⭐ 833 | 🐛 207 | 🌐 Rust | 📅 2026-10-05
+* [Dezoomify](https://dezoomify.ophir.dev/) : Download zoomable images from [Google Arts & Culture](https://artsandculture.google.com/), [The National Gallery](https://www.nationalgallery.org.uk/), [Gallica](https://gallica.bnf.fr/), [Van Gogh Museum](https://www.vangoghmuseum.nl/en/search/collection) and [more](https://github.com/lovasoa/dezoomify#supported-zoomable-image-formats) ⭐ 833 | 🐛 207 | 🌐 Rust | 📅 2026-10-05. ([Desktop App](https://github.com/lovasoa/dezoomify-rs) ⭐ 1,038 | 🐛 75 | 🌐 Rust | 📅 2026-09-17) [![][repo]](https://github.com/lovasoa/dezoomify) ⭐ 833 | 🐛 207 | 🌐 Rust | 📅 2026-10-05
 * [Birmingham Museums Trust](https://dams.birminghammuseums.org.uk/asset-bank/action/viewDefaultHome?browseType=folders) : Thousands of our out-of-copyright images are now available for all to use under a Creative Commons Zero Licence. More images are regularly being added. ([Unsplash Profile](https://unsplash.com/@birminghammuseumstrust)) ![zero]
 * [Wikimedia Commons/Art](https://commons.wikimedia.org/wiki/Category:Art) : A collection of freely usable media files to which anyone can contribute. ![cc]
 * [The Art Institute of Chicago](https://www.artic.edu/collection?is_public_domain=1) : Download public-domain artworks from Art Institute of Chicago online collection. [![zero]](https://www.artic.edu/image-licensing)
@@ -994,8 +994,8 @@ English | [简体中文版 (Chinese)](README_ZH.md)
 
 ### Learn Python [^](#table)
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 325,513 | 🐛 19 | 🌐 Python | 📅 2026-10-02 : A curated list of awesome Python frameworks, libraries, software and resources.
-* [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 225,260 | 🐛 8 | 🌐 Python | 📅 2026-10-05.
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 325,518 | 🐛 19 | 🌐 Python | 📅 2026-10-02 : A curated list of awesome Python frameworks, libraries, software and resources.
+* [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 225,259 | 🐛 8 | 🌐 Python | 📅 2026-10-05.
 
 ### Learn Computer Graphics [^](#table)
 

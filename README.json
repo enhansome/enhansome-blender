@@ -637,7 +637,7 @@
                     "language": "C++",
                     "license": "LGPL-3.0",
                     "last_commit": "2026-10-06T08:57:14Z",
-                    "open_issues": 2004,
+                    "open_issues": 2005,
                     "owner": "IfcOpenShell",
                     "repo": "IfcOpenShell",
                     "stars": 2831,
@@ -5610,7 +5610,7 @@
                 "open_issues": 19,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 325513,
+                "stars": 325518,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -5638,7 +5638,7 @@
                 "open_issues": 8,
                 "owner": "TheAlgorithms",
                 "repo": "Python",
-                "stars": 225260,
+                "stars": 225259,
                 "topics": [
                   "algorithm",
                   "algorithm-competitions",
@@ -6192,7 +6192,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:46:16.845Z",
+    "last_updated": "2026-10-06T11:32:39.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.",
