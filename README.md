@@ -116,23 +116,23 @@
 
 ### 🌊 Simulation/Physics
 
-* [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) ⭐ 1,984 | 🐛 4 | 🌐 C++ | 📅 2026-11-10 : Powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://superhivemarket.com/products/flipfluids)
+* [FLIP Fluids](https://github.com/rlguy/Blender-FLIP-Fluids) ⭐ 1,985 | 🐛 4 | 🌐 C++ | 📅 2026-11-10 : Powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite. [![market]](https://superhivemarket.com/products/flipfluids)
 * [MolecularNodes](https://extensions.blender.org/add-ons/molecularnodes/) : Import, animate, and simulate molecular biology and structural data inside Blender using Geometry Nodes. [![][repo]](https://github.com/BradyAJohnston/MolecularNodes) ⭐ 1,414 | 🐛 71 | 🌐 Python | 📅 2026-11-16 ![][gpl]
 * [Phobos](https://github.com/dfki-ric/phobos) ⭐ 915 | 🐛 15 | 🌐 Python | 📅 2026-07-14 : An add-on for Blender allowing to create URDF, SDF and SMURF robot models.
 * [Stop-motion-OBJ](https://github.com/neverhood311/Stop-motion-OBJ) ⭐ 751 | 🐛 20 | 🌐 Python | 📅 2025-09-02 : Import sequences of `.obj`, `.ply`, or `.stl` mesh files (such as external fluid or particle simulations) as animated mesh sequences in Blender. ![][gpl]
-* [Molecular+](https://github.com/u3dreal/molecular-plus) ⭐ 420 | 🐛 7 | 🌐 Python | 📅 2026-07-02 : Modernized continuation of the [Molecular Script](https://github.com/scorpion81/Blender-Molecular-Script) ⭐ 491 | 🐛 10 | 🌐 Python | 📅 2025-01-11 add-on for particle collisions, linking, and physics simulations in Blender 4.x. ![][gpl]
-* [Jet-Fluids](https://github.com/PavelBlend/blender-jet-fluids-addon) ⭐ 105 | 🐛 9 | 🌐 Python | 📅 2023-12-09 : [Jet fluid](https://github.com/doyubkim/fluid-engine-dev) ⭐ 2,109 | 🐛 60 | 🌐 C++ | 📅 2023-12-24 simulator integration in blender.
-* [Blender Optics Simulator](https://github.com/emircbngl/blender-optics-simulator) ⭐ 37 | 🐛 5 | 🌐 Python | 📅 2026-09-24 : An add-on that turns Blender into a physics-checked optical bench: live beam tracing with polarization and Gaussian-beam propagation, real opto-mechanical mounts, and a headless Python API. ![][gpl]
+* [Molecular+](https://github.com/u3dreal/molecular-plus) ⭐ 421 | 🐛 7 | 🌐 Python | 📅 2026-07-02 : Modernized continuation of the [Molecular Script](https://github.com/scorpion81/Blender-Molecular-Script) ⭐ 491 | 🐛 10 | 🌐 Python | 📅 2025-01-11 add-on for particle collisions, linking, and physics simulations in Blender 4.x. ![][gpl]
+* [Jet-Fluids](https://github.com/PavelBlend/blender-jet-fluids-addon) ⭐ 106 | 🐛 9 | 🌐 Python | 📅 2023-12-09 : [Jet fluid](https://github.com/doyubkim/fluid-engine-dev) ⭐ 2,109 | 🐛 60 | 🌐 C++ | 📅 2023-12-24 simulator integration in blender.
+* [Blender Optics Simulator](https://github.com/emircbngl/blender-optics-simulator) ⭐ 38 | 🐛 6 | 🌐 Python | 📅 2026-11-16 : An add-on that turns Blender into a physics-checked optical bench: live beam tracing with polarization and Gaussian-beam propagation, real opto-mechanical mounts, and a headless Python API. ![][gpl]
 * [projectile](https://github.com/develeon/projectile) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-01-01 : An artist-friendly tool for throwing stuff around inside blender.
 
 ### 🦑 Generator/Builder
 
 * Characters & Faces:
-  * [MPFB](https://extensions.blender.org/add-ons/mpfb/) : Open-source human generator for Blender and complete rewrite of MakeHuman as a native add-on. [\[docs\]](https://static.makehumancommunity.org/mpfb.html) [![][repo]](https://github.com/makehumancommunity/mpfb2) ⭐ 706 | 🐛 71 | 🌐 Python | 📅 2026-11-12
-  * [CharMorph](https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543) : Open-source character creation tool for Blender, built as a modern rewrite of MB-Lab. [![][repo]](https://github.com/Upliner/CharMorph) ⭐ 581 | 🐛 30 | 🌐 Python | 📅 2025-05-29
+  * [MPFB](https://extensions.blender.org/add-ons/mpfb/) : Open-source human generator for Blender and complete rewrite of MakeHuman as a native add-on. [\[docs\]](https://static.makehumancommunity.org/mpfb.html) [![][repo]](https://github.com/makehumancommunity/mpfb2) ⭐ 711 | 🐛 71 | 🌐 Python | 📅 2026-11-12
+  * [CharMorph](https://blenderartists.org/t/charmorph-character-creation-tool-mb-lab-based/1252543) : Open-source character creation tool for Blender, built as a modern rewrite of MB-Lab. [![][repo]](https://github.com/Upliner/CharMorph) ⭐ 582 | 🐛 29 | 🌐 Python | 📅 2026-11-16
   * [FaceBuilder](https://keentools.io/download/facebuilder-for-blender) \[$] : Creates photorealistic 3D models of human faces and heads from a few reference photographs. [\[medium\]](https://medium.com/keentools/facebuilder-for-blender-guide-cbb10c717f7c)
 * Environment, Terrain & Vegetation:
-  * [Infinigen](https://infinigen.org) : Procedural generator of photorealistic 3D worlds, nature, and indoor scenes using real geometry, optimized for computer vision and 3D training data. [![][repo]](https://github.com/princeton-vl/infinigen) ⭐ 7,442 | 🐛 201 | 🌐 Python | 📅 2026-11-11
+  * [Infinigen](https://infinigen.org) : Procedural generator of photorealistic 3D worlds, nature, and indoor scenes using real geometry, optimized for computer vision and 3D training data. [![][repo]](https://github.com/princeton-vl/infinigen) ⭐ 7,450 | 🐛 201 | 🌐 Python | 📅 2026-11-11
   * [tree-gen](https://github.com/friggog/tree-gen) ⭐ 964 | 🐛 8 | 🌐 Python | 📅 2025-07-11 : Procedural tree model generator in Blender.
   * [Modular Tree](https://extensions.blender.org/add-ons/modular-tree/) : Node-based procedural tree and vegetation generator for Blender. [![][repo]](https://github.com/GoodPie/modular_tree) ⭐ 43 | 🐛 11 | 🌐 Python | 📅 2026-11-12
   * [Auto-Terrainer](https://unicornhunter.gumroad.com/l/AutoTerrainer) : Turns any low-poly mesh into realistic, customizable terrain such as mountains, valleys, islands, and deserts.
@@ -141,9 +141,9 @@
   * [Graswald Assets](https://store.gscatter.com/assets) : High-quality photorealistic vegetation, weed, and nature asset library, freely available for the Blender community.
   * [Snow Generator](https://superhivemarket.com/products/free-snow) : Procedural snow accumulation generator for 3D surfaces.
 * Architecture, Props & Data:
-  * [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator) ⭐ 7,866 | 🐛 30 | 🌐 Python | 📅 2024-05-25 : Procedurally generates 3D spaceships in Blender.
+  * [Spaceship Generator](https://github.com/a1studmuffin/SpaceshipGenerator) ⭐ 7,868 | 🐛 30 | 🌐 Python | 📅 2024-05-25 : Procedurally generates 3D spaceships in Blender.
   * [Sprytile](https://github.com/Sprytile/Sprytile) ⭐ 1,160 | 🐛 67 | 🌐 Python | 📅 2023-10-10 : Builds tile-based low-poly scenes in Blender with paint and map-editor tools. [\[more info\]](https://jeiel.itch.io/sprytile)
-  * [Blender Data Visualisation](https://github.com/Griperis/BlenderDataVis) ⭐ 329 | 🐛 1 | 🌐 Python | 📅 2026-03-28 : Loads data into Blender and generates 3D charts and visualizations.
+  * [Blender Data Visualisation](https://github.com/Griperis/BlenderDataVis) ⭐ 330 | 🐛 1 | 🌐 Python | 📅 2026-03-28 : Loads data into Blender and generates 3D charts and visualizations.
   * [Mesh Maze](https://extensions.blender.org/add-ons/mesh-maze/) : Generates procedural maze patterns over any mesh surface. [![][repo]](https://github.com/elfnor/mesh_maze) ⭐ 213 | 🐛 1 | 🌐 Python | 📅 2024-09-03
   * [Celtic Knot](https://github.com/BorisTheBrave/celtic-knot/wiki/Gallery) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2024-03-09 : Generates Bezier curves, pipes, and ribbons in elaborate weavings from a framework mesh.
   * [Data-FX](https://github.com/LandonFerg/Data-FX) ⭐ 51 | 🐛 2 | 🌐 Python | 📅 2025-03-28 : Loads and visualizes data within Blender from `.csv` files.
@@ -173,7 +173,7 @@
 ### 🧊 Modeling
 
 * All-in-One Toolkits & Interactive Creation:
-  * [fspy](https://fspy.io/) : Open-source camera matching app, extremely useful for modeling directly from a reference image. [(blender addon)](https://github.com/perarnia/fSpy-Blender) ⭐ 1,471 | 🐛 60 | 🌐 Python | 📅 2022-05-04
+  * [fspy](https://fspy.io/) : Open-source camera matching app, extremely useful for modeling directly from a reference image. [(blender addon)](https://github.com/perarnia/fSpy-Blender) ⭐ 1,472 | 🐛 60 | 🌐 Python | 📅 2022-05-04
   * [PolyQuilt](https://extensions.blender.org/add-ons/polyquilt-fork/) : Provides a few functions in edit mode like creating faces, knife tool, fan, edge-loops, etc. It does this with only the left-mouse-button. So no menu’s, no shortcuts. [\[more info\]](https://www.youtube.com/watch?v=VKLPHh3CYCU) [![][repo]](https://github.com/Dangry98/PolyQuilt-for-Blender-4.0) ⭐ 156 | 🐛 33 | 🌐 Python | 📅 2026-08-10
   * [MACHIN3tools](https://gumroad.com/l/MACHIN3tools) \[$] : Continuously evolving collection of blender tools and pie menus in a single customizable package. [![market]](https://superhivemarket.com/products/MACHIN3tools)
   * [KeKit](https://ke-code.xyz/scripts/kekit) : Brings some much needed functionality to Blender, with a whole array of production tools.
@@ -192,9 +192,9 @@
   * [Mesh Heal](https://blenderartists.org/t/mesh-heal/1117095) : Add-on for Blender, it includes additional Blender operators for healing surface meshes.
   * [Edit Split Normals](https://x.com/Oscurart/status/1243226933464268802) : Edit normals like meshes.
 * CAD:
-  * [CAD Sketcher](https://extensions.blender.org/add-ons/cad-sketcher/) : CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender by bringing CAD like tools, features and usability. [\[website\]](https://www.cadsketcher.com) [![][repo]](https://github.com/hlorus/CAD_Sketcher) ⭐ 3,475 | 🐛 10 | 🌐 Python | 📅 2026-11-16 ![][gpl]
-  * [Bonsai (formerly BlenderBIM)](https://extensions.blender.org/add-ons/bonsai/) : An add-on for beautiful, detailed, and data-rich OpenBIM with Blender. [\[website\]](https://bonsaibim.org) [![][repo]](https://github.com/IfcOpenShell/IfcOpenShell) ⭐ 2,958 | 🐛 2,100 | 🌐 C++ | 📅 2026-11-16 ![][gpl]
-  * [Sverchok](https://nortikin.github.io/sverchok/) : Powerful parametric tool for architects, allowing geometry to be programmed visually with nodes. [![][repo]](https://github.com/nortikin/sverchok) ⭐ 2,559 | 🐛 207 | 🌐 Python | 📅 2026-11-16 ![][gpl]
+  * [CAD Sketcher](https://extensions.blender.org/add-ons/cad-sketcher/) : CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender by bringing CAD like tools, features and usability. [\[website\]](https://www.cadsketcher.com) [![][repo]](https://github.com/hlorus/CAD_Sketcher) ⭐ 3,477 | 🐛 9 | 🌐 Python | 📅 2026-11-16 ![][gpl]
+  * [Bonsai (formerly BlenderBIM)](https://extensions.blender.org/add-ons/bonsai/) : An add-on for beautiful, detailed, and data-rich OpenBIM with Blender. [\[website\]](https://bonsaibim.org) [![][repo]](https://github.com/IfcOpenShell/IfcOpenShell) ⭐ 2,963 | 🐛 2,103 | 🌐 C++ | 📅 2026-11-16 ![][gpl]
+  * [Sverchok](https://nortikin.github.io/sverchok/) : Powerful parametric tool for architects, allowing geometry to be programmed visually with nodes. [![][repo]](https://github.com/nortikin/sverchok) ⭐ 2,560 | 🐛 208 | 🌐 Python | 📅 2026-11-16 ![][gpl]
   * [Building Tools](https://github.com/ranjian0/building_tools) ⭐ 1,522 | 🐛 27 | 🌐 Python | 📅 2026-09-24 : Building generation addon for blender.
   * [MeasureIt-ARCH](https://github.com/kevancress/MeasureIt_ARCH) ⭐ 322 | 🐛 85 | 🌐 Python | 📅 2026-03-20 : An expansion of Antonio Vazquez's MeasureIt addon to add features to create Architectural Drawings.
   * [JARCH-Vis](https://blenderartists.org/t/addon-jarch-vis/642607) : Add-on for Blender 3D that helps create commonly used object for architectural visualization. [![][repo]](https://github.com/BlendingJake/JARCH-Vis) ⭐ 137 | 🐛 3 | 🌐 Python | 📅 2025-12-29 ![][gpl]
@@ -202,18 +202,19 @@
   * [Fusion to Blender Bridge](https://github.com/inspace9018/fusion-to-blender-bridge) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-11-12 : One-click sync from Fusion 360 to Blender. Geometry updates on each CAD revision while materials, modifiers and hand-marked edges stay. ![][gpl]
   * [Archipack](https://gumroad.com/l/ZRMyP) \[$] : The Archipack addon for Blender contains a collection of parametric primitives for ArchViz. You can manipulate these primitives with a realtime on-screen editing interface.
 * 3D Printing & Manufacturing/CAM:
-  * [BlenderCAM](https://blendercam.com) : An Open Source solution for CAM with Blender 3D. [![][repo]](https://github.com/vilemduha/blendercam) ⭐ 589 | 🐛 26 | 🌐 G-code | 📅 2026-01-01 ![][gpl]
+  * [BlenderCAM](https://blendercam.com) : An Open Source solution for CAM with Blender 3D. [![][repo]](https://github.com/vilemduha/blendercam) ⭐ 590 | 🐛 26 | 🌐 G-code | 📅 2026-01-01 ![][gpl]
   * [Snapsplit](https://extensions.blender.org/add-ons/snapsplit/) : Automates cut and connection building workflows for complex 3D models larger than your printing bed, generating precise glue-free snap-fit connectors. [![][repo]](https://github.com/Betakontext/snapsplit) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-11-15
+  * [Click Joints](https://extensions.blender.org/add-ons/click-joints/) : Cuts printable ball-and-socket or pin joints into a mesh with clearance in mm and shows how far each ball joint bends before the parts collide. [![][repo]](https://github.com/thijsduinhouwer2002-coder/click-joints) ⭐ 0 | 🐛 0 | 🌐 Python | 📅 2026-11-16 ![][gpl]
   * [3D Print Toolbox](https://extensions.blender.org/add-ons/print3d-toolbox/) : Must-have utilities to clean and prepare models for 3D printing in Blender. ![][gpl]
 * Retopology/Remesh:
-  * [RetopoFlow](https://github.com/CGCookie/retopoflow) ⭐ 3,341 | 🐛 92 | 🌐 Python | 📅 2026-11-09 : A suite of retopology tools for Blender. [![market]](https://superhivemarket.com/products/retopoflow)
-  * [QRemeshify](https://github.com/ksami/QRemeshify) ⭐ 1,270 | 🐛 19 | 🌐 Python | 📅 2024-10-08 : Blender extension for an easy-to-use remesher that outputs high-quality quad topology. ![][gpl]
+  * [RetopoFlow](https://github.com/CGCookie/retopoflow) ⭐ 3,342 | 🐛 93 | 🌐 Python | 📅 2026-11-09 : A suite of retopology tools for Blender. [![market]](https://superhivemarket.com/products/retopoflow)
+  * [QRemeshify](https://github.com/ksami/QRemeshify) ⭐ 1,271 | 🐛 19 | 🌐 Python | 📅 2024-10-08 : Blender extension for an easy-to-use remesher that outputs high-quality quad topology. ![][gpl]
   * [AutoRemesher Blender Bridge](https://github.com/adriflex/autoremesher-blender-bridge) ⭐ 322 | 🐛 2 | 🌐 Python | 📅 2026-08-07 : Blender bridge add-on for the AutoRemesher auto-retopology tool.
   * [InstantMeshesRemesh](https://blenderartists.org/t/instant-meshes-remesh/1114982) : A suite of retopology tools for Blender. [![][repo]](https://github.com/knekke/blender_addons#instantmeshesremesh) ⭐ 122 | 🐛 0 | 🌐 Python | 📅 2024-01-10
   * [SpeedRetopo](https://gumroad.com/l/speedretopo) : Free add-on for Blender to make fast and easy retopology using Bsurface.
   * [Retopo MT](https://gumroad.com/l/cNGNb) : Tool for retopo, you use it in addition with other addons or tools in Blender, in Edit Mode.
 * Hard Surface:
-  * [EdgeFlow](https://extensions.blender.org/add-ons/edgeflow/) : This addon adds two operators to blender which both work on edgeloop selections. [![][repo]](https://github.com/BenjaminSauder/EdgeFlow) ⭐ 1,584 | 🐛 5 | 🌐 Python | 📅 2025-05-11
+  * [EdgeFlow](https://extensions.blender.org/add-ons/edgeflow/) : This addon adds two operators to blender which both work on edgeloop selections. [![][repo]](https://github.com/BenjaminSauder/EdgeFlow) ⭐ 1,585 | 🐛 5 | 🌐 Python | 📅 2025-05-11
   * [ND](https://extensions.blender.org/add-ons/nd/) : Free non-destructive & interactive hard surface toolkit (smart modifiers, booleans, and geometry management). [![][repo]](https://github.com/hugemenace/nd) ⭐ 139 | 🐛 51 | 🌐 Python | 📅 2026-07-22 [![market]](https://superhivemarket.com/products/nd-addon)
   * [KIT OPS](https://gumroad.com/l/kitops) : Can create objects and scenes with extreme efficiency and speed. Complex industrial designs can be generated in a single sitting.
   * [HardOps/Boxcutter](https://superhivemarket.com/products/hard-ops--boxcutter-ultimate-bundle) \[$] : [HardOps](https://superhivemarket.com/products/hardopsofficial), is intended to be a workflow assistant toolkit. [Boxcutter](https://superhivemarket.com/products/boxcutter), the most powerful boolean subsystem for blender.
@@ -251,11 +252,11 @@
 * [Shape Keys+](https://blenderartists.org/t/shape-keys/680636) : Adds a panel with extra options for creating, sorting, viewing, and driving shape keys.
 * [Stop-Mo](https://superhivemarket.com/products/stop-mo) : Transforms animations into a beautiful, hand-crafted stop motion style.
 * Rigging:
-  * [Wiggle Bones](https://blenderartists.org/t/wiggle-2/1454788) : Jiggle bone implementation for Blender with realistic physics. [![][repo]](https://github.com/shteeve3d/blender-wiggle-2) ⭐ 1,034 | 🐛 71 | 🌐 Python | 📅 2024-04-18 ![][gpl]
+  * [Wiggle Bones](https://blenderartists.org/t/wiggle-2/1454788) : Jiggle bone implementation for Blender with realistic physics. [![][repo]](https://github.com/shteeve3d/blender-wiggle-2) ⭐ 1,035 | 🐛 71 | 🌐 Python | 📅 2024-04-18 ![][gpl]
   * [Spring Bones](https://github.com/artellblender/springbones) ⭐ 814 | 🐛 1 | 🌐 Python | 📅 2026-03-29 : Blender addon to add spring/bouncy dynamic effect to bones.
   * [Rigacar](https://digicreatures.net/articles/rigacar.html) : Generate a complete rig as quickly as possible for standard car models. [![][repo]](https://github.com/digicreatures/rigacar) ⭐ 499 | 🐛 84 | 🌐 Python | 📅 2024-04-18 ![][gpl]
   * [Bone Widget](https://extensions.blender.org/add-ons/bone-widget/) : Blender addon to assist with making custom bone shapes. [![][repo]](https://github.com/waylow/boneWidget) ⭐ 203 | 🐛 3 | 🌐 Python | 📅 2026-11-08
-  * [BlenRig](https://github.com/jpbouza/BlenRig) ⭐ 182 | 🐛 8 | 🌐 Python | 📅 2026-11-16 : BlenRig is an Auto-rigging and skinning system. It provides the user with a Feature Film quality rig; including an advanced facial system. [![market]](https://superhivemarket.com/products/blenrig) ![][gpl]
+  * [BlenRig](https://github.com/jpbouza/BlenRig) ⭐ 183 | 🐛 8 | 🌐 Python | 📅 2026-11-16 : BlenRig is an Auto-rigging and skinning system. It provides the user with a Feature Film quality rig; including an advanced facial system. [![market]](https://superhivemarket.com/products/blenrig) ![][gpl]
   * [Rigid Body Bones](https://github.com/Pauan/blender-rigid-body-bones) ⭐ 154 | 🐛 13 | 🌐 Python | 📅 2023-05-03 : Blender addon which adds rigid body / spring physics to bones.
   * [CloudRig](https://extensions.blender.org/add-ons/cloudrig/) : Blender Studio's official feature-film quality Rigify feature set and rig generator for Blender. [![][repo]](https://projects.blender.org/extensions/cloudrig) ![][gpl]
   * [Rig on the Fly](https://gitlab.com/dypsloom/rigonthefly) : Rig on the Fly is a Blender dynamic rigging tool used to simplify and speed up animation workflow.
@@ -269,11 +270,11 @@
 
 ### 🗜 Render Engine
 
-* [DreamWork's MoonRay](https://openmoonray.org/) : MoonRay is a physically based path-tracing renderer; it includes a USD Hydra render delegate, multi-machine and cloud rendering via the Arras distributed computation framework. [![][repo]](https://github.com/OpenMoonRay/openmoonray) ⭐ 4,756 | 🐛 119 | 🌐 CMake | 📅 2026-11-13
-* [Mitsuba Renderer](https://www.mitsuba-renderer.org/) : Mitsuba 3 is a research-oriented retargetable rendering system for forward and inverse light transport simulation. [![][repo]](https://github.com/mitsuba-renderer/mitsuba3) ⭐ 2,984 | 🐛 152 | 🌐 C++ | 📅 2026-10-30 [(blender addon)](https://github.com/mitsuba-renderer/mitsuba-blender) ⭐ 375 | 🐛 33 | 🌐 Python | 📅 2026-09-23
-* [appleseed](https://appleseedhq.net/) : Open source, physically-based global illumination rendering engine primarily designed for animation and visual effects. [![][repo]](https://github.com/appleseedhq/appleseed) ⭐ 2,333 | 🐛 462 | 🌐 C++ | 📅 2026-06-11 [(blender addon)](https://github.com/appleseedhq/blenderseed) ⭐ 283 | 🐛 36 | 🌐 Python | 📅 2023-08-14 ![][mit]
-* [LuxCore](https://luxcorerender.org/) : LuxCoreRender is a physically based and unbiased rendering engine. It offers advanced features like accelerated rendering of indirect light and efficient rendering of caustics. [![][repo]](https://github.com/LuxCoreRender/LuxCore) ⭐ 1,351 | 🐛 109 | 🌐 C++ | 📅 2026-11-15 [(blender addon)](https://github.com/LuxCoreRender/BlendLuxCore) ⭐ 887 | 🐛 129 | 🌐 Python | 📅 2026-11-15 ![][gpl]
-* [Malt](https://malt3d.com/) : Malt is a non photorealistic rendering (NPR) framework. It offers fully customizable real-time rendering framework for animation and illustration. [![][repo]](https://github.com/bnpr/Malt) ⭐ 1,152 | 🐛 28 | 🌐 Python | 📅 2026-03-29 ![][mit]
+* [DreamWork's MoonRay](https://openmoonray.org/) : MoonRay is a physically based path-tracing renderer; it includes a USD Hydra render delegate, multi-machine and cloud rendering via the Arras distributed computation framework. [![][repo]](https://github.com/OpenMoonRay/openmoonray) ⭐ 4,756 | 🐛 119 | 🌐 CMake | 📅 2026-11-16
+* [Mitsuba Renderer](https://www.mitsuba-renderer.org/) : Mitsuba 3 is a research-oriented retargetable rendering system for forward and inverse light transport simulation. [![][repo]](https://github.com/mitsuba-renderer/mitsuba3) ⭐ 2,987 | 🐛 152 | 🌐 C++ | 📅 2026-10-30 [(blender addon)](https://github.com/mitsuba-renderer/mitsuba-blender) ⭐ 376 | 🐛 33 | 🌐 Python | 📅 2026-09-23
+* [appleseed](https://appleseedhq.net/) : Open source, physically-based global illumination rendering engine primarily designed for animation and visual effects. [![][repo]](https://github.com/appleseedhq/appleseed) ⭐ 2,334 | 🐛 463 | 🌐 C++ | 📅 2026-06-11 [(blender addon)](https://github.com/appleseedhq/blenderseed) ⭐ 283 | 🐛 36 | 🌐 Python | 📅 2023-08-14 ![][mit]
+* [LuxCore](https://luxcorerender.org/) : LuxCoreRender is a physically based and unbiased rendering engine. It offers advanced features like accelerated rendering of indirect light and efficient rendering of caustics. [![][repo]](https://github.com/LuxCoreRender/LuxCore) ⭐ 1,352 | 🐛 109 | 🌐 C++ | 📅 2026-11-15 [(blender addon)](https://github.com/LuxCoreRender/BlendLuxCore) ⭐ 886 | 🐛 129 | 🌐 Python | 📅 2026-11-15 ![][gpl]
+* [Malt](https://malt3d.com/) : Malt is a non photorealistic rendering (NPR) framework. It offers fully customizable real-time rendering framework for animation and illustration. [![][repo]](https://github.com/bnpr/Malt) ⭐ 1,153 | 🐛 27 | 🌐 Python | 📅 2026-11-16 ![][mit]
 * [AMD Radeon ProRender](https://gpuopen.com/radeon-prorender-suite/) : Is AMD’s powerful physically-based rendering engine that lets creative professionals use open industry standards to leverage GPU and CPU performance to produce stunningly photorealistic images in Blender. [![][repo]](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderBlenderAddon) ⭐ 556 | 🐛 83 | 🌐 Python | 📅 2026-09-10
   * [AMD Blender USD Hydra](https://gpuopen.com/learn/amd-usd-hydra-blender/) : With Pixar's USD system emerging as a powerful tool for 3D graphics pipelines and interchange, this addon is meant to add first class support for USD and the USD Hydra rendering system to Blender.
 * [Pixar's RenderMan](https://renderman.pixar.com/) : Physically-based render from Pixar. [\[more info\]](https://rmanwiki.pixar.com/display/RFB24) ![][mit]
@@ -286,7 +287,7 @@
 ### 🗺️ Texture/UV
 
 * UV Unwrapping, Packing & Texel Density:
-  * [TexTools](https://blenderartists.org/t/textools-for-blender/700811) : TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/franMarz/TexTools-Blender) ⭐ 2,405 | 🐛 59 | 🌐 Python | 📅 2024-12-02
+  * [TexTools](https://blenderartists.org/t/textools-for-blender/700811) : TexTools is a Free addon for Blender 3D with a set of professional UV and Texturing tools. [![][repo]](https://github.com/franMarz/TexTools-Blender) ⭐ 2,406 | 🐛 59 | 🌐 Python | 📅 2024-12-02
   * [DreamUV](https://github.com/leukbaars/DreamUV) ⭐ 1,810 | 🐛 45 | 🌐 Python | 📅 2026-04-17 : Collection of tools that allow you to manipulate UVs in the 3D viewport.
   * [Magic UV](https://extensions.blender.org/add-ons/magic-uv/) : This is a blender add-on Magic UV consisted of many UV manipulation features which Blender lack of. [\[docs\]](https://nutti.github.io/Magic-UV/) [![][repo]](https://github.com/nutti/Magic-UV) ⭐ 650 | 🐛 13 | 🌐 Python | 📅 2024-09-03
   * [Texel Density Checker](https://extensions.blender.org/add-ons/texel-density-checker/) : Tools for calculate, set and copy texel density. [![][repo]](https://github.com/mrven/Blender-Texel-Density-Checker) ⭐ 463 | 🐛 7 | 🌐 Python | 📅 2026-07-06
@@ -301,7 +302,7 @@
   * [Bystedts Blender Baker](https://3dbystedt.gumroad.com/l/JAqLT) : This addon streamlines the texture baking process in Blender.
   * [EZ Baker](https://blenderartists.org/t/ez-baker/1245869) : An easier alternative to blender's default bake system. [![][repo]](https://gitlab.com/AquaticNightmare/ez_baker)
 * Material Libraries, Layer Painting & Bridges:
-  * [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) : A addon to manage texture layers for EEVEE and Cycles renderer. [![][repo]](https://github.com/ucupumar/ucupaint) ⭐ 2,328 | 🐛 106 | 🌐 Python | 📅 2026-11-16
+  * [UcuPaint](https://extensions.blender.org/add-ons/ucupaint/) : A addon to manage texture layers for EEVEE and Cycles renderer. [![][repo]](https://github.com/ucupumar/ucupaint) ⭐ 2,329 | 🐛 106 | 🌐 Python | 📅 2026-11-16
   * [Lily Surface Scrapper](https://github.com/eliemichel/LilySurfaceScraper) ⭐ 625 | 🐛 70 | 🌐 Cython | 📅 2026-06-19 : Import shaders in Blender from a single URL.
   * [Layer Painter](https://joshuaknauber.gumroad.com/l/layerpainter) : Allows you to use a Layer-System for creating materials with painting and procedurals. The layers include masks, filters and much more. Even though the addon is designed with a PBR workflow in mind, you can also use it for stylized painting. [![][repo]](https://github.com/joshuaKnauber/layer_painter) ⭐ 383 | 🐛 13 | 🌐 Python | 📅 2023-12-12
   * [Flow Map Painter](https://clemensbeute.gumroad.com/l/heZDT) : This blender add-on provides a brush tool for flow map painting. [![][repo]](https://github.com/ClemensBeute/flow_map_painter) ⭐ 71 | 🐛 2 | 🌐 Python | 📅 2025-06-28
@@ -313,14 +314,14 @@
 
 ### 🎮 GameDev
 
-* [Blender For Unreal Engine](https://github.com/xavier150/Blender-For-UnrealEngine-Addons) ⭐ 2,720 | 🐛 11 | 🌐 Python | 📅 2026-11-16 : This Add-on allows you to export content created with Blender to Unreal Engine 4.
+* [Blender For Unreal Engine](https://github.com/xavier150/Blender-For-UnrealEngine-Addons) ⭐ 2,721 | 🐛 11 | 🌐 Python | 📅 2026-11-16 : This Add-on allows you to export content created with Blender to Unreal Engine 4.
 * [MeshSync](https://github.com/unity3d-jp/MeshSync) ⭐ 1,681 | 🐛 23 | 🌐 C# | 📅 2024-12-06 : Live link plugin for Unity. supported blender and other 3D software.
 * [SourceIO](https://github.com/REDxEYE/SourceIO) ⭐ 991 | 🐛 14 | 🌐 Python | 📅 2026-11-14 : Blender 4.0+ add-on for importing Valve Source and Source 2 engine textures, models, and maps. ![][mit]
-* [Blenvy](https://github.com/kaosat-dev/Blenvy) ⭐ 848 | 🐛 50 | 🌐 Python | 📅 2026-03-05 : Blender-centric workflow and component editor for the Rust-based Bevy game engine. ![][mit]
+* [Blenvy](https://github.com/kaosat-dev/Blenvy) ⭐ 849 | 🐛 50 | 🌐 Python | 📅 2026-03-05 : Blender-centric workflow and component editor for the Rust-based Bevy game engine. ![][mit]
 * [Mixamo Converter](https://github.com/enziop/mixamo_converter) ⭐ 823 | 🐛 13 | 🌐 Python | 📅 2024-03-01 : Blender Plugin that Converts Mixamo animations to work in Unreal Engine 4 with root motion.
 * [Anvil Level Design](https://github.com/alexjhetherington/anvil-level-design) ⭐ 688 | 🐛 25 | 🌐 Python | 📅 2026-10-24 : TrenchBroom-inspired level design toolset for Blender with automated material assignment and UV management. ![][gpl]
 * [Mr Mannequins Tools](https://github.com/Jim-Kroovy/mr_mannequins_tools) ⭐ 559 | 🐛 0 | 🌐 Python | 📅 2026-11-04 : Blender add-on that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine!
-* [CC/iClone Blender Tools](https://github.com/soupday/cc_blender_tools) ⭐ 530 | 🐛 113 | 🌐 Python | 📅 2026-11-16 : Add-on for importing and auto-setting up Reallusion Character Creator 3/4 and iClone 7/8 characters in Blender. ![][gpl]
+* [CC/iClone Blender Tools](https://github.com/soupday/cc_blender_tools) ⭐ 530 | 🐛 113 | 🌐 Python | 📅 2026-11-17 : Add-on for importing and auto-setting up Reallusion Character Creator 3/4 and iClone 7/8 characters in Blender. ![][gpl]
 * [Asset Creation Toolset](https://extensions.blender.org/add-ons/act-game-asset-creation-toolset/) : Asset Creation Toolset is many tools for game asset creation. [![][repo]](https://github.com/mrven/Blender-Asset-Creation-Toolset) ⭐ 374 | 🐛 10 | 🌐 Python | 📅 2026-07-29
 * [V-HACD](https://blenderartists.org/t/v-hacd-tool-for-creating-accurate-convex-collision-meshes-for-real-time-physics-in-games-etc/1156822) : Library decomposes a 3D surface into a set of near convex parts. [![][repo]](https://github.com/andyp123/blender_vhacd) ⭐ 115 | 🐛 6 | 🌐 Python | 📅 2023-12-04
 * [Blender Tools by Epic Games](https://www.unrealengine.com/en-US/blog/download-our-new-blender-addons) : Blender addons that improve the game development workflow between Blender and Unreal. *Send to Unreal, UE to Rigify.*
@@ -330,29 +331,29 @@
 * [WoT Tank Viewer](https://bitbucket.org/SkepticalFox/bigworld-blender-tools-wot-wowp-wows) : Package of plugins for Blender, which allows you view 3D models from World of Tanks.
 * Game Engine:
   * [Armory3D](https://armory3d.org/) : Open-source 3D game engine with full Blender integration. [![][repo]](https://github.com/armory3d/armory) ⭐ 3,374 | 🐛 399 | 🌐 C++ | 📅 2026-11-08
-  * [UPBGE](https://upbge.org/) : Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge) ⭐ 1,865 | 🐛 135 | 🌐 C++ | 📅 2026-11-15
+  * [UPBGE](https://upbge.org/) : Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself. [![][repo]](https://github.com/UPBGE/upbge) ⭐ 1,868 | 🐛 135 | 🌐 C++ | 📅 2026-11-17
 
 ### 🤖 AI/MCP
 
 * Agentic & MCP:
-  * [BlenderMCP](https://github.com/ahujasid/mcp-for-blender) ⭐ 34,610 | 🐛 60 | 🌐 Python | 📅 2026-11-15 : Connects Blender to Claude AI and other MCP clients through the Model Context Protocol for prompt-assisted 3D modeling, scene creation, and manipulation. ![][mit]
-  * [Blender Agent Skills](https://github.com/EL4CTEO/blender-skills) ⭐ 1,274 | 🐛 1 | 🌐 Python | 📅 2026-11-13 : Professional Blender workflows packaged as Agent Skills for Claude Code, Cursor, Copilot, and Gemini CLI. ![][mit]
-  * [Scenario for Blender](https://github.com/scenario-labs/blender-plugin) ⭐ 1,030 | 🐛 54 | 🌐 Python | 📅 2026-11-13 : AI image, video, 3D, and PBR material generation in the viewport, plus a local MCP server for agents. ![][gpl]
-  * [AnyScene](https://github.com/apekshik/anyscene) ⭐ 376 | 🐛 1 | 🌐 Python | 📅 2026-11-04 : Multi-agent pipeline that generates complete, photorealistic 3D Blender scenes from a text prompt, handling prop generation, room layout, atmosphere, and cinematic rendering. [\[video demo\]](https://x.com/apekshik/status/2116638903923073290) ![][mit]
-  * [AI Art Engine](https://github.com/Justin-sky/ai-art-engine) ⭐ 275 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 : Node-based game asset studio with a built-in Blender TCP bridge and 24 dedicated MCP tools for 3D mesh modeling, armature rigging, PBR baking, and glTF/FBX export to Unity, Godot, and Cocos. ![][gpl]
-  * [ComfyUI-Blender](https://github.com/alexisrolland/ComfyUI-Blender) ⭐ 223 | 🐛 13 | 🌐 Python | 📅 2026-08-21 : Blender add-on to run ComfyUI workflows directly inside Blender for AI texture, image, and 3D asset generation.
-  * [blender-kiln](https://github.com/elithril/blender-kiln) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-11-16 : A Claude Code plugin that drives Blender through an MCP server to build, texture, optimize, and export game-ready assets from a text brief or a photo. ![][mit]
-  * [Construct for Blender](https://github.com/rtmandreyev/construct/tree/main/hosts/blender) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2026-11-13 : Imports constructs written by AI agents (scene JSON, worlds or glTF) with their named parts, joints and assembly, with sidebar controls for build, opening, hologram to solid and finish, and keyframed reveals. [![][repo]](https://github.com/rtmandreyev/construct) ⭐ 137 | 🐛 0 | 🌐 Python | 📅 2026-11-13
+  * [BlenderMCP](https://github.com/ahujasid/mcp-for-blender) ⭐ 34,760 | 🐛 65 | 🌐 Python | 📅 2026-11-15 : Connects Blender to Claude AI and other MCP clients through the Model Context Protocol for prompt-assisted 3D modeling, scene creation, and manipulation. ![][mit]
+  * [Blender Agent Skills](https://github.com/EL4CTEO/blender-skills) ⭐ 1,771 | 🐛 2 | 🌐 Python | 📅 2026-11-13 : Professional Blender workflows packaged as Agent Skills for Claude Code, Cursor, Copilot, and Gemini CLI. ![][mit]
+  * [Scenario for Blender](https://github.com/scenario-labs/blender-plugin) ⭐ 1,037 | 🐛 54 | 🌐 Python | 📅 2026-11-13 : AI image, video, 3D, and PBR material generation in the viewport, plus a local MCP server for agents. ![][gpl]
+  * [AnyScene](https://github.com/apekshik/anyscene) ⭐ 380 | 🐛 1 | 🌐 Python | 📅 2026-11-04 : Multi-agent pipeline that generates complete, photorealistic 3D Blender scenes from a text prompt, handling prop generation, room layout, atmosphere, and cinematic rendering. [\[video demo\]](https://x.com/apekshik/status/2116638903923073290) ![][mit]
+  * [AI Art Engine](https://github.com/Justin-sky/ai-art-engine) ⭐ 276 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-13 : Node-based game asset studio with a built-in Blender TCP bridge and 24 dedicated MCP tools for 3D mesh modeling, armature rigging, PBR baking, and glTF/FBX export to Unity, Godot, and Cocos. ![][gpl]
+  * [ComfyUI-Blender](https://github.com/alexisrolland/ComfyUI-Blender) ⭐ 224 | 🐛 13 | 🌐 Python | 📅 2026-08-21 : Blender add-on to run ComfyUI workflows directly inside Blender for AI texture, image, and 3D asset generation.
+  * [blender-kiln](https://github.com/elithril/blender-kiln) ⭐ 222 | 🐛 0 | 🌐 Python | 📅 2026-11-16 : A Claude Code plugin that drives Blender through an MCP server to build, texture, optimize, and export game-ready assets from a text brief or a photo. ![][mit]
+  * [Construct for Blender](https://github.com/rtmandreyev/construct/tree/main/hosts/blender) ⭐ 139 | 🐛 0 | 🌐 Python | 📅 2026-11-13 : Imports constructs written by AI agents (scene JSON, worlds or glTF) with their named parts, joints and assembly, with sidebar controls for build, opening, hologram to solid and finish, and keyframed reveals. [![][repo]](https://github.com/rtmandreyev/construct) ⭐ 139 | 🐛 0 | 🌐 Python | 📅 2026-11-13
   * [DESIGN:OS 3D Blender](https://github.com/jangtrinh/design-os-3d-blender) ⭐ 118 | 🐛 9 | 🌐 Python | 📅 2026-11-16 : Agent toolkit that lets AI coding agents build models in Blender with a `bpy` knowledge base, an execution contract, and a 3D-print production gate.
   * [FastMCP for Blender](https://github.com/sandraschi/blender-mcp) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2026-10-29 : Headless Blender automation server via FastMCP with 41 tools covering mesh, VSE, Grease Pencil, and VRM workflows. ![][mit]
 * Generative 3D, Textures & Video:
-  * [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) ⭐ 15,436 | 🐛 254 | 🌐 Python | 📅 2025-10-28 : High-resolution open-source 3D asset creation system (Text/Image-to-3D geometry and PBR textures) with an official Blender add-on.
-  * [Dream Textures](https://github.com/carson-katri/dream-textures) ⭐ 8,248 | 🐛 15 | 🌐 Python | 📅 2026-09-17 : Stable Diffusion built-in to the Blender shader editor, image editor, and compositor. ![][gpl]
-  * [Pallaidium](https://github.com/tin2tin/Pallaidium) ⭐ 1,555 | 🐛 5 | 🌐 Python | 📅 2026-11-14 : Generative AI movie studio integrated into the Blender Video Sequence Editor (VSE) for text, image, audio, and video generation. ![][gpl]
+  * [Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) ⭐ 15,461 | 🐛 254 | 🌐 Python | 📅 2025-10-28 : High-resolution open-source 3D asset creation system (Text/Image-to-3D geometry and PBR textures) with an official Blender add-on.
+  * [Dream Textures](https://github.com/carson-katri/dream-textures) ⭐ 8,250 | 🐛 15 | 🌐 Python | 📅 2026-09-17 : Stable Diffusion built-in to the Blender shader editor, image editor, and compositor. ![][gpl]
+  * [Pallaidium](https://github.com/tin2tin/Pallaidium) ⭐ 1,556 | 🐛 5 | 🌐 Python | 📅 2026-11-14 : Generative AI movie studio integrated into the Blender Video Sequence Editor (VSE) for text, image, audio, and video generation. ![][gpl]
   * [AI Render](https://github.com/benrugg/AI-Render) ⭐ 1,234 | 🐛 26 | 🌐 Python | 📅 2025-12-28 : Stable Diffusion in Blender. This add-on renders an AI generated image based on a text prompt and your scene.
-  * [AssetFurnace](https://github.com/Bingeljell/image-to-3dlab) ⭐ 1,197 | 🐛 19 | 🌐 Python | 📅 2026-11-16 : Complete open-source image-to-3D pipeline generating textured, rigged, and animated game characters locally via TRELLIS.2 and Hunyuan3D.
+  * [AssetFurnace](https://github.com/Bingeljell/image-to-3dlab) ⭐ 1,204 | 🐛 9 | 🌐 Python | 📅 2026-11-17 : Complete open-source image-to-3D pipeline generating textured, rigged, and animated game characters locally via TRELLIS.2 and Hunyuan3D.
 * Synthetic Data & Vision AI:
-  * [BlenderProc](https://github.com/DLR-RM/BlenderProc) ⭐ 3,798 | 🐛 118 | 🌐 Python | 📅 2026-01-20 : A procedural Blender pipeline for photorealistic training image generation. ![][gpl]
+  * [BlenderProc](https://github.com/DLR-RM/BlenderProc) ⭐ 3,800 | 🐛 118 | 🌐 Python | 📅 2026-01-20 : A procedural Blender pipeline for photorealistic training image generation. ![][gpl]
   * [Kubric](https://github.com/google-research/kubric) ⭐ 2,855 | 🐛 79 | 🌐 Jupyter Notebook | 📅 2026-05-21 : Data generation pipeline by Google Research for creating semi-realistic synthetic multi-object videos with rich ground-truth annotations using Blender and PyBullet.
   * [BlenderSynth](https://github.com/OllieBoyne/BlenderSynth) ⭐ 100 | 🐛 0 | 🌐 Python | 📅 2026-04-05 : Blender scripting for generating synthetic datasets at scale.
 * Benchmarks & Prompts:
@@ -395,9 +396,9 @@
 ### 📦 Pipeline, I/O & 3D Scanning
 
 * Import & Software Bridges:
-  * [Universal Scene Description (OpenUSD)](https://docs.blender.org/manual/en/latest/files/import_export/usd.html) : Official Blender manual for OpenUSD scene import/export workflows ([OpenUSD](https://openusd.org/)). [![][repo]](https://github.com/PixarAnimationStudios/OpenUSD) ⭐ 7,650 | 🐛 1,006 | 🌐 C++ | 📅 2026-11-14
-  * [VRM Add-on for Blender](https://extensions.blender.org/add-ons/vrm/) : Adds VRM humanoid avatar import, export, shading, and rigging capabilities to Blender. [![][repo]](https://github.com/saturday06/VRM-Addon-for-Blender) ⭐ 1,742 | 🐛 94 | 🌐 Python | 📅 2026-11-16 ![][mit]
-  * Format Importers : [Daz Importer](https://bitbucket.org/Diffeomorphic/import_daz), [glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) ⭐ 1,682 | 🐛 256 | 🌐 Python | 📅 2026-11-11, [Rhinoceros 3D (`.3dm`)](https://blenderartists.org/t/import-rhinoceros-3d-files-into-blender/1136070), [SVG Shape Keys](https://github.com/Shriinivas/shapekeyimport) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2022-12-12, [XPS/XNALara](https://github.com/johnzero7/XNALaraMesh) ⭐ 600 | 🐛 37 | 🌐 Python | 📅 2023-11-15, [Animated GIF (Bligify)](https://github.com/doakey3/Bligify) ⭐ 282 | 🐛 21 | 🌐 Python | 📅 2021-07-30.
+  * [Universal Scene Description (OpenUSD)](https://docs.blender.org/manual/en/latest/files/import_export/usd.html) : Official Blender manual for OpenUSD scene import/export workflows ([OpenUSD](https://openusd.org/)). [![][repo]](https://github.com/PixarAnimationStudios/OpenUSD) ⭐ 7,653 | 🐛 1,006 | 🌐 C++ | 📅 2026-11-14
+  * [VRM Add-on for Blender](https://extensions.blender.org/add-ons/vrm/) : Adds VRM humanoid avatar import, export, shading, and rigging capabilities to Blender. [![][repo]](https://github.com/saturday06/VRM-Addon-for-Blender) ⭐ 1,745 | 🐛 93 | 🌐 Python | 📅 2026-11-16 ![][mit]
+  * Format Importers : [Daz Importer](https://bitbucket.org/Diffeomorphic/import_daz), [glTF-Blender-IO](https://github.com/KhronosGroup/glTF-Blender-IO) ⭐ 1,682 | 🐛 258 | 🌐 Python | 📅 2026-11-16, [Rhinoceros 3D (`.3dm`)](https://blenderartists.org/t/import-rhinoceros-3d-files-into-blender/1136070), [SVG Shape Keys](https://github.com/Shriinivas/shapekeyimport) ⭐ 50 | 🐛 0 | 🌐 Python | 📅 2022-12-12, [XPS/XNALara](https://github.com/johnzero7/XNALaraMesh) ⭐ 600 | 🐛 37 | 🌐 Python | 📅 2023-11-15, [Animated GIF (Bligify)](https://github.com/doakey3/Bligify) ⭐ 282 | 🐛 21 | 🌐 Python | 📅 2021-07-30.
   * [Sketchfab Blender Addon](https://github.com/sketchfab/blender-plugin) ⭐ 1,358 | 🐛 20 | 🌐 Python | 📅 2026-11-10 : Browse, import, and upload 3D models directly between Sketchfab and Blender.
   * [MifthTools](https://github.com/mifth/mifthtools) ⭐ 926 | 🐛 7 | 🌐 Python | 📅 2025-09-28 : Mesh exchange tools for 3DCoat, Houdini, and Modo.
   * [LibSM64-Blender](https://github.com/libsm64/libsm64-blender) ⭐ 591 | 🐛 28 | 🌐 Python | 📅 2026-01-22 : Integrates `libsm64` physics and Mario 64 character workflows into Blender.
@@ -408,18 +409,18 @@
   * [Export Paper Model from Blender](https://extensions.blender.org/add-ons/export-paper-model/) : Unfolds 3D meshes into printable SVG/PDF papercraft patterns. [\[docs\]](https://addam.github.io/Export-Paper-Model-from-Blender/) [![][repo]](https://github.com/addam/Export-Paper-Model-from-Blender) ⭐ 447 | 🐛 41 | 🌐 Python | 📅 2026-05-26
   * [Batex](https://github.com/jayanam/batex) ⭐ 246 | 🐛 14 | 🌐 Python | 📅 2024-08-17 : Batch-exports selected objects as FBX compatible with Unity's coordinate and scaling system.
   * [Fbx Format Converter](https://github.com/BobbyAnguelov/FbxFormatConverter) ⭐ 229 | 🐛 0 | 🌐 C++ | 📅 2021-11-30 : Converts binary FBX files to ASCII and vice versa.
-  * [Export Object Dimensions](https://extensions.blender.org/add-ons/export-object-dimensions/) : Exports width, height, depth, and volume of selected objects to TXT, CSV, or JSON with unit conversion. [![][repo]](https://github.com/rafaeloliveiraz/blender-dimexport) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-08-23 ![][gpl]
+  * [Export Object Dimensions](https://extensions.blender.org/add-ons/export-object-dimensions/) : Exports width, height, depth, and volume of selected objects to TXT, CSV, or JSON with unit conversion. [![][repo]](https://github.com/rafaeloliveiraz/blender-dimexport) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-08-23 ![][gpl]
 * Photogrammetry & Gaussian Splatting:
   * [Photogrammetry Importer](https://github.com/SBCV/Blender-Addon-Photogrammetry-Importer) ⭐ 1,382 | 🐛 12 | 🌐 Python | 📅 2026-02-16 : Imports reconstruction outputs from COLMAP, Meshroom, OpenMVG, and VisualSFM into Blender.
-  * [3DGS Render by KIRI Engine](https://github.com/Kiri-Innovation/3dgs-render-blender-addon) ⭐ 1,263 | 🐛 10 | 🌐 Python | 📅 2026-11-11 : Open-source add-on for importing, editing, deforming, and rendering 3D Gaussian Splatting (`.ply`) scenes directly inside Blender. ![][gpl]
+  * [3DGS Render by KIRI Engine](https://github.com/Kiri-Innovation/3dgs-render-blender-addon) ⭐ 1,265 | 🐛 10 | 🌐 Python | 📅 2026-11-11 : Open-source add-on for importing, editing, deforming, and rendering 3D Gaussian Splatting (`.ply`) scenes directly inside Blender. ![][gpl]
   * [Point Cloud Visualizer](https://github.com/uhlik/bpy#point-cloud-visualizer-for-blender-280) ⭐ 1,092 | 🐛 0 | 🌐 Python | 📅 2023-07-04 : Displays, edits, filters, and renders colored PLY point clouds in Blender.
   * [Gaussian Splatting Blender Add-on](https://github.com/ReshotAI/gaussian-splatting-blender-addon) ⭐ 592 | 🐛 31 | 🌐 Python | 📅 2024-08-30 : Lightweight utility to import and visualize 3D Gaussian Splats inside the Blender viewport. ![][mit]
   * [Gauss Cannon](https://github.com/warpgatelabs/gauss-cannon) ⭐ 121 | 🐛 1 | 🌐 Python | 📅 2026-10-14 : Utilities for generating and managing 3D Gaussian Splats directly from Blender scenes. ![][gpl]
-  * [Gaussian Splat to Nodes](https://github.com/gokayfem/gaussian-splat-to-blender-nodes) ⭐ 85 | 🐛 0 | 🌐 Python | 📅 2026-10-24 : Toolkit for reconstructing 3D Gaussian Splats as editable Geometry Nodes meshes and shader setups in Blender. ![][mit]
+  * [Gaussian Splat to Nodes](https://github.com/gokayfem/gaussian-splat-to-blender-nodes) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2026-10-24 : Toolkit for reconstructing 3D Gaussian Splats as editable Geometry Nodes meshes and shader setups in Blender. ![][mit]
   * [blender\_kitti](https://github.com/risteon/blender_kitti) ⭐ 83 | 🐛 0 | 🌐 Python | 📅 2025-09-15 : Renders large LiDAR point clouds and voxel grids in Blender.
 * Geographic & Maps:
-  * [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,637 | 🐛 336 | 🌐 Python | 📅 2025-12-20 : Bridges Blender with geographic data (shapefiles, DEM elevation, satellite imagery, and OpenStreetMap).
-  * [Maps Models Importer](https://github.com/eliemichel/MapsModelsImporter) ⭐ 2,826 | 🐛 133 | 🌐 Python | 📅 2024-04-21 : Imports 3D city captures from Google Maps into Blender. [\[more info\]](https://blog.exppad.com/article/importing-actual-3d-models-from-google-maps)
+  * [BlenderGIS](https://github.com/domlysz/BlenderGIS) ⭐ 9,643 | 🐛 336 | 🌐 Python | 📅 2025-12-20 : Bridges Blender with geographic data (shapefiles, DEM elevation, satellite imagery, and OpenStreetMap).
+  * [Maps Models Importer](https://github.com/eliemichel/MapsModelsImporter) ⭐ 2,827 | 🐛 133 | 🌐 Python | 📅 2024-04-21 : Imports 3D city captures from Google Maps into Blender. [\[more info\]](https://blog.exppad.com/article/importing-actual-3d-models-from-google-maps)
   * [blender-osm](https://gumroad.com/l/blender-osm) : One-click download and import of OpenStreetMap buildings and terrain for Blender.
 * Web, XR & Collaboration:
   * [Shot Manager by Ubisoft](https://github.com/ubisoft/shotmanager) ⭐ 219 | 🐛 10 | 🌐 Python | 📅 2023-08-23 : Introduces a production shot entity and previz workflow inside Blender scenes.
@@ -505,7 +506,7 @@
 
 ### 🤸🏾‍♀️ Mocap/Animation
 
-* [Bandai Namco Research Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) ⭐ 3,393 | 🐛 10 | 🌐 Python | 📅 2023-07-04 : The R\&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
+* [Bandai Namco Research Motiondataset](https://github.com/BandaiNamcoResearchInc/Bandai-Namco-Research-Motiondataset) ⭐ 3,395 | 🐛 10 | 🌐 Python | 📅 2023-07-04 : The R\&D division of game publisher and developer Bandai Namco, has released a massive library of free motion-capture data for research and personal use.
 * [Mixamo](https://www.mixamo.com/) : Animate 3D characters for games, film, and more.
 * [ActorCore](https://actorcore.reallusion.com/free) : Motion-capture library from Reallusion.
 * [Carnegie-Mellon University Graphics Lab Motion Capture Database BVH conversions](https://sites.google.com/a/cgspeed.com/cgspeed/motion-capture) : Contains 2500 free human motion captures.
@@ -520,6 +521,7 @@
   * [cgbookcase](https://www.cgbookcase.com/textures) : Discover a library of high-quality PBR textures. Free for every purpose, forever. Some Blender tutorials here and there. [![][zero]](https://creativecommons.org/publicdomain/zero/1.0/)
   * [3DAssets.one](https://3dassets.one/) : Search-engine which allows you to explore the largest free texture sites all at once.
   * [3DTextures.me](https://3dtextures.me/) : Free seamless PBR textures. [![][zero]](https://3dtextures.me/about/)
+  * [CC0 Materials](https://cc0materials.com/) : Free PBR materials up to 4K with OpenGL and DirectX normal maps and a 3D preview. [![][zero]](https://cc0materials.com/license)
   * [FreePBR.com](https://freepbr.com/) : Free PBR materials and texture files.
   * [twirl](https://twirl.tools/dashboard) : Free library of high quality PBR materials. Unlimited downloads with no signup.
   * [ShareTextures](https://www.sharetextures.com/) : Free High Quality Material Archive for everybody. [![][zero]](https://www.sharetextures.com/p/license)
@@ -592,7 +594,7 @@
 
 ### 🛰 Space
 
-* [NASA-3D-Resources](https://science.nasa.gov/3d-resources/) : Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources) ⭐ 3,871 | 🐛 5 | 📅 2025-06-03
+* [NASA-3D-Resources](https://science.nasa.gov/3d-resources/) : Here you'll find a growing collection of 3D models, textures, and images from inside NASA. All of these resources are free to download and use. [![][repo]](https://github.com/nasa/NASA-3D-Resources) ⭐ 3,873 | 🐛 5 | 📅 2025-06-03
 * [Solar Textures](https://www.solarsystemscope.com/textures/) : These textures represent real planetary maps in equirectangular projection. Textures in this pack are based on NASA elevation and imagery data. ![][by]
 * [Celestia Motherlode](http://www.celestiamotherlode.net/) : Repository for various addons like textures, models or celestial objects.
 * NASA : [James Webb Images](https://science.nasa.gov/mission/webb/multimedia/images/) ([flickr](https://www.flickr.com/photos/nasawebbtelescope/)), [Hubble Image Gallery](https://science.nasa.gov/mission/hubble/multimedia/hubble-images/) ([flickr](https://www.flickr.com/photos/nasahubble/)), [Astronomy Picture of the Day](https://science.nasa.gov/apod/archive/).
@@ -637,7 +639,7 @@
 
 ### 🌂 Useful
 
-* [MatCaps](https://github.com/nidorx/matcaps) ⭐ 3,401 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-13 : Huge library of matcap PNG textures organized by color.
+* [MatCaps](https://github.com/nidorx/matcaps) ⭐ 3,402 | 🐛 3 | 🌐 JavaScript | 📅 2025-10-13 : Huge library of matcap PNG textures organized by color.
 * [Blender-Colab](https://github.com/ynshung/blender-colab) ⭐ 236 | 🐛 14 | 🌐 Jupyter Notebook | 📅 2026-09-16 : Render on ***Google Colab***, this is a Python script that allows you to render Blender scene using Google Colaboratory. Only Cycles.
 * [Sheep it Render Farm](https://www.sheepit-renderfarm.com/) : Free distributed renderfarm for Blender.
 * Daily Blender Tips : [blender.daily](https://www.instagram.com/blender.daily/), [Blender Secrets](https://www.instagram.com/blendersecretsdotorg/).
@@ -657,14 +659,14 @@
 ### 3D Tools
 
 * Mesh Processing, Retopology & Voxels:
-  * [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,298 | 🐛 99 | 🌐 C++ | 📅 2022-01-03 : Interactive field-aligned mesh generator.
-  * [MeshLab](https://www.meshlab.net/) : Open source system for processing and editing 3D triangular meshes. [![][repo]](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,918 | 🐛 197 | 🌐 C++ | 📅 2026-11-02
-  * [AutoRemesher](https://github.com/huxingyi/autoremesher) ⭐ 3,696 | 🐛 37 | 🌐 C++ | 📅 2026-10-07 : Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
-  * [Goxel](https://github.com/guillaumechereau/goxel) ⭐ 3,238 | 🐛 133 | 🌐 C++ | 📅 2026-07-26 : Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
+  * [Instant Meshes](https://github.com/wjakob/instant-meshes) ⭐ 6,300 | 🐛 99 | 🌐 C++ | 📅 2022-01-03 : Interactive field-aligned mesh generator.
+  * [MeshLab](https://www.meshlab.net/) : Open source system for processing and editing 3D triangular meshes. [![][repo]](https://github.com/cnr-isti-vclab/meshlab) ⭐ 5,921 | 🐛 197 | 🌐 C++ | 📅 2026-11-02
+  * [AutoRemesher](https://github.com/huxingyi/autoremesher) ⭐ 3,697 | 🐛 37 | 🌐 C++ | 📅 2026-10-07 : Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.
+  * [Goxel](https://github.com/guillaumechereau/goxel) ⭐ 3,240 | 🐛 133 | 🌐 C++ | 📅 2026-07-26 : Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.
   * [Magica Voxel](https://ephtracy.github.io/index.html?page=mv_main) : A free lightweight 8-bit voxel art editor and GPU based interactive path tracing renderer.
   * [aerialod](https://ephtracy.github.io/index.html?page=aerialod) : A free interactive path tracing renderer for height maps.
 * Characters, Sculpting, Rigging & Animation:
-  * [Make Human](http://www.makehumancommunity.org/) : Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender) ⭐ 230 | 🐛 21 | 🌐 Python | 📅 2024-11-23) [![][repo]](https://github.com/makehumancommunity/makehuman) ⭐ 1,654 | 🐛 74 | 🌐 Python | 📅 2024-08-19
+  * [Make Human](http://www.makehumancommunity.org/) : Open-source tool for making 3D characters. ([blender addon](https://github.com/makehumancommunity/makehuman-plugin-for-blender) ⭐ 230 | 🐛 21 | 🌐 Python | 📅 2024-11-23) [![][repo]](https://github.com/makehumancommunity/makehuman) ⭐ 1,656 | 🐛 74 | 🌐 Python | 📅 2024-08-19
   * [VRoid Studio](https://vroid.com/en/studio) : A 3D character maker that specializes in Japanese anime-like expressions.
   * [AccuRIG](https://actorcore.reallusion.com/auto-rig) : Free application designed for fast and easy character rigging.
   * [Cascadeur](https://cascadeur.com/) : Standalone software for creating keyframe animation of 3D characters, humanoid or otherwise. *Free for early adopters.*
@@ -686,7 +688,7 @@
 ### Various Tools
 
 * Reference Boards & Media Review:
-  * [DJV](https://grizzlypeak3d.github.io/DJV/) : Professional image sequence, media review software for VFX, animation, and film production. [![][repo]](https://github.com/grizzlypeak3d/DJV) ⭐ 1,171 | 🐛 69 | 🌐 C++ | 📅 2026-11-16
+  * [DJV](https://grizzlypeak3d.github.io/DJV/) : Professional image sequence, media review software for VFX, animation, and film production. [![][repo]](https://github.com/grizzlypeak3d/DJV) ⭐ 1,172 | 🐛 68 | 🌐 C++ | 📅 2026-11-17
   * [Allusion](https://allusion-app.github.io/) : Organizer for your entire collection of references, inspiration and any other kinds of images. [![][repo]](https://github.com/allusion-app/Allusion) ⭐ 909 | 🐛 92 | 🌐 TypeScript | 📅 2024-04-23
   * [PureRef](https://www.pureref.com/) : Simple way to view and organize your reference images.
   * [Exr-IO](https://www.exr-io.com/) : Robust and exact solution for dealing with multi-layer EXR pictures. It supports Cryptomatte.
@@ -694,10 +696,10 @@
   * [PickPicPack](https://p4ymak.gumroad.com/l/pickpicpack) : Tiny yet powerful utility for packaging multiple images to new one with custom aspect ratio and size.
 * Compositing, Shaders, Particles & Fractals:
   * [Processing](https://processing.org/) : Flexible software sketchbook and a language for learning how to code within the context of the visual arts. [![][repo]](https://github.com/processing/processing) ⭐ 6,475 | 🐛 0 | 🌐 Java | 📅 2026-07-15
-  * [Natron](https://natrongithub.github.io/) : Open Source Compositing Software For VFX and Motion Graphics. [![][repo]](https://github.com/NatronGitHub/Natron) ⭐ 5,719 | 🐛 265 | 🌐 C++ | 📅 2026-11-16
-  * [F3D](https://f3d.app) : Fast and minimalist open source cross-platform 3D viewer. Support many fileformats and rendering style. [![][repo]](https://github.com/f3d-app/f3d) ⭐ 5,071 | 🐛 320 | 🌐 C++ | 📅 2026-11-16
-  * [SHADERed](https://github.com/dfranx/SHADERed) ⭐ 4,813 | 🐛 120 | 🌐 C++ | 📅 2023-09-22 : Lightweight tool for creating and testing HLSL and GLSL shaders.
-  * [Possumwood](https://github.com/martin-pr/possumwood) ⭐ 305 | 🐛 4 | 🌐 C++ | 📅 2021-07-18 : Graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface.
+  * [Natron](https://natrongithub.github.io/) : Open Source Compositing Software For VFX and Motion Graphics. [![][repo]](https://github.com/NatronGitHub/Natron) ⭐ 5,726 | 🐛 243 | 🌐 C++ | 📅 2026-11-17
+  * [F3D](https://f3d.app) : Fast and minimalist open source cross-platform 3D viewer. Support many fileformats and rendering style. [![][repo]](https://github.com/f3d-app/f3d) ⭐ 5,072 | 🐛 319 | 🌐 C++ | 📅 2026-11-17
+  * [SHADERed](https://github.com/dfranx/SHADERed) ⭐ 4,814 | 🐛 120 | 🌐 C++ | 📅 2023-09-22 : Lightweight tool for creating and testing HLSL and GLSL shaders.
+  * [Possumwood](https://github.com/martin-pr/possumwood) ⭐ 306 | 🐛 4 | 🌐 C++ | 📅 2021-07-18 : Graph-based procedural sandbox, implementing concepts of graph-based visual programming in a simple interface.
   * [JWildfire](https://github.com/thargor6/JWildfire) ⭐ 259 | 🐛 24 | 🌐 Java | 📅 2026-08-30 : Open-source flame fractal generator and image processing software.
   * [Mandelbulb3D](https://github.com/thargor6/mb3d) ⭐ 204 | 🐛 8 | 🌐 Pascal | 📅 2023-03-05 : Free open-source software created for 3D fractal imaging.
   * [CineShader](https://cineshader.com/editor) : CineShader is a real-time 3D shader visualiser. It leverages the *Shadertoy* API to bring thousands of existing shader artworks into a cinematic 3D environment.
@@ -705,20 +707,20 @@
   * [Effekseer](https://effekseer.github.io/en/) : Open source particle effect creating tool.
   * [Particle Illusion](https://borisfx.com/products/particle-illusion/) : Free GPU-accelerated 2D particle generator.
 * Blender Tools & Custom Builds:
-  * [Goo Engine](https://github.com/dillongoostudios/goo-engine) ⭐ 1,486 | 🐛 62 | 🌐 C++ | 📅 2026-11-14 : Custom open-source build of Blender by DillonGoo Studios tailored for 3D anime and Non-Photorealistic Rendering (NPR). ![][gpl]
-  * [Blender Launcher V2](https://github.com/Victor-IX/Blender-Launcher-V2) ⭐ 743 | 🐛 59 | 🌐 Python | 📅 2026-11-16 : Standalone client for managing official builds of Blender.
-  * [Mixar](https://www.mixar.app/) : AI-powered 3D suite built as a custom fork of Blender with an integrated chat agent (Mixie), layer-based texture painting, and generative 3D tools. [![][repo]](https://github.com/Mixar-AI/mixar-app) ⭐ 609 | 🐛 12 | 🌐 Python | 📅 2026-11-16 ![][gpl]
+  * [Goo Engine](https://github.com/dillongoostudios/goo-engine) ⭐ 1,488 | 🐛 62 | 🌐 C++ | 📅 2026-11-14 : Custom open-source build of Blender by DillonGoo Studios tailored for 3D anime and Non-Photorealistic Rendering (NPR). ![][gpl]
+  * [Blender Launcher V2](https://github.com/Victor-IX/Blender-Launcher-V2) ⭐ 744 | 🐛 60 | 🌐 Python | 📅 2026-11-16 : Standalone client for managing official builds of Blender.
+  * [Mixar](https://www.mixar.app/) : AI-powered 3D suite built as a custom fork of Blender with an integrated chat agent (Mixie), layer-based texture painting, and generative 3D tools. [![][repo]](https://github.com/Mixar-AI/mixar-app) ⭐ 610 | 🐛 12 | 🌐 Python | 📅 2026-11-16 ![][gpl]
   * [BlenderUpdater](https://github.com/overmindstudios/BlenderUpdater) ⭐ 136 | 🐛 5 | 🌐 Python | 📅 2026-06-02 : Download and install nightly builds with one click.
   * [Blender Manager](https://github.com/verlorengest/BlenderManager) ⭐ 53 | 🐛 1 | 🌐 Python | 📅 2026-08-28 : Auto-Update, Project Management and Time Tracking, Addon Control, Version Handling, Render Management, and More.
   * [BlenderUpdaterCLI](https://github.com/overmindstudios/BlenderUpdaterCLI) ⭐ 25 | 🐛 7 | 🌐 Python | 📅 2026-06-02 : Command line version of BlenderUpdater.
 
 ### Photogrammetry
 
-* [COLMAP](https://colmap.github.io/) : Reconstruct 3D models from ordered or unordered image collections automatically. [![][repo]](https://github.com/colmap/colmap) ⭐ 13,230 | 🐛 799 | 🌐 C++ | 📅 2026-11-12
-* [Meshroom](https://alicevision.org/#meshroom) : Free, open-source 3D Photogrammetry Software. [![][repo]](https://github.com/alicevision/meshroom) ⭐ 13,096 | 🐛 550 | 🌐 Python | 📅 2026-11-16
-* [SuperSplat](https://superspl.at/editor) : Free browser-based 3D Gaussian Splat editor for inspecting, cropping, cleaning, and exporting splat scenes. [![][repo]](https://github.com/playcanvas/supersplat) ⭐ 10,654 | 🐛 114 | 🌐 TypeScript | 📅 2026-11-16 ![][mit]
-* [gsplat](https://docs.gsplat.studio/main/) : Open-source CUDA-accelerated rasterization library for training and rendering 3D Gaussian Splats. [![][repo]](https://github.com/nerfstudio-project/gsplat) ⭐ 5,904 | 🐛 404 | 🌐 Python | 📅 2026-09-19
-* [Brush](https://github.com/ArthurBrussee/brush) ⭐ 5,299 | 🐛 58 | 🌐 Rust | 📅 2026-10-03 : Cross-platform 3D reconstruction and Gaussian Splatting training engine supporting real-time rendering.
+* [COLMAP](https://colmap.github.io/) : Reconstruct 3D models from ordered or unordered image collections automatically. [![][repo]](https://github.com/colmap/colmap) ⭐ 13,235 | 🐛 802 | 🌐 C++ | 📅 2026-11-12
+* [Meshroom](https://alicevision.org/#meshroom) : Free, open-source 3D Photogrammetry Software. [![][repo]](https://github.com/alicevision/meshroom) ⭐ 13,096 | 🐛 549 | 🌐 Python | 📅 2026-11-17
+* [SuperSplat](https://superspl.at/editor) : Free browser-based 3D Gaussian Splat editor for inspecting, cropping, cleaning, and exporting splat scenes. [![][repo]](https://github.com/playcanvas/supersplat) ⭐ 10,670 | 🐛 116 | 🌐 TypeScript | 📅 2026-11-17 ![][mit]
+* [gsplat](https://docs.gsplat.studio/main/) : Open-source CUDA-accelerated rasterization library for training and rendering 3D Gaussian Splats. [![][repo]](https://github.com/nerfstudio-project/gsplat) ⭐ 5,907 | 🐛 404 | 🌐 Python | 📅 2026-09-19
+* [Brush](https://github.com/ArthurBrussee/brush) ⭐ 5,305 | 🐛 60 | 🌐 Rust | 📅 2026-10-03 : Cross-platform 3D reconstruction and Gaussian Splatting training engine supporting real-time rendering.
 * [MicMac](https://github.com/micmacIGN/micmac) ⭐ 938 | 🐛 117 | 🌐 C++ | 📅 2026-10-21 : Free open-source photogrammetric suite that can be used in a variety of 3D reconstruction scenarios.
 * [3DF Zephyr Free](https://www.3dflow.net/3df-zephyr-free/) : Is free version of 3DF Zephyr photogrammetry software for personal use. It comes with some limitations.
 * [RealityCapture](https://www.capturingreality.com/) \[$] : Create virtual reality scenes, textured 3D meshes, orthographic projections, geo-referenced maps and much more from images and/or laser scans completely automatically.
@@ -727,9 +729,9 @@
 
 ### Texture/Material
 
-* [Material Maker](https://rodzilla.itch.io/material-maker) : Simple procedural materials generation tool. [![][repo]](https://github.com/RodZill4/material-maker) ⭐ 6,264 | 🐛 316 | 🌐 GDScript | 📅 2026-11-11
-* [ArmorPaint](https://armorpaint.org/) : Open-Source 3D PBR Texture Painting Software. [![][repo]](https://github.com/armory3d/armorpaint) ⭐ 5,502 | 🐛 75 | 🌐 C | 📅 2026-11-16
-* [Materialize](https://boundingboxsoftware.com/materialize/) : Stand alone tool for creating materials from images. [![][repo]](https://github.com/BoundingBoxSoftware/Materialize) ⭐ 1,833 | 🐛 47 | 🌐 C# | 📅 2024-06-24
+* [Material Maker](https://rodzilla.itch.io/material-maker) : Simple procedural materials generation tool. [![][repo]](https://github.com/RodZill4/material-maker) ⭐ 6,267 | 🐛 316 | 🌐 GDScript | 📅 2026-11-11
+* [ArmorPaint](https://armorpaint.org/) : Open-Source 3D PBR Texture Painting Software. [![][repo]](https://github.com/armory3d/armorpaint) ⭐ 5,504 | 🐛 77 | 🌐 C | 📅 2026-11-16
+* [Materialize](https://boundingboxsoftware.com/materialize/) : Stand alone tool for creating materials from images. [![][repo]](https://github.com/BoundingBoxSoftware/Materialize) ⭐ 1,834 | 🐛 47 | 🌐 C# | 📅 2024-06-24
 * [AwesomeBump](https://github.com/kmkolasinski/AwesomeBump) ⭐ 1,785 | 🐛 18 | 🌐 C++ | 📅 2023-01-11 : Generate normal, height, specular or ambient occlusion textures from a single image.
 * [NVIDIA Texture Tools Exporter](https://developer.nvidia.com/texture-tools-exporter) : Allows users to create highly compressed texture files (that stay small both on disk and in memory) directly from image sources using NVIDIA’s CUDA-accelerated Texture Tools compressor technology.
 * [TextureLab](https://njbrown.itch.io/texturelab) : Tool designed to make procedural texture generation.
@@ -755,7 +757,7 @@
 
 ### Point Cloud/LiDAR Data
 
-* [USGS/Entwine](https://usgs.entwine.io/) : This website provides Potree and Plasio.js interfaces to the AWS USGS LiDAR Public Dataset. [![][repo]](https://github.com/hobuinc/usgs-lidar) ⭐ 172 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-15
+* [USGS/Entwine](https://usgs.entwine.io/) : This website provides Potree and Plasio.js interfaces to the AWS USGS LiDAR Public Dataset. [![][repo]](https://github.com/hobuinc/usgs-lidar) ⭐ 172 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-16
 * [OpenTopography](https://portal.opentopography.org/dataCatalog?formats=0) : Collaborative data repository for LiDAR users.
 * [NOAA’s Data Access Viewer](https://coast.noaa.gov/dataviewer/#/lidar/search/) : This online tool allows a user to search for and download lidar, imagery, and land cover data.
 * [United States Interagency Elevation Inventory](https://coast.noaa.gov/inventory/) : Collaborative effort of the USGS and NOAA with contributions from other federal agencies.
@@ -777,7 +779,7 @@
 
 ### Painting
 
-* [Krita](https://krita.org/en/) : Professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone. [![][repo]](https://github.com/KDE/krita) ⭐ 10,753 | 🐛 0 | 🌐 C++ | 📅 2026-11-16
+* [Krita](https://krita.org/en/) : Professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone. [![][repo]](https://github.com/KDE/krita) ⭐ 10,760 | 🐛 0 | 🌐 C++ | 📅 2026-11-17
 * [HEAVYPAINT](https://www.heavypaint.com/) : Simple app designed for graphic painting. The UI is streamlined for fluid, happy painting with as little friction as possible.
 
 <p align="right"><sub><a href="#table">↑ Back to top</a></sub></p>
@@ -973,15 +975,15 @@
 * Posts:
   * [Visualizing Complex Numbers in Blender](https://medium.com/@behreajj/visualizing-complex-numbers-in-blender-d60bd32f20b9) : This tutorial introduces how to make patterns with complex numbers in Blender.
 * IDE, Debugging & Testing:
-  * [fake-bpy-module](https://github.com/nutti/fake-bpy-module) ⭐ 1,829 | 🐛 11 | 🌐 Python | 📅 2026-08-09 : Fake Blender Python API (`bpy`) modules for autocompletion and type checking in VS Code, PyCharm, and other IDEs.
+  * [fake-bpy-module](https://github.com/nutti/fake-bpy-module) ⭐ 1,828 | 🐛 11 | 🌐 Python | 📅 2026-08-09 : Fake Blender Python API (`bpy`) modules for autocompletion and type checking in VS Code, PyCharm, and other IDEs.
   * [Blender Development in VS Code](https://marketplace.visualstudio.com/items?itemName=JacquesLucke.blender-development) : Visual Studio Code extension for building, running, and hot-reloading Blender add-ons. [![][repo]](https://github.com/JacquesLucke/blender_vscode) ⭐ 746 | 🐛 71 | 🌐 TypeScript | 📅 2026-07-10
-  * [blender-debugger-for-vscode](https://github.com/AlansCodeLog/blender-debugger-for-vscode) ⭐ 326 | 🐛 3 | 🌐 Python | 📅 2022-12-20 : Add-on for remote debugging Blender Python scripts with VS Code.
+  * [blender-debugger-for-vscode](https://github.com/AlansCodeLog/blender-debugger-for-vscode) ⭐ 327 | 🐛 3 | 🌐 Python | 📅 2022-12-20 : Add-on for remote debugging Blender Python scripts with VS Code.
   * [blender-addon-tester](https://github.com/nangtani/blender-addon-tester) ⭐ 72 | 🐛 19 | 🌐 Python | 📅 2025-03-20 : Pytest test harness for running automated add-on tests against defined Blender versions.
   * [The Code Editor](https://blenderartists.org/t/essential-text-editor-add-ons-for-coders/1163857) : Community thread curating tools and add-ons that modernize Blender's Text Editor.
 * Frameworks, Packaging & APIs:
   * [blender-scripting](https://github.com/njanakiev/blender-scripting) ⭐ 825 | 🐛 2 | 🌐 Python | 📅 2021-09-28 : Collection of practical Python scripting examples for Blender.
   * [EasyBPY](https://gumroad.com/l/easybpy) : Human-readable abstraction layer that simplifies common `bpy` operations. [![][repo]](https://github.com/curtisjamesholt/EasyBPY) ⭐ 453 | 🐛 6 | 🌐 Python | 📅 2025-07-20
-  * [Geometry Script](https://github.com/carson-katri/geometry-script) ⭐ 388 | 🐛 33 | 🌐 Python | 📅 2026-11-09 : Python scripting API for building and managing complex Geometry Nodes trees in code.
+  * [Geometry Script](https://github.com/carson-katri/geometry-script) ⭐ 388 | 🐛 33 | 🌐 Python | 📅 2026-11-16 : Python scripting API for building and managing complex Geometry Nodes trees in code.
   * [BlenderAddonPackageTool](https://github.com/xzhuah/BlenderAddonPackageTool) ⭐ 216 | 🐛 2 | 🌐 Python | 📅 2025-12-10 : Framework for developing Blender add-ons and extensions with hot-swap testing, dependency packaging, auto class loading, and i18n. ![][mit]
   * [3DN BIP](https://github.com/bonjorno7/3dn-bip) ⭐ 63 | 🐛 4 | 🌐 Python | 📅 2023-07-26 : Fast drop-in replacement for `bpy.utils.previews` supporting arbitrary image sizes.
   * [`bpy` on PyPI](https://pypi.org/project/bpy/) : Official Blender-as-a-Python-module package for running headless Blender pipelines directly inside Python environments.
@@ -1000,28 +1002,28 @@
 
 ### Learn Python
 
-* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 335,141 | 🐛 26 | 🌐 Python | 📅 2026-11-16 : A curated list of awesome Python frameworks, libraries, software and resources.
-* [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 226,169 | 🐛 118 | 🌐 Python | 📅 2026-11-13.
+* [Awesome Python](https://github.com/vinta/awesome-python) ⭐ 335,373 | 🐛 19 | 🌐 Python | 📅 2026-11-17 : A curated list of awesome Python frameworks, libraries, software and resources.
+* [All Algorithms implemented in Python](https://github.com/TheAlgorithms/Python) ⭐ 226,192 | 🐛 121 | 🌐 Python | 📅 2026-11-13.
 
 ### Learn Computer Graphics
 
-* [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,529 | 🐛 4 | 🌐 C++ | 📅 2026-07-29 : Tiny Renderer or how OpenGL works: software rendering in 500 lines of code.
+* [tinyrenderer](https://github.com/ssloy/tinyrenderer/wiki) ⭐ 24,533 | 🐛 4 | 🌐 C++ | 📅 2026-07-29 : Tiny Renderer or how OpenGL works: software rendering in 500 lines of code.
 * [tinyraytracer](https://github.com/ssloy/tinyraytracer/wiki) ⭐ 5,393 | 🐛 16 | 🌐 C++ | 📅 2023-07-07 : Understandable RayTracing in 256 lines of bare C++.
 * [Computer Graphics from scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/00-introduction.html) : This book will not teach you how to use OpenGL or DirectX; instead, it can teach you how OpenGL and DirectX work. [![][repo]](https://github.com/ggambetta/computer-graphics-from-scratch) ⭐ 1,319 | 🐛 3 | 📅 2025-09-13
 * [awesome-graphics](https://github.com/ericjang/awesome-graphics) ⭐ 1,124 | 🐛 3 | 📅 2020-02-29 : Curated list of computer graphics tutorials and resources.
-* [Awesome Computer Graphics](https://github.com/luisdnsantos/awesome-computer-graphics) ⭐ 1,053 | 🐛 2 | 📅 2021-07-17 : A curated list of awesome stuff to learn computer graphics.
+* [Awesome Computer Graphics](https://github.com/luisdnsantos/awesome-computer-graphics) ⭐ 1,054 | 🐛 2 | 📅 2021-07-17 : A curated list of awesome stuff to learn computer graphics.
 
 ### Related Awesome Lists
 
-* [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 41,916 | 🐛 254 | 🌐 JavaScript | 📅 2024-07-28 : The best design tools and plugins for everything.
-* [Awesome Design](https://github.com/gztchan/awesome-design) ⭐ 17,789 | 🐛 77 | 📅 2024-07-04 : Curated design resources.
-* [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) ⭐ 14,850 | 🐛 146 | 🌐 Ruby | 📅 2026-02-11 : A collection of links for free stock photography, video and Illustration websites.
-* [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,225 | 🐛 21 | 📅 2024-07-04 : A resource repository for 3D machine learning.
-* [GameDev Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,200 | 🐛 50 | 📅 2026-04-10 : A wonderful list of Game Development resources.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,225 | 🐛 41 | 📅 2026-08-25 : A curated list of good stuff related to the development of games.
-* [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) ⭐ 2,101 | 🐛 11 | 📅 2026-11-02 : A curated list of awesome 3D printing resources.
-* [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide) ⭐ 1,542 | 🐛 1 | 🌐 Python | 📅 2025-06-27 : A guide covering Photogrammetry including the applications, libraries and tools that will make you a better and more efficient Photogrammetry development.
-* [3D Resources](https://github.com/devanshutak25/3d-resources) ⭐ 1,027 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-16 : Curated CC0 reference hub for 3D, VFX, and game development covering 3,400+ tools, assets, and tutorials.
+* [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 41,933 | 🐛 255 | 🌐 JavaScript | 📅 2024-07-28 : The best design tools and plugins for everything.
+* [Awesome Design](https://github.com/gztchan/awesome-design) ⭐ 17,790 | 🐛 77 | 📅 2024-07-04 : Curated design resources.
+* [Awesome Stock Resources](https://github.com/neutraltone/awesome-stock-resources) ⭐ 14,855 | 🐛 145 | 🌐 Ruby | 📅 2026-02-11 : A collection of links for free stock photography, video and Illustration websites.
+* [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) ⭐ 10,227 | 🐛 21 | 📅 2024-07-04 : A resource repository for 3D machine learning.
+* [GameDev Resources](https://github.com/Kavex/GameDev-Resources) ⭐ 7,211 | 🐛 52 | 📅 2026-04-10 : A wonderful list of Game Development resources.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 3,226 | 🐛 42 | 📅 2026-08-25 : A curated list of good stuff related to the development of games.
+* [awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing) ⭐ 2,102 | 🐛 11 | 📅 2026-11-02 : A curated list of awesome 3D printing resources.
+* [Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide) ⭐ 1,543 | 🐛 1 | 🌐 Python | 📅 2025-06-27 : A guide covering Photogrammetry including the applications, libraries and tools that will make you a better and more efficient Photogrammetry development.
+* [3D Resources](https://github.com/devanshutak25/3d-resources) ⭐ 1,030 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-16 : Curated CC0 reference hub for 3D, VFX, and game development covering 3,400+ tools, assets, and tutorials.
 * [VFX Good Night Reading](https://github.com/jtomori/vfx_good_night_reading) ⭐ 529 | 🐛 1 | 🌐 HTML | 📅 2022-10-24 : Curated collection of good reading about VFX and CG.
 * [Awesome Astra Prompts](https://github.com/TripoGrowthLab/awesome-astra-prompts) ⭐ 381 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-16 : Curated 3D prompt collection and examples for generative AI models, games, and Blender scenes.
 * [awesome-3d-human](https://github.com/lijiaman/awesome-3d-human) ⭐ 257 | 🐛 1 | 📅 2023-10-30 : A curated list of papers & resources linked to 3D Human research including face, body, hand and motion modeling.
@@ -1228,4 +1230,4 @@ Your contributions are always welcome! ^\_^ If you want to contribute to this li
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
