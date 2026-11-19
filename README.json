@@ -6,216 +6,613 @@
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "FLIP Fluids",
-              "description": "Powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "The FLIP Fluids addon is a tool that helps you set up, run, and render high quality liquid fluid effects all within Blender, the free and open source 3D creation suite.",
-                "homepage": "https://superhivemarket.com/products/flipfluids?ref=2685",
-                "id": 102030660,
-                "language": "C++",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-10T16:25:17Z",
-                "open_issues": 4,
-                "owner": "rlguy",
-                "repo": "Blender-FLIP-Fluids",
-                "stars": 1986,
-                "topics": [
-                  "blender-addon",
-                  "computer-graphics",
-                  "flip-fluids",
-                  "fluid",
-                  "fluid-engine",
-                  "fluid-simulation",
-                  "fluid-solver",
-                  "simulation",
-                  "simulator"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
+              "node_type": "group",
+              "title": "All-in-One Toolkits & Interactive Creation:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fSpy-Blender",
+                  "description": "Official importer bringing fSpy camera-matching projects into Blender for modeling from reference images.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Official fSpy importer for Blender",
+                    "homepage": "https://fspy.io",
+                    "id": 157233650,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2022-05-04T07:25:15Z",
+                    "open_issues": 60,
+                    "owner": "perarnia",
+                    "repo": "fSpy-Blender",
+                    "stars": 1473,
+                    "topics": [
+                      "blender",
+                      "blender-addon",
+                      "camera-calibration",
+                      "fspy"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Maxivz’s Interactive Tools",
+                  "description": "Context-sensitive modeling toolkit including smart selection, transformation, and Drop It surface alignment.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Interactive Tools for Blender",
+                    "homepage": "https://maxivz.github.io/interactivetoolsblenderdocs.github.io/",
+                    "id": 193817382,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-19T05:20:20Z",
+                    "open_issues": 18,
+                    "owner": "maxivz",
+                    "repo": "interactivetoolsblender",
+                    "stars": 185,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "PolyQuilt",
+                  "description": "Fast Edit Mode modeling and retopology tool using left-mouse gestures for creating faces, knife cuts, edge loops, and fans without menus or shortcuts. [more info]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Blender Lowpoly support addon for Blender2.8",
+                    "homepage": "https://sakana3.github.io/PolyQuilt/",
+                    "id": 752248406,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-11-19T07:50:56Z",
+                    "open_issues": 33,
+                    "owner": "Dangry98",
+                    "repo": "PolyQuilt-for-Blender-4.0",
+                    "stars": 156,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-14T11:47:22.828Z"
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "MolecularNodes",
-              "description": "Import, animate, and simulate molecular biology and structural data inside Blender using Geometry Nodes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Toolbox for molecular animations in Blender, powered by Geometry Nodes.",
-                "homepage": "https://bradyajohnston.github.io/MolecularNodes/",
-                "id": 485261976,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-16T14:11:48Z",
-                "open_issues": 71,
-                "owner": "BradyAJohnston",
-                "repo": "MolecularNodes",
-                "stars": 1414,
-                "topics": [
-                  "biochemistry",
-                  "blender",
-                  "blender-addon",
-                  "geometry-nodes",
-                  "mmcif",
-                  "molecular",
-                  "molecular-dynamics",
-                  "molecular-graphics",
-                  "molecular-modeling",
-                  "molecular-structures",
-                  "pdb",
-                  "protein",
-                  "protein-data-bank",
-                  "protein-structure",
-                  "protein-visualization",
-                  "proteins",
-                  "sciart",
-                  "structural-biology",
-                  "visualisation"
-                ]
-              },
-              "first_seen": "2026-11-01T11:31:27.400Z"
+              "node_type": "group",
+              "title": "Edit Mode, Curves & Modifiers:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Tissue",
+                  "description": "Computational design and tessellation toolkit for generating procedural mesh patterns.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Tissue - Blender's add-on for computational design",
+                    "homepage": null,
+                    "id": 38377985,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-10-31T14:52:50Z",
+                    "open_issues": 14,
+                    "owner": "alessandro-zomparelli",
+                    "repo": "tissue",
+                    "stars": 1088,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Mesh Align Plus",
+                  "description": "Precisely align, move, and measure+match objects and mesh parts in 3D scenes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.",
+                    "homepage": null,
+                    "id": 48326540,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2024-08-10T00:48:33Z",
+                    "open_issues": 12,
+                    "owner": "egtwobits",
+                    "repo": "mesh_mesh_align_plus",
+                    "stars": 655,
+                    "topics": [
+                      "3d",
+                      "3dprinting",
+                      "addon",
+                      "alignment",
+                      "blender",
+                      "cad",
+                      "extension",
+                      "precision",
+                      "python",
+                      "rotation",
+                      "transformations"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BezierUtility",
+                  "description": "Precision toolkit for editing, splitting, offsetting, and measuring Bezier curves in Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Blender Add-on with Bezier Utility Ops",
+                    "homepage": null,
+                    "id": 188526960,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-19T12:40:58Z",
+                    "open_issues": 17,
+                    "owner": "Shriinivas",
+                    "repo": "blenderbezierutils",
+                    "stars": 632,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "JewelCraft",
+                  "description": "Jewelry design toolkit with gem placement, weights, and measurement tools.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Blender add-on for jewelry design",
+                    "homepage": null,
+                    "id": 35378382,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-10T18:25:23Z",
+                    "open_issues": 0,
+                    "owner": "mrachinskiy",
+                    "repo": "jewelcraft",
+                    "stars": 615,
+                    "topics": [
+                      "blender-addon",
+                      "jewelry"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BY-GEN",
+                  "description": "Simplifies creating non-destructive, procedural, and generative modeling styles with modifiers in Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Generative Modeling Toolkit for Blender",
+                    "homepage": "https://www.youtube.com/curtisholt",
+                    "id": 218101609,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-05-12T20:03:41Z",
+                    "open_issues": 0,
+                    "owner": "curtisjamesholt",
+                    "repo": "BY-GEN-public",
+                    "stars": 250,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Modeling Cloth",
+                  "description": "Real-time cloth-like mesh deformation directly inside Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Create real-time cloth-like behavior in meshes in Blender",
+                    "homepage": null,
+                    "id": 100496721,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-28T16:33:58Z",
+                    "open_issues": 20,
+                    "owner": "the3dadvantage",
+                    "repo": "Modeling-Cloth",
+                    "stars": 250,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-14T11:47:22.828Z"
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Phobos",
-              "description": "An add-on for Blender allowing to create URDF, SDF and SMURF robot models.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.",
-                "homepage": null,
-                "id": 22949566,
-                "language": "Python",
-                "license": "BSD-3-Clause",
-                "last_commit": "2026-07-14T07:36:27Z",
-                "open_issues": 15,
-                "owner": "dfki-ric",
-                "repo": "phobos",
-                "stars": 916,
-                "topics": [
-                  "blender",
-                  "gazebo",
-                  "mars",
-                  "python",
-                  "robot",
-                  "sdformat",
-                  "smurf",
-                  "urdf"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
+              "node_type": "group",
+              "title": "CAD:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "CAD Sketcher",
+                  "description": "Constraint-based 2D CAD sketching and precision modeling toolkit inside Blender. [website]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Constraint-based geometry sketcher for blender",
+                    "homepage": "https://cadsketcher.com",
+                    "id": 390692642,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-16T16:12:47Z",
+                    "open_issues": 9,
+                    "owner": "hlorus",
+                    "repo": "CAD_Sketcher",
+                    "stars": 3478,
+                    "topics": [
+                      "3d",
+                      "blender",
+                      "geometry",
+                      "modeling"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Bonsai (formerly BlenderBIM)",
+                  "description": "Native OpenBIM authoring and IFC management suite for creating architectural and structural data in Blender. [website]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Open source IFC library and geometry engine",
+                    "homepage": null,
+                    "id": 40473201,
+                    "language": "C++",
+                    "license": "LGPL-3.0",
+                    "last_commit": "2026-11-19T13:57:30Z",
+                    "open_issues": 2103,
+                    "owner": "IfcOpenShell",
+                    "repo": "IfcOpenShell",
+                    "stars": 2973,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sverchok",
+                  "description": "Node-based parametric visual programming system for computational architecture and geometry.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Sverchok is Node-based visual programming for parametric 3D modeling and computational geometry in Blender",
+                    "homepage": "http://nortikin.github.io/sverchok/",
+                    "id": 13890450,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-18T18:07:35Z",
+                    "open_issues": 207,
+                    "owner": "nortikin",
+                    "repo": "sverchok",
+                    "stars": 2562,
+                    "topics": [
+                      "architecture",
+                      "blender",
+                      "blender-addon",
+                      "blender-python",
+                      "blender3d",
+                      "cad",
+                      "computational-geometry",
+                      "generative-design",
+                      "geometry-processing",
+                      "parametric",
+                      "parametric-design",
+                      "procedural-modeling",
+                      "visual-programming"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Building Tools",
+                  "description": "Procedural building and facade generation add-on for Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Building generation addon for blender",
+                    "homepage": "https://ranjian0.github.io/building_tools/",
+                    "id": 123632239,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-24T10:49:10Z",
+                    "open_issues": 27,
+                    "owner": "ranjian0",
+                    "repo": "building_tools",
+                    "stars": 1522,
+                    "topics": [
+                      "blender",
+                      "blender-addon",
+                      "blender-python",
+                      "blender3d",
+                      "building-generator",
+                      "python3"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MeasureIt-ARCH",
+                  "description": "Architectural drafting, dimensioning, and vector CAD drawing extension built on MeasureIt.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "MeasureIt_ARCH is an addon for Blender, that adds tools to create design documentation and technical drawings that can be previewed within Blender's 3D viewport, and exported as images, vector graphics or .dxf files. Read the Doc's here:",
+                    "homepage": "https://kevancress.github.io/MeasureIt_ARCH/",
+                    "id": 160569997,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-03-20T22:26:21Z",
+                    "open_issues": 85,
+                    "owner": "kevancress",
+                    "repo": "MeasureIt_ARCH",
+                    "stars": 322,
+                    "topics": [
+                      "architecture",
+                      "blender",
+                      "cad",
+                      "design"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CAD Transform",
+                  "description": "Precise CAD-style move, rotate, and scale snapping with constraints in Object and Edit modes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Precise CAD like transfoms for blender",
+                    "homepage": null,
+                    "id": 261989107,
+                    "language": null,
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-01-06T03:06:51Z",
+                    "open_issues": 60,
+                    "owner": "s-leger",
+                    "repo": "blender_cad_transforms",
+                    "stars": 82,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Stop-motion-OBJ",
-              "description": "Import sequences of , , or mesh files (such as external fluid or particle simulations) as animated mesh sequences in Blender.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A Blender add-on for importing a sequence of OBJ meshes as frames",
-                "homepage": null,
-                "id": 61146661,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2025-09-02T00:47:17Z",
-                "open_issues": 20,
-                "owner": "neverhood311",
-                "repo": "Stop-motion-OBJ",
-                "stars": 751,
-                "topics": [
-                  "animation",
-                  "blender",
-                  "mesh-import",
-                  "mesh-sequence",
-                  "obj",
-                  "realflow"
-                ]
-              },
-              "first_seen": "2026-11-01T11:31:27.400Z"
+              "node_type": "group",
+              "title": "3D Printing & Manufacturing/CAM:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "BlenderCAM",
+                  "description": "Open-source CNC and CAM toolpath generation inside Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Automatically exported from code.google.com/p/blendercam",
+                    "homepage": null,
+                    "id": 32139247,
+                    "language": "G-code",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-01-01T00:44:47Z",
+                    "open_issues": 26,
+                    "owner": "vilemduha",
+                    "repo": "blendercam",
+                    "stars": 591,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Snapsplit",
+                  "description": "Automates splitting oversized 3D prints with glue-free precision snap-fit connectors.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Cut and connect in Blender. Split and build various connections for 3D Prints.",
+                    "homepage": "https://betakontext.gumroad.com/l/snapsplit",
+                    "id": 1154897101,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-11-19T12:20:33Z",
+                    "open_issues": 0,
+                    "owner": "Betakontext",
+                    "repo": "snapsplit",
+                    "stars": 33,
+                    "topics": [
+                      "3d",
+                      "3d-printing",
+                      "3dprint",
+                      "addon",
+                      "blender",
+                      "blender-addon",
+                      "blender-python",
+                      "blender3d",
+                      "connect",
+                      "connections",
+                      "cut",
+                      "python",
+                      "split",
+                      "splitting"
+                    ]
+                  },
+                  "first_seen": "2026-11-01T11:31:27.400Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Click Joints",
+                  "description": "Cuts printable ball-and-socket or pin joints with millimeter clearance and collision-angle previews.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Click Joints: ball and pin joints for 3D printed figures in Blender, with a measured bend range. Report issues here.",
+                    "homepage": null,
+                    "id": 1451098976,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-16T21:17:19Z",
+                    "open_issues": 0,
+                    "owner": "thijsduinhouwer2002-coder",
+                    "repo": "click-joints",
+                    "stars": 0,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-17T13:54:22.344Z"
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Molecular+",
-              "description": "Modernized continuation of the Molecular Script add-on for particle collisions, linking, and physics simulations in Blender 4.x.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "particle solver for Blender 4.2+ / 5.1+",
-                "homepage": null,
-                "id": 337525369,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-02T19:41:17Z",
-                "open_issues": 7,
-                "owner": "u3dreal",
-                "repo": "molecular-plus",
-                "stars": 421,
-                "topics": []
-              },
-              "first_seen": "2026-11-01T11:31:27.400Z"
+              "node_type": "group",
+              "title": "Retopology & Sculpt:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "RetopoFlow",
+                  "description": "Interactive viewport retopology suite with contour, stroke, and poly-strip drawing tools for Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A suite of retopology tools for Blender",
+                    "homepage": null,
+                    "id": 26979916,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-11-09T18:02:05Z",
+                    "open_issues": 93,
+                    "owner": "CGCookie",
+                    "repo": "retopoflow",
+                    "stars": 3344,
+                    "topics": [
+                      "blender",
+                      "python",
+                      "retopology"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "QRemeshify",
+                  "description": "Easy-to-use auto-remesher outputting clean quad topology.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A Blender extension for an easy-to-use remesher that outputs good-quality quad topology",
+                    "homepage": "https://ksami.gumroad.com/l/QRemeshify",
+                    "id": 861624799,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-10-08T07:03:07Z",
+                    "open_issues": 19,
+                    "owner": "ksami",
+                    "repo": "QRemeshify",
+                    "stars": 1271,
+                    "topics": [
+                      "addon",
+                      "blender",
+                      "remesh"
+                    ]
+                  },
+                  "first_seen": "2026-11-02T12:53:33.336Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "GoB",
+                  "description": "GoZ-compatible bridge for seamless ZBrush and Blender sculpting interchange.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Fork of original GoB script (I just added some fixes)",
+                    "homepage": null,
+                    "id": 89098619,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-09-16T18:50:17Z",
+                    "open_issues": 65,
+                    "owner": "JoseConseco",
+                    "repo": "GoB",
+                    "stars": 774,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                }
+              ]
             },
             {
-              "node_type": "item",
-              "title": "Blender Optics Simulator",
-              "description": "An add-on that turns Blender into a physics-checked optical bench: live beam tracing with polarization and Gaussian-beam propagation, real opto-mechanical mounts, and a headless Python API.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Blender add-on to design, simulate, align & render optical setups — live beam tracing, kinematic-mount auto-alignment, polarization (Jones/Stokes), interference fringes, Gaussian beams, wavelength optics, and a real-vendor component library. Driveable from the UI or a headless optics_api (AI/MCP-friendly).",
-                "homepage": null,
-                "id": 1255566884,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-16T19:34:22Z",
-                "open_issues": 6,
-                "owner": "emircbngl",
-                "repo": "blender-optics-simulator",
-                "stars": 38,
-                "topics": [
-                  "beam-tracing",
-                  "blender",
-                  "blender-addon",
-                  "blender-extension",
-                  "gaussian-beam",
-                  "interferometer",
-                  "optical-design",
-                  "optical-simulation",
-                  "optics",
-                  "photonics",
-                  "physics-simulation",
-                  "polarization",
-                  "ray-tracing"
-                ]
-              },
-              "first_seen": "2026-11-01T11:31:27.400Z"
-            },
-            {
-              "node_type": "item",
-              "title": "projectile",
-              "description": "An artist-friendly tool for throwing stuff around inside blender.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An artist-friendly tool for throwing stuff around inside Blender",
-                "homepage": null,
-                "id": 1120262230,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-01T22:50:13Z",
-                "open_issues": 0,
-                "owner": "develeon",
-                "repo": "projectile",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-11-14T11:47:22.828Z"
+              "node_type": "group",
+              "title": "Hard Surface:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "EdgeFlow",
+                  "description": "Adjusts edge loop curvature and spacing to align cleanly with surrounding mesh topology.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Blender tools for working with edgeloops",
+                    "homepage": null,
+                    "id": 147561874,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2025-05-11T11:30:59Z",
+                    "open_issues": 5,
+                    "owner": "BenjaminSauder",
+                    "repo": "EdgeFlow",
+                    "stars": 1585,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "ND",
+                  "description": "Free non-destructive and interactive hard-surface toolkit with smart modifiers and Booleans.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Non-Destructive Modelling Toolkit for Blender",
+                    "homepage": "https://hugemenace.gumroad.com/l/nd-blender-addon",
+                    "id": 450716248,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-07-22T23:20:19Z",
+                    "open_issues": 51,
+                    "owner": "hugemenace",
+                    "repo": "nd",
+                    "stars": 139,
+                    "topics": [
+                      "addon",
+                      "blender",
+                      "modelling",
+                      "nondestructive"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                }
+              ]
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "🌊 Simulation/Physics"
+          "title": "🧊 Modeling"
         },
         {
           "children": [
@@ -240,7 +637,7 @@
                     "open_issues": 71,
                     "owner": "makehumancommunity",
                     "repo": "mpfb2",
-                    "stars": 711,
+                    "stars": 712,
                     "topics": [
                       "blender"
                     ]
@@ -291,38 +688,8 @@
                     "open_issues": 201,
                     "owner": "princeton-vl",
                     "repo": "infinigen",
-                    "stars": 7453,
+                    "stars": 7457,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "tree-gen",
-                  "description": "Procedural tree model generator in Blender.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Procedural generation of tree models in blender",
-                    "homepage": null,
-                    "id": 96940570,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2025-07-11T14:56:31Z",
-                    "open_issues": 8,
-                    "owner": "friggog",
-                    "repo": "tree-gen",
-                    "stars": 964,
-                    "topics": [
-                      "3d-models",
-                      "blender",
-                      "computer-graphics",
-                      "computer-science",
-                      "procedural-generation",
-                      "tree",
-                      "tree-model",
-                      "treegen"
-                    ]
                   },
                   "first_seen": "2026-08-28T16:57:14.177Z"
                 },
@@ -376,7 +743,7 @@
                     "open_issues": 67,
                     "owner": "Sprytile",
                     "repo": "Sprytile",
-                    "stars": 1160,
+                    "stars": 1162,
                     "topics": [
                       "blender-addon",
                       "paint",
@@ -477,1024 +844,6 @@
           "description": null,
           "node_type": "group",
           "title": "🦑 Generator/Builder"
-        },
-        {
-          "children": [
-            {
-              "node_type": "group",
-              "title": "All-in-One Toolkits & Interactive Creation:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "fspy",
-                  "description": "Open-source camera matching app, extremely useful for modeling directly from a reference image. (blender addon)",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Official fSpy importer for Blender",
-                    "homepage": "https://fspy.io",
-                    "id": 157233650,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2022-05-04T07:25:15Z",
-                    "open_issues": 60,
-                    "owner": "perarnia",
-                    "repo": "fSpy-Blender",
-                    "stars": 1472,
-                    "topics": [
-                      "blender",
-                      "blender-addon",
-                      "camera-calibration",
-                      "fspy"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "PolyQuilt",
-                  "description": "Provides a few functions in edit mode like creating faces, knife tool, fan, edge-loops, etc. It does this with only the left-mouse-button. So no menu’s, no shortcuts. [more info]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Blender Lowpoly support addon for Blender2.8",
-                    "homepage": "https://sakana3.github.io/PolyQuilt/",
-                    "id": 752248406,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-08-10T19:24:59Z",
-                    "open_issues": 33,
-                    "owner": "Dangry98",
-                    "repo": "PolyQuilt-for-Blender-4.0",
-                    "stars": 156,
-                    "topics": []
-                  },
-                  "first_seen": "2026-11-14T11:47:22.828Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Edit Mode, Curves & Modifiers:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "BezierUtility",
-                  "description": "This add-on contains several tools for working with Bezier curves.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Blender Add-on with Bezier Utility Ops",
-                    "homepage": null,
-                    "id": 188526960,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-19T12:40:58Z",
-                    "open_issues": 17,
-                    "owner": "Shriinivas",
-                    "repo": "blenderbezierutils",
-                    "stars": 632,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "JewelCraft",
-                  "description": "Jewelry design toolkit add-on for Blender.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Blender add-on for jewelry design",
-                    "homepage": null,
-                    "id": 35378382,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-10T18:25:23Z",
-                    "open_issues": 0,
-                    "owner": "mrachinskiy",
-                    "repo": "jewelcraft",
-                    "stars": 615,
-                    "topics": [
-                      "blender-addon",
-                      "jewelry"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Modeling Cloth",
-                  "description": "Create real-time cloth-like behavior in meshes in Blender.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Create real-time cloth-like behavior in meshes in Blender",
-                    "homepage": null,
-                    "id": 100496721,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-28T16:33:58Z",
-                    "open_issues": 20,
-                    "owner": "the3dadvantage",
-                    "repo": "Modeling-Cloth",
-                    "stars": 250,
-                    "topics": []
-                  },
-                  "first_seen": "2026-11-14T11:47:22.828Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Drop It",
-                  "description": "Designed to drop fast and simply Objects to Ground or Surface.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Interactive Tools for Blender",
-                    "homepage": "https://maxivz.github.io/interactivetoolsblenderdocs.github.io/",
-                    "id": 193817382,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-10-19T05:20:20Z",
-                    "open_issues": 18,
-                    "owner": "maxivz",
-                    "repo": "interactivetoolsblender",
-                    "stars": 185,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "CAD:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "CAD Sketcher",
-                  "description": "CAD Sketcher is a free and open-source project looking to enhance precision workflows in blender by bringing CAD like tools, features and usability. [website]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Constraint-based geometry sketcher for blender",
-                    "homepage": "https://cadsketcher.com",
-                    "id": 390692642,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-16T16:12:47Z",
-                    "open_issues": 9,
-                    "owner": "hlorus",
-                    "repo": "CAD_Sketcher",
-                    "stars": 3478,
-                    "topics": [
-                      "3d",
-                      "blender",
-                      "geometry",
-                      "modeling"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Bonsai (formerly BlenderBIM)",
-                  "description": "An add-on for beautiful, detailed, and data-rich OpenBIM with Blender. [website]",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Open source IFC library and geometry engine",
-                    "homepage": null,
-                    "id": 40473201,
-                    "language": "C++",
-                    "license": "LGPL-3.0",
-                    "last_commit": "2026-11-18T10:57:00Z",
-                    "open_issues": 2099,
-                    "owner": "IfcOpenShell",
-                    "repo": "IfcOpenShell",
-                    "stars": 2968,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Sverchok",
-                  "description": "Powerful parametric tool for architects, allowing geometry to be programmed visually with nodes.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Sverchok is Node-based visual programming for parametric 3D modeling and computational geometry in Blender",
-                    "homepage": "http://nortikin.github.io/sverchok/",
-                    "id": 13890450,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-18T09:36:38Z",
-                    "open_issues": 207,
-                    "owner": "nortikin",
-                    "repo": "sverchok",
-                    "stars": 2561,
-                    "topics": [
-                      "architecture",
-                      "blender",
-                      "blender-addon",
-                      "blender-python",
-                      "blender3d",
-                      "cad",
-                      "computational-geometry",
-                      "generative-design",
-                      "geometry-processing",
-                      "parametric",
-                      "parametric-design",
-                      "procedural-modeling",
-                      "visual-programming"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Building Tools",
-                  "description": "Building generation addon for blender.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Building generation addon for blender",
-                    "homepage": "https://ranjian0.github.io/building_tools/",
-                    "id": 123632239,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-24T10:49:10Z",
-                    "open_issues": 27,
-                    "owner": "ranjian0",
-                    "repo": "building_tools",
-                    "stars": 1522,
-                    "topics": [
-                      "blender",
-                      "blender-addon",
-                      "blender-python",
-                      "blender3d",
-                      "building-generator",
-                      "python3"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "MeasureIt-ARCH",
-                  "description": "An expansion of Antonio Vazquez's MeasureIt addon to add features to create Architectural Drawings.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "MeasureIt_ARCH is an addon for Blender, that adds tools to create design documentation and technical drawings that can be previewed within Blender's 3D viewport, and exported as images, vector graphics or .dxf files. Read the Doc's here:",
-                    "homepage": "https://kevancress.github.io/MeasureIt_ARCH/",
-                    "id": 160569997,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-03-20T22:26:21Z",
-                    "open_issues": 85,
-                    "owner": "kevancress",
-                    "repo": "MeasureIt_ARCH",
-                    "stars": 322,
-                    "topics": [
-                      "architecture",
-                      "blender",
-                      "cad",
-                      "design"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "JARCH-Vis",
-                  "description": "Add-on for Blender 3D that helps create commonly used object for architectural visualization.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "JARCH Vis is add-on for Blender 3D that helps create commonly used object for architectural visualization. ",
-                    "homepage": null,
-                    "id": 77953215,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2025-12-29T00:57:10Z",
-                    "open_issues": 3,
-                    "owner": "BlendingJake",
-                    "repo": "JARCH-Vis",
-                    "stars": 137,
-                    "topics": [
-                      "architecture-visualization",
-                      "blender-3d",
-                      "python"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "CAD Transform",
-                  "description": "CAD Transform provide intuitive snap from/to workflow, allow precise move/rotate/scale using advanced snap options and constraints in both object and edit mode.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Precise CAD like transfoms for blender",
-                    "homepage": null,
-                    "id": 261989107,
-                    "language": null,
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-01-06T03:06:51Z",
-                    "open_issues": 60,
-                    "owner": "s-leger",
-                    "repo": "blender_cad_transforms",
-                    "stars": 82,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Fusion to Blender Bridge",
-                  "description": "One-click sync from Fusion 360 to Blender. Geometry updates on each CAD revision while materials, modifiers and hand-marked edges stay.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "One-click Fusion 360 → Blender sync. The materials, modifiers and edge marks you set up in Blender survive every CAD revision.",
-                    "homepage": null,
-                    "id": 1336188852,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-12T08:16:36Z",
-                    "open_issues": 0,
-                    "owner": "inspace9018",
-                    "repo": "fusion-to-blender-bridge",
-                    "stars": 8,
-                    "topics": [
-                      "3d",
-                      "3d-modeling",
-                      "autodesk-fusion360",
-                      "blender",
-                      "blender-addon",
-                      "blender-addons",
-                      "blender-python",
-                      "cad",
-                      "cad-software",
-                      "fusion360",
-                      "industrial-design",
-                      "python"
-                    ]
-                  },
-                  "first_seen": "2026-11-01T11:31:27.400Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "3D Printing & Manufacturing/CAM:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "BlenderCAM",
-                  "description": "An Open Source solution for CAM with Blender 3D.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Automatically exported from code.google.com/p/blendercam",
-                    "homepage": null,
-                    "id": 32139247,
-                    "language": "G-code",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-01-01T00:44:47Z",
-                    "open_issues": 26,
-                    "owner": "vilemduha",
-                    "repo": "blendercam",
-                    "stars": 591,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Snapsplit",
-                  "description": "Automates cut and connection building workflows for complex 3D models larger than your printing bed, generating precise glue-free snap-fit connectors.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Cut and connect in Blender. Split and build various connections for 3D Prints.",
-                    "homepage": "https://betakontext.gumroad.com/l/snapsplit",
-                    "id": 1154897101,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-11-17T19:10:01Z",
-                    "open_issues": 0,
-                    "owner": "Betakontext",
-                    "repo": "snapsplit",
-                    "stars": 33,
-                    "topics": [
-                      "3d",
-                      "3d-printing",
-                      "3dprint",
-                      "addon",
-                      "blender",
-                      "blender-addon",
-                      "blender-python",
-                      "blender3d",
-                      "connect",
-                      "connections",
-                      "cut",
-                      "python",
-                      "split",
-                      "splitting"
-                    ]
-                  },
-                  "first_seen": "2026-11-01T11:31:27.400Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Click Joints",
-                  "description": "Cuts printable ball-and-socket or pin joints into a mesh with clearance in mm and shows how far each ball joint bends before the parts collide.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Click Joints: ball and pin joints for 3D printed figures in Blender, with a measured bend range. Report issues here.",
-                    "homepage": null,
-                    "id": 1451098976,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-16T21:17:19Z",
-                    "open_issues": 0,
-                    "owner": "thijsduinhouwer2002-coder",
-                    "repo": "click-joints",
-                    "stars": 0,
-                    "topics": []
-                  },
-                  "first_seen": "2026-11-17T13:54:22.344Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Retopology/Remesh:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "RetopoFlow",
-                  "description": "A suite of retopology tools for Blender.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A suite of retopology tools for Blender",
-                    "homepage": null,
-                    "id": 26979916,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-11-09T18:02:05Z",
-                    "open_issues": 93,
-                    "owner": "CGCookie",
-                    "repo": "retopoflow",
-                    "stars": 3344,
-                    "topics": [
-                      "blender",
-                      "python",
-                      "retopology"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "QRemeshify",
-                  "description": "Blender extension for an easy-to-use remesher that outputs high-quality quad topology.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A Blender extension for an easy-to-use remesher that outputs good-quality quad topology",
-                    "homepage": "https://ksami.gumroad.com/l/QRemeshify",
-                    "id": 861624799,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-10-08T07:03:07Z",
-                    "open_issues": 19,
-                    "owner": "ksami",
-                    "repo": "QRemeshify",
-                    "stars": 1271,
-                    "topics": [
-                      "addon",
-                      "blender",
-                      "remesh"
-                    ]
-                  },
-                  "first_seen": "2026-11-02T12:53:33.336Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Hard Surface:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "EdgeFlow",
-                  "description": "This addon adds two operators to blender which both work on edgeloop selections.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Blender tools for working with edgeloops",
-                    "homepage": null,
-                    "id": 147561874,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2025-05-11T11:30:59Z",
-                    "open_issues": 5,
-                    "owner": "BenjaminSauder",
-                    "repo": "EdgeFlow",
-                    "stars": 1585,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ND",
-                  "description": "Free non-destructive & interactive hard surface toolkit (smart modifiers, booleans, and geometry management).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Non-Destructive Modelling Toolkit for Blender",
-                    "homepage": "https://hugemenace.gumroad.com/l/nd-blender-addon",
-                    "id": 450716248,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-07-22T23:20:19Z",
-                    "open_issues": 51,
-                    "owner": "hugemenace",
-                    "repo": "nd",
-                    "stars": 139,
-                    "topics": [
-                      "addon",
-                      "blender",
-                      "modelling",
-                      "nondestructive"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Sculpt:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "GoB",
-                  "description": "GoZ-alike tools for simple ZBrush-Blender interchange.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Fork of original GoB script (I just added some fixes)",
-                    "homepage": null,
-                    "id": 89098619,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-09-16T18:50:17Z",
-                    "open_issues": 65,
-                    "owner": "JoseConseco",
-                    "repo": "GoB",
-                    "stars": 774,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Snapping-Align:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Mesh Align Plus",
-                  "description": "Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Precisely align, move, and measure+match objects and mesh parts in your 3D scenes.",
-                    "homepage": null,
-                    "id": 48326540,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-08-10T00:48:33Z",
-                    "open_issues": 12,
-                    "owner": "egtwobits",
-                    "repo": "mesh_mesh_align_plus",
-                    "stars": 655,
-                    "topics": [
-                      "3d",
-                      "3dprinting",
-                      "addon",
-                      "alignment",
-                      "blender",
-                      "cad",
-                      "extension",
-                      "precision",
-                      "python",
-                      "rotation",
-                      "transformations"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Mesh Generate/Stylization:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Tissue",
-                  "description": "Add-on for computational design.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Tissue - Blender's add-on for computational design",
-                    "homepage": null,
-                    "id": 38377985,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-10-31T14:52:50Z",
-                    "open_issues": 14,
-                    "owner": "alessandro-zomparelli",
-                    "repo": "tissue",
-                    "stars": 1088,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "BY-GEN",
-                  "description": "Addon designed to simplify the process of creating non-destructive, generative modeling styles in Blender.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Generative Modeling Toolkit for Blender",
-                    "homepage": "https://www.youtube.com/curtisholt",
-                    "id": 218101609,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-05-12T20:03:41Z",
-                    "open_issues": 0,
-                    "owner": "curtisjamesholt",
-                    "repo": "BY-GEN-public",
-                    "stars": 250,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "🧊 Modeling"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "COA Tools",
-              "description": "2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "COA Tools is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.",
-                "homepage": null,
-                "id": 53274254,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2024-05-02T09:27:58Z",
-                "open_issues": 117,
-                "owner": "ndee85",
-                "repo": "coa_tools",
-                "stars": 975,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Commotion",
-              "description": "Blender add-on for motion graphics.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Blender add-on for motion graphics",
-                "homepage": null,
-                "id": 27667147,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-01-04T20:01:56Z",
-                "open_issues": 0,
-                "owner": "mrachinskiy",
-                "repo": "commotion",
-                "stars": 547,
-                "topics": [
-                  "blender-addon",
-                  "motion-graphics"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "BlendyPose",
-              "description": "Blender Motion Capture using your camera.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Blender Motion Capture using your camera!",
-                "homepage": null,
-                "id": 348178924,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2022-06-19T02:13:55Z",
-                "open_issues": 10,
-                "owner": "zonkypop",
-                "repo": "BlendyPose",
-                "stars": 121,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blender NLA Midi Copier",
-              "description": "Blender add-on for creating midi-driven animations from the Nonlinear Animation view.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Blender add-on for syncing duplicated action strips in the NLA Editor to notes in a midi file, and generating keyframes in the graph editor based on midi data",
-                "homepage": "https://extensions.blender.org/add-ons/nla-midi-copier/",
-                "id": 128470382,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-10-28T01:02:06Z",
-                "open_issues": 1,
-                "owner": "Cornerback24",
-                "repo": "Blender-NLA-Midi-Copier",
-                "stars": 76,
-                "topics": [
-                  "animation",
-                  "blender",
-                  "blender-addon",
-                  "blender-midi-driver",
-                  "midi",
-                  "nla-editor"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "group",
-              "title": "Rigging:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Wiggle Bones",
-                  "description": "Jiggle bone implementation for Blender with realistic physics.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Rewrite of blender-wiggle with new features and physics",
-                    "homepage": null,
-                    "id": 609697384,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-04-18T22:49:26Z",
-                    "open_issues": 71,
-                    "owner": "shteeve3d",
-                    "repo": "blender-wiggle-2",
-                    "stars": 1035,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Spring Bones",
-                  "description": "Blender addon to add spring/bouncy dynamic effect to bones.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Blender addon to add spring/bouncy dynamic effect to bones",
-                    "homepage": null,
-                    "id": 208019324,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2026-03-29T22:38:37Z",
-                    "open_issues": 1,
-                    "owner": "artellblender",
-                    "repo": "springbones",
-                    "stars": 814,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Rigacar",
-                  "description": "Generate a complete rig as quickly as possible for standard car models.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Blender addon to generate rig for cars",
-                    "homepage": null,
-                    "id": 104987650,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2024-04-18T13:30:17Z",
-                    "open_issues": 84,
-                    "owner": "digicreatures",
-                    "repo": "rigacar",
-                    "stars": 499,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Bone Widget",
-                  "description": "Blender addon to assist with making custom bone shapes.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 804372257,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-11-08T04:33:24Z",
-                    "open_issues": 3,
-                    "owner": "waylow",
-                    "repo": "boneWidget",
-                    "stars": 203,
-                    "topics": []
-                  },
-                  "first_seen": "2026-11-14T11:47:22.828Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "BlenRig",
-                  "description": "BlenRig is an Auto-rigging and skinning system. It provides the user with a Feature Film quality rig; including an advanced facial system.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "BlenRig rigging system for Blender",
-                    "homepage": null,
-                    "id": 435561584,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-16T02:19:43Z",
-                    "open_issues": 8,
-                    "owner": "jpbouza",
-                    "repo": "BlenRig",
-                    "stars": 183,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "🌠 Animation"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "DreamWork's MoonRay",
-              "description": "MoonRay is a physically based path-tracing renderer; it includes a USD Hydra render delegate, multi-machine and cloud rendering via the Arras distributed computation framework.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.",
-                "homepage": "https://openmoonray.org/",
-                "id": 614103096,
-                "language": "CMake",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-16T21:31:15Z",
-                "open_issues": 119,
-                "owner": "OpenMoonRay",
-                "repo": "openmoonray",
-                "stars": 4756,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mitsuba Renderer",
-              "description": "Mitsuba 3 is a research-oriented retargetable rendering system for forward and inverse light transport simulation. (blender addon)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Mitsuba 3: A Retargetable Forward and Inverse Renderer",
-                "homepage": "https://www.mitsuba-renderer.org/",
-                "id": 362484572,
-                "language": "C++",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-18T08:27:09Z",
-                "open_issues": 152,
-                "owner": "mitsuba-renderer",
-                "repo": "mitsuba3",
-                "stars": 2988,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "LuxCore",
-              "description": "LuxCoreRender is a physically based and unbiased rendering engine. It offers advanced features like accelerated rendering of indirect light and efficient rendering of caustics. (blender addon)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "LuxCore source repository",
-                "homepage": null,
-                "id": 111695279,
-                "language": "C++",
-                "license": "Apache-2.0",
-                "last_commit": "2026-11-15T18:58:13Z",
-                "open_issues": 109,
-                "owner": "LuxCoreRender",
-                "repo": "LuxCore",
-                "stars": 1352,
-                "topics": [
-                  "3d-graphics",
-                  "bidirectional-path-tracing",
-                  "cuda",
-                  "gpu-computing",
-                  "luxcorerender",
-                  "luxrender",
-                  "opencl",
-                  "optix",
-                  "path-tracing",
-                  "pathtracer",
-                  "ray",
-                  "ray-tracer",
-                  "ray-tracing",
-                  "raytracer",
-                  "raytracing",
-                  "rtx",
-                  "visualization"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Malt",
-              "description": "Malt is a non photorealistic rendering (NPR) framework. It offers fully customizable real-time rendering framework for animation and illustration.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Render framework for NPR.",
-                "homepage": "https://malt3d.com",
-                "id": 262926174,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-11-16T18:23:38Z",
-                "open_issues": 27,
-                "owner": "bnpr",
-                "repo": "Malt",
-                "stars": 1155,
-                "topics": [
-                  "addon",
-                  "blender",
-                  "npr",
-                  "rendering-engine"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "🗜 Render Engine"
         },
         {
           "children": [
@@ -1610,7 +959,7 @@
                     "open_issues": 1,
                     "owner": "danielboxer",
                     "repo": "UVgami",
-                    "stars": 264,
+                    "stars": 265,
                     "topics": [
                       "3d",
                       "b3d",
@@ -1642,7 +991,7 @@
                 {
                   "node_type": "item",
                   "title": "UcuPaint",
-                  "description": "A addon to manage texture layers for EEVEE and Cycles renderer.",
+                  "description": "Layer-based texture painting and procedural channel manager for EEVEE and Cycles.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1662,8 +1011,8 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Lily Surface Scrapper",
-                  "description": "Import shaders in Blender from a single URL.",
+                  "title": "Lily Surface Scraper",
+                  "description": "Imports PBR shaders and textures directly into Blender from a single website URL.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1687,292 +1036,6 @@
           "description": null,
           "node_type": "group",
           "title": "🗺️ Texture/UV"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "Blender For Unreal Engine",
-              "description": "This Add-on allows you to export content created with Blender to Unreal Engine.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "I have created this addons for export asset from Blender to Unreal Engine",
-                "homepage": "https://www.xavierloux.com/",
-                "id": 143615345,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-18T06:46:57Z",
-                "open_issues": 11,
-                "owner": "xavier150",
-                "repo": "Blender-For-UnrealEngine-Addons",
-                "stars": 2722,
-                "topics": [
-                  "animations",
-                  "blender",
-                  "camera",
-                  "collisions",
-                  "import-and-export",
-                  "sequencer",
-                  "unreal-engine"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "MeshSync",
-              "description": "Live link plugin for Unity. supported blender and other 3D software.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A package for synchronizing meshes/models editing in DCC tools into Unity in real time.",
-                "homepage": null,
-                "id": 80570922,
-                "language": "C#",
-                "license": "NOASSERTION",
-                "last_commit": "2024-12-06T03:25:13Z",
-                "open_issues": 23,
-                "owner": "unity3d-jp",
-                "repo": "MeshSync",
-                "stars": 1681,
-                "topics": [
-                  "livelink",
-                  "unity"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "SourceIO",
-              "description": "Blender 4.0+ add-on for importing Valve Source and Source 2 engine textures, models, and maps.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "SourceIO is an Blender(4.0+) addon for importing source engine textures/models/maps",
-                "homepage": "https://discord.gg/XJvhzaXZf3",
-                "id": 170197673,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-11-14T13:58:57Z",
-                "open_issues": 14,
-                "owner": "REDxEYE",
-                "repo": "SourceIO",
-                "stars": 992,
-                "topics": []
-              },
-              "first_seen": "2026-11-02T12:53:33.336Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Blenvy",
-              "description": "Blender-centric workflow and component editor for the Rust-based Bevy game engine.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Bevy Code & Blender addon for a simple workflow to add & edit Bevy components in Blender",
-                "homepage": null,
-                "id": 670788928,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-03-05T21:13:32Z",
-                "open_issues": 50,
-                "owner": "kaosat-dev",
-                "repo": "Blenvy",
-                "stars": 849,
-                "topics": [
-                  "bevy-engine",
-                  "blender",
-                  "gamedev"
-                ]
-              },
-              "first_seen": "2026-11-01T11:31:27.400Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Anvil Level Design",
-              "description": "TrenchBroom-inspired level design toolset for Blender with automated material assignment and UV management.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Blender addon of Trenchbroom inspired level design tools including automated material application and UV management, camera and grid tools, and improved GLB export.",
-                "homepage": null,
-                "id": 1127006755,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-10-24T23:56:56Z",
-                "open_issues": 25,
-                "owner": "alexjhetherington",
-                "repo": "anvil-level-design",
-                "stars": 688,
-                "topics": []
-              },
-              "first_seen": "2026-11-02T12:53:33.336Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Mr Mannequins Tools",
-              "description": "Blender add-on that gives the ability to export animations and weighted meshes that are directly compatible with the third person mannequin without re-targeting anything in Unreal Engine!",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Install the latest release for intuitive Blender imports and easy Unreal exports!",
-                "homepage": null,
-                "id": 216363984,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-11-04T15:43:31Z",
-                "open_issues": 0,
-                "owner": "Jim-Kroovy",
-                "repo": "mr_mannequins_tools",
-                "stars": 559,
-                "topics": [
-                  "animation",
-                  "blender",
-                  "meshes",
-                  "rigging-features",
-                  "unreal-engine"
-                ]
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "item",
-              "title": "CC/iClone Blender Tools",
-              "description": "Add-on for importing and auto-setting up Reallusion Character Creator 3/4 and iClone 7/8 characters in Blender.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Add-on for Blender, for importing and auto-setup of character creator 3 & 4 and iClone 7 & 8 character exports into Blender.",
-                "homepage": null,
-                "id": 339096686,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-11-17T03:18:37Z",
-                "open_issues": 113,
-                "owner": "soupday",
-                "repo": "cc_blender_tools",
-                "stars": 530,
-                "topics": [
-                  "addon",
-                  "blender",
-                  "blender-addon",
-                  "cc3",
-                  "cc4",
-                  "character-creator",
-                  "iclone"
-                ]
-              },
-              "first_seen": "2026-11-02T12:53:33.336Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Asset Creation Toolset",
-              "description": "Asset Creation Toolset is many tools for game asset creation.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Many Tools for Game Asset Creation (Import/Export FBXs, Origin Aligment Tool, Renaming, Low-Poly Art workflow tools, etc.)",
-                "homepage": null,
-                "id": 190054403,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-29T19:46:18Z",
-                "open_issues": 10,
-                "owner": "mrven",
-                "repo": "Blender-Asset-Creation-Toolset",
-                "stars": 374,
-                "topics": []
-              },
-              "first_seen": "2026-11-14T11:47:22.828Z"
-            },
-            {
-              "node_type": "item",
-              "title": "V-HACD",
-              "description": "Library decomposes a 3D surface into a set of near convex parts.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Blender 2.80 add-on that enables the use of V-HACD inside Blender to generate accurate convex hulls quickly.",
-                "homepage": null,
-                "id": 182538495,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2023-12-04T13:27:20Z",
-                "open_issues": 6,
-                "owner": "andyp123",
-                "repo": "blender_vhacd",
-                "stars": 115,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            },
-            {
-              "node_type": "group",
-              "title": "Game Engine:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Armory3D",
-                  "description": "Open-source 3D game engine with full Blender integration.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "3D Engine with Blender Integration",
-                    "homepage": "https://armory3d.org/engine",
-                    "id": 45202654,
-                    "language": "C++",
-                    "license": "Zlib",
-                    "last_commit": "2026-11-08T08:42:41Z",
-                    "open_issues": 399,
-                    "owner": "armory3d",
-                    "repo": "armory",
-                    "stars": 3373,
-                    "topics": [
-                      "3d",
-                      "blender",
-                      "game-engine",
-                      "haxe",
-                      "rendering"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "UPBGE",
-                  "description": "Open-source 3D game engine forked from old Blender Game Engine, deployed with Blender itself.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "UPBGE, the best integrated game engine in Blender",
-                    "homepage": "https://upbge.org",
-                    "id": 46817566,
-                    "language": "C++",
-                    "license": "NOASSERTION",
-                    "last_commit": "2026-11-17T23:03:43Z",
-                    "open_issues": 135,
-                    "owner": "UPBGE",
-                    "repo": "upbge",
-                    "stars": 1873,
-                    "topics": [
-                      "bge",
-                      "blender",
-                      "blender-game-engine",
-                      "game-development",
-                      "game-engine-development"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "🎮 GameDev"
         },
         {
           "children": [
@@ -2031,7 +1094,7 @@
                 {
                   "node_type": "item",
                   "title": "Projectors",
-                  "description": "Physically plausible projector creation and modification in Cycles and EEVEE.",
+                  "description": "Creates physically plausible optical projectors with gobo textures in Cycles and EEVEE.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2081,7 +1144,7 @@
             },
             {
               "node_type": "group",
-              "title": "Camera:",
+              "title": "Camera & Batch Rendering:",
               "description": null,
               "children": [
                 {
@@ -2104,18 +1167,11 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Render & Batch Utilities:",
-              "description": null,
-              "children": [
+                },
                 {
                   "node_type": "item",
                   "title": "Loom",
-                  "description": "Simplifies rendering of specific frame ranges, batch rendering, and background encoding.",
+                  "description": "Simplifies rendering specific frame ranges, batch rendering, and background video encoding.",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2264,6 +1320,764 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "Mitsuba Renderer",
+              "description": "Mitsuba 3 is a research-oriented retargetable rendering system for forward and inverse light transport simulation. (blender addon)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Mitsuba 3: A Retargetable Forward and Inverse Renderer",
+                "homepage": "https://www.mitsuba-renderer.org/",
+                "id": 362484572,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-18T08:27:09Z",
+                "open_issues": 152,
+                "owner": "mitsuba-renderer",
+                "repo": "mitsuba3",
+                "stars": 2988,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LuxCore",
+              "description": "LuxCoreRender is a physically based and unbiased rendering engine. It offers advanced features like accelerated rendering of indirect light and efficient rendering of caustics. (blender addon)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "LuxCore source repository",
+                "homepage": null,
+                "id": 111695279,
+                "language": "C++",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-15T18:58:13Z",
+                "open_issues": 110,
+                "owner": "LuxCoreRender",
+                "repo": "LuxCore",
+                "stars": 1352,
+                "topics": [
+                  "3d-graphics",
+                  "bidirectional-path-tracing",
+                  "cuda",
+                  "gpu-computing",
+                  "luxcorerender",
+                  "luxrender",
+                  "opencl",
+                  "optix",
+                  "path-tracing",
+                  "pathtracer",
+                  "ray",
+                  "ray-tracer",
+                  "ray-tracing",
+                  "raytracer",
+                  "raytracing",
+                  "rtx",
+                  "visualization"
+                ]
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Malt",
+              "description": "Malt is a non photorealistic rendering (NPR) framework. It offers fully customizable real-time rendering framework for animation and illustration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Render framework for NPR.",
+                "homepage": "https://malt3d.com",
+                "id": 262926174,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-16T18:23:38Z",
+                "open_issues": 27,
+                "owner": "bnpr",
+                "repo": "Malt",
+                "stars": 1155,
+                "topics": [
+                  "addon",
+                  "blender",
+                  "npr",
+                  "rendering-engine"
+                ]
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Pixar's RenderMan",
+              "description": "Physically-based production renderer from Pixar with an open-source Blender bridge (free non-commercial tier; proprietary renderer license applies). [docs]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "RenderMan for Blender render addon",
+                "homepage": null,
+                "id": 32901914,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-08T21:46:02Z",
+                "open_issues": 7,
+                "owner": "prman-pixar",
+                "repo": "RenderManForBlender",
+                "stars": 860,
+                "topics": []
+              },
+              "first_seen": "2026-11-19T13:57:34.522Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🗜 Render Engine"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Animation & Motion:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "COA Tools",
+                  "description": "2D cutout animation suite offering a Spine/Spriter-style rigged sprite workflow inside Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "COA Tools is a 2D Animation Suite for blender. It offers a 2D cutout animation workflow similar to programs like spine or spriter.",
+                    "homepage": null,
+                    "id": 53274254,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-05-02T09:27:58Z",
+                    "open_issues": 117,
+                    "owner": "ndee85",
+                    "repo": "coa_tools",
+                    "stars": 975,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Commotion",
+                  "description": "Motion-graphics toolset for offset animations and multi-object timing in Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Blender add-on for motion graphics",
+                    "homepage": null,
+                    "id": 27667147,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-01-04T20:01:56Z",
+                    "open_issues": 0,
+                    "owner": "mrachinskiy",
+                    "repo": "commotion",
+                    "stars": 547,
+                    "topics": [
+                      "blender-addon",
+                      "motion-graphics"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Blender NLA Midi Copier",
+                  "description": "Creates MIDI-driven animations directly inside Blender's Nonlinear Animation (NLA) editor.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Blender add-on for syncing duplicated action strips in the NLA Editor to notes in a midi file, and generating keyframes in the graph editor based on midi data",
+                    "homepage": "https://extensions.blender.org/add-ons/nla-midi-copier/",
+                    "id": 128470382,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-10-28T01:02:06Z",
+                    "open_issues": 1,
+                    "owner": "Cornerback24",
+                    "repo": "Blender-NLA-Midi-Copier",
+                    "stars": 76,
+                    "topics": [
+                      "animation",
+                      "blender",
+                      "blender-addon",
+                      "blender-midi-driver",
+                      "midi",
+                      "nla-editor"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Rigging:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Wiggle Bones",
+                  "description": "Jiggle bone implementation for Blender with realistic secondary physics.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Rewrite of blender-wiggle with new features and physics",
+                    "homepage": null,
+                    "id": 609697384,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-04-18T22:49:26Z",
+                    "open_issues": 71,
+                    "owner": "shteeve3d",
+                    "repo": "blender-wiggle-2",
+                    "stars": 1035,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Spring Bones",
+                  "description": "Blender addon to add spring/bouncy dynamic effect to bones.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Blender addon to add spring/bouncy dynamic effect to bones",
+                    "homepage": null,
+                    "id": 208019324,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-03-29T22:38:37Z",
+                    "open_issues": 1,
+                    "owner": "artellblender",
+                    "repo": "springbones",
+                    "stars": 814,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rigacar",
+                  "description": "Generate a complete rig as quickly as possible for standard car models.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Blender addon to generate rig for cars",
+                    "homepage": null,
+                    "id": 104987650,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2024-04-18T13:30:17Z",
+                    "open_issues": 84,
+                    "owner": "digicreatures",
+                    "repo": "rigacar",
+                    "stars": 499,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Bone Widget",
+                  "description": "Blender addon to assist with making custom bone shapes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 804372257,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-08T04:33:24Z",
+                    "open_issues": 3,
+                    "owner": "waylow",
+                    "repo": "boneWidget",
+                    "stars": 203,
+                    "topics": []
+                  },
+                  "first_seen": "2026-11-14T11:47:22.828Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "BlenRig",
+                  "description": "Auto-rigging and skinning system delivering feature-film character rigs, including an advanced facial system.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "BlenRig rigging system for Blender",
+                    "homepage": null,
+                    "id": 435561584,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-16T02:19:43Z",
+                    "open_issues": 8,
+                    "owner": "jpbouza",
+                    "repo": "BlenRig",
+                    "stars": 183,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🌠 Animation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FLIP Fluids",
+              "description": "Powerful liquid simulation plugin that gives you the ability to create high quality fluid effects all within Blender, the free and open source 3D creation suite.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The FLIP Fluids addon is a tool that helps you set up, run, and render high quality liquid fluid effects all within Blender, the free and open source 3D creation suite.",
+                "homepage": "https://superhivemarket.com/products/flipfluids?ref=2685",
+                "id": 102030660,
+                "language": "C++",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-10T16:25:17Z",
+                "open_issues": 4,
+                "owner": "rlguy",
+                "repo": "Blender-FLIP-Fluids",
+                "stars": 1987,
+                "topics": [
+                  "blender-addon",
+                  "computer-graphics",
+                  "flip-fluids",
+                  "fluid",
+                  "fluid-engine",
+                  "fluid-simulation",
+                  "fluid-solver",
+                  "simulation",
+                  "simulator"
+                ]
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MolecularNodes",
+              "description": "Import, animate, and simulate molecular biology and structural data inside Blender using Geometry Nodes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Toolbox for molecular animations in Blender, powered by Geometry Nodes.",
+                "homepage": "https://bradyajohnston.github.io/MolecularNodes/",
+                "id": 485261976,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-19T13:51:38Z",
+                "open_issues": 69,
+                "owner": "BradyAJohnston",
+                "repo": "MolecularNodes",
+                "stars": 1416,
+                "topics": [
+                  "biochemistry",
+                  "blender",
+                  "blender-addon",
+                  "geometry-nodes",
+                  "mmcif",
+                  "molecular",
+                  "molecular-dynamics",
+                  "molecular-graphics",
+                  "molecular-modeling",
+                  "molecular-structures",
+                  "pdb",
+                  "protein",
+                  "protein-data-bank",
+                  "protein-structure",
+                  "protein-visualization",
+                  "proteins",
+                  "sciart",
+                  "structural-biology",
+                  "visualisation"
+                ]
+              },
+              "first_seen": "2026-11-01T11:31:27.400Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Phobos",
+              "description": "Robotics modeling add-on for creating URDF, SDF, and SMURF robot descriptions in Blender.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An add-on for Blender allowing to create URDF, SDF and SMURF robot models in a WYSIWYG environment.",
+                "homepage": null,
+                "id": 22949566,
+                "language": "Python",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-07-14T07:36:27Z",
+                "open_issues": 15,
+                "owner": "dfki-ric",
+                "repo": "phobos",
+                "stars": 916,
+                "topics": [
+                  "blender",
+                  "gazebo",
+                  "mars",
+                  "python",
+                  "robot",
+                  "sdformat",
+                  "smurf",
+                  "urdf"
+                ]
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Stop-motion-OBJ",
+              "description": "Import sequences of , , or mesh files (such as external fluid or particle simulations) as animated mesh sequences in Blender.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Blender add-on for importing a sequence of OBJ meshes as frames",
+                "homepage": null,
+                "id": 61146661,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2025-09-02T00:47:17Z",
+                "open_issues": 20,
+                "owner": "neverhood311",
+                "repo": "Stop-motion-OBJ",
+                "stars": 751,
+                "topics": [
+                  "animation",
+                  "blender",
+                  "mesh-import",
+                  "mesh-sequence",
+                  "obj",
+                  "realflow"
+                ]
+              },
+              "first_seen": "2026-11-01T11:31:27.400Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Molecular+",
+              "description": "Modernized continuation of the Molecular Script add-on for particle collisions, linking, and physics simulations in Blender 4.x.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "particle solver for Blender 4.2+ / 5.1+",
+                "homepage": null,
+                "id": 337525369,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-02T19:41:17Z",
+                "open_issues": 7,
+                "owner": "u3dreal",
+                "repo": "molecular-plus",
+                "stars": 421,
+                "topics": []
+              },
+              "first_seen": "2026-11-01T11:31:27.400Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blender Optics Simulator",
+              "description": "Turns Blender into a physics-checked optical bench with live beam tracing, polarization, Gaussian-beam propagation, opto-mechanical mounts, and a headless Python API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Blender add-on to design, simulate, align & render optical setups — live beam tracing, kinematic-mount auto-alignment, polarization (Jones/Stokes), interference fringes, Gaussian beams, wavelength optics, and a real-vendor component library. Driveable from the UI or a headless optics_api (AI/MCP-friendly).",
+                "homepage": null,
+                "id": 1255566884,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-16T19:34:22Z",
+                "open_issues": 5,
+                "owner": "emircbngl",
+                "repo": "blender-optics-simulator",
+                "stars": 38,
+                "topics": [
+                  "beam-tracing",
+                  "blender",
+                  "blender-addon",
+                  "blender-extension",
+                  "gaussian-beam",
+                  "interferometer",
+                  "optical-design",
+                  "optical-simulation",
+                  "optics",
+                  "photonics",
+                  "physics-simulation",
+                  "polarization",
+                  "ray-tracing"
+                ]
+              },
+              "first_seen": "2026-11-01T11:31:27.400Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🌊 Simulation/Physics"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Armory3D",
+              "description": "Open-source 3D game engine with full Blender viewport and logic-node integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "3D Engine with Blender Integration",
+                "homepage": "https://armory3d.org/engine",
+                "id": 45202654,
+                "language": "C++",
+                "license": "Zlib",
+                "last_commit": "2026-11-08T08:42:41Z",
+                "open_issues": 399,
+                "owner": "armory3d",
+                "repo": "armory",
+                "stars": 3373,
+                "topics": [
+                  "3d",
+                  "blender",
+                  "game-engine",
+                  "haxe",
+                  "rendering"
+                ]
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blender For Unreal Engine",
+              "description": "Automates exporting meshes, rigs, animations, collisions, and LODs from Blender to Unreal Engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "I have created this addons for export asset from Blender to Unreal Engine",
+                "homepage": "https://www.xavierloux.com/",
+                "id": 143615345,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-18T06:46:57Z",
+                "open_issues": 11,
+                "owner": "xavier150",
+                "repo": "Blender-For-UnrealEngine-Addons",
+                "stars": 2723,
+                "topics": [
+                  "animations",
+                  "blender",
+                  "camera",
+                  "collisions",
+                  "import-and-export",
+                  "sequencer",
+                  "unreal-engine"
+                ]
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "MeshSync",
+              "description": "Live-link synchronization plugin bridging Blender meshes, cameras, and animations into Unity.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A package for synchronizing meshes/models editing in DCC tools into Unity in real time.",
+                "homepage": null,
+                "id": 80570922,
+                "language": "C#",
+                "license": "NOASSERTION",
+                "last_commit": "2024-12-06T03:25:13Z",
+                "open_issues": 23,
+                "owner": "unity3d-jp",
+                "repo": "MeshSync",
+                "stars": 1681,
+                "topics": [
+                  "livelink",
+                  "unity"
+                ]
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "SourceIO",
+              "description": "Imports Valve Source and Source 2 engine textures, models, and maps directly into Blender.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "SourceIO is an Blender(4.0+) addon for importing source engine textures/models/maps",
+                "homepage": "https://discord.gg/XJvhzaXZf3",
+                "id": 170197673,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-11-14T13:58:57Z",
+                "open_issues": 14,
+                "owner": "REDxEYE",
+                "repo": "SourceIO",
+                "stars": 993,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T12:53:33.336Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Blenvy",
+              "description": "Blender-centric workflow and component editor for the Rust-based Bevy game engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bevy Code & Blender addon for a simple workflow to add & edit Bevy components in Blender",
+                "homepage": null,
+                "id": 670788928,
+                "language": "Python",
+                "license": "NOASSERTION",
+                "last_commit": "2026-03-05T21:13:32Z",
+                "open_issues": 49,
+                "owner": "kaosat-dev",
+                "repo": "Blenvy",
+                "stars": 850,
+                "topics": [
+                  "bevy-engine",
+                  "blender",
+                  "gamedev"
+                ]
+              },
+              "first_seen": "2026-11-01T11:31:27.400Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Anvil Level Design",
+              "description": "TrenchBroom-inspired level design toolset for Blender with automated material assignment and UV management.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Blender addon of Trenchbroom inspired level design tools including automated material application and UV management, camera and grid tools, and improved GLB export.",
+                "homepage": null,
+                "id": 1127006755,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-10-24T23:56:56Z",
+                "open_issues": 25,
+                "owner": "alexjhetherington",
+                "repo": "anvil-level-design",
+                "stars": 688,
+                "topics": []
+              },
+              "first_seen": "2026-11-02T12:53:33.336Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Mr Mannequins Tools",
+              "description": "Exports animations and weighted character meshes directly compatible with Unreal Engine's default mannequin without retargeting.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Install the latest release for intuitive Blender imports and easy Unreal exports!",
+                "homepage": null,
+                "id": 216363984,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-11-04T15:43:31Z",
+                "open_issues": 0,
+                "owner": "Jim-Kroovy",
+                "repo": "mr_mannequins_tools",
+                "stars": 559,
+                "topics": [
+                  "animation",
+                  "blender",
+                  "meshes",
+                  "rigging-features",
+                  "unreal-engine"
+                ]
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "CC/iClone Blender Tools",
+              "description": "Imports and auto-configures Reallusion Character Creator and iClone characters with materials and rigs in Blender.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Add-on for Blender, for importing and auto-setup of character creator 3 & 4 and iClone 7 & 8 character exports into Blender.",
+                "homepage": null,
+                "id": 339096686,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-17T03:18:37Z",
+                "open_issues": 113,
+                "owner": "soupday",
+                "repo": "cc_blender_tools",
+                "stars": 530,
+                "topics": [
+                  "addon",
+                  "blender",
+                  "blender-addon",
+                  "cc3",
+                  "cc4",
+                  "character-creator",
+                  "iclone"
+                ]
+              },
+              "first_seen": "2026-11-02T12:53:33.336Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Asset Creation Toolset",
+              "description": "Game asset preparation utilities for origin placement, batch export, UV renaming, and texture tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Many Tools for Game Asset Creation (Import/Export FBXs, Origin Aligment Tool, Renaming, Low-Poly Art workflow tools, etc.)",
+                "homepage": null,
+                "id": 190054403,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-07-29T19:46:18Z",
+                "open_issues": 10,
+                "owner": "mrven",
+                "repo": "Blender-Asset-Creation-Toolset",
+                "stars": 374,
+                "topics": []
+              },
+              "first_seen": "2026-11-14T11:47:22.828Z"
+            },
+            {
+              "node_type": "item",
+              "title": "V-HACD",
+              "description": "Decomposes complex 3D meshes into near-convex collision hulls for real-time game physics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Blender 2.80 add-on that enables the use of V-HACD inside Blender to generate accurate convex hulls quickly.",
+                "homepage": null,
+                "id": 182538495,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2023-12-04T13:27:20Z",
+                "open_issues": 6,
+                "owner": "andyp123",
+                "repo": "blender_vhacd",
+                "stars": 115,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🎮 GameDev"
+        },
+        {
+          "children": [
+            {
               "node_type": "group",
               "title": "Import & Software Bridges:",
               "description": null,
@@ -2308,7 +2122,7 @@
                     "open_issues": 20,
                     "owner": "sketchfab",
                     "repo": "blender-plugin",
-                    "stars": 1358,
+                    "stars": 1359,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:14.177Z"
@@ -2527,7 +2341,7 @@
                     "open_issues": 10,
                     "owner": "Kiri-Innovation",
                     "repo": "3dgs-render-blender-addon",
-                    "stars": 1268,
+                    "stars": 1273,
                     "topics": [
                       "3d",
                       "3dgs",
@@ -2538,27 +2352,6 @@
                       "gaussian-splatting",
                       "python"
                     ]
-                  },
-                  "first_seen": "2026-11-01T11:31:27.400Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Gaussian Splatting Blender Add-on",
-                  "description": "Lightweight utility to import and visualize 3D Gaussian Splats inside the Blender viewport.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": "https://www.lingosub.com",
-                    "id": 681639567,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2024-08-30T14:32:18Z",
-                    "open_issues": 31,
-                    "owner": "ReshotAI",
-                    "repo": "gaussian-splatting-blender-addon",
-                    "stars": 592,
-                    "topics": []
                   },
                   "first_seen": "2026-11-01T11:31:27.400Z"
                 },
@@ -2663,7 +2456,7 @@
                     "open_issues": 336,
                     "owner": "domlysz",
                     "repo": "BlenderGIS",
-                    "stars": 9651,
+                    "stars": 9655,
                     "topics": [
                       "3d",
                       "3d-map",
@@ -2790,7 +2583,7 @@
             },
             {
               "node_type": "group",
-              "title": "Viewport & UI Enhancements:",
+              "title": "Viewport, Nodes & UI:",
               "description": null,
               "children": [
                 {
@@ -2823,6 +2616,42 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "NodeToPython",
+                  "description": "Converts Geometry, Shader, and Compositing node trees into clean, reusable Python scripts and add-ons.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Convert Blender node groups to a Python add-on",
+                    "homepage": null,
+                    "id": 517152407,
+                    "language": "Python",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-16T00:53:16Z",
+                    "open_issues": 21,
+                    "owner": "BrendanParmer",
+                    "repo": "NodeToPython",
+                    "stars": 366,
+                    "topics": [
+                      "add-on",
+                      "art",
+                      "blender",
+                      "blender-addon",
+                      "blender-python",
+                      "blender-script",
+                      "geometry-nodes",
+                      "geonodes",
+                      "material",
+                      "node-editor",
+                      "node-to-python",
+                      "procedural",
+                      "procedural-art",
+                      "python"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Modifier List",
                   "description": "Enhanced compact UI layout, sidebar tab, and popup menu for managing modifier stacks. [thread]",
                   "children": [],
@@ -2841,120 +2670,6 @@
                     "topics": [
                       "b3d",
                       "blender"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "QuickSwitch",
-                  "description": "Pie menu helper to quickly switch workspaces and render views.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "QuickSwitch is a little Helper to make it easy",
-                    "homepage": null,
-                    "id": 162853628,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2025-04-04T18:49:01Z",
-                    "open_issues": 0,
-                    "owner": "schroef",
-                    "repo": "QuickSwitch",
-                    "stars": 26,
-                    "topics": [
-                      "addon",
-                      "blender",
-                      "blender-addon",
-                      "pie-menu",
-                      "python",
-                      "quickswitch",
-                      "shortcut",
-                      "wm-menu"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Leviate for Blender",
-                  "description": "Navigate the 3D viewport or move objects using webcam/phone hand tracking inside Blender.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Move 3D models and the mouse with your bare hand, through any webcam or your phone. Web app, desktop app for Windows, macOS and Linux, Chrome extension and Blender add-on. The video never leaves your device.",
-                    "homepage": "https://vladpereverzyev.github.io/leviate/",
-                    "id": 1337197454,
-                    "language": "JavaScript",
-                    "license": "AGPL-3.0",
-                    "last_commit": "2026-11-08T14:54:57Z",
-                    "open_issues": 0,
-                    "owner": "vladpereverzyev",
-                    "repo": "leviate",
-                    "stars": 2,
-                    "topics": [
-                      "3d-scan",
-                      "3d-viewer",
-                      "accessibility",
-                      "blender-addon",
-                      "chrome-extension",
-                      "computer-vision",
-                      "electron",
-                      "gesture-control",
-                      "gesture-recognition",
-                      "hand-gestures",
-                      "hand-tracking",
-                      "mediapipe",
-                      "no-install",
-                      "peerjs",
-                      "stl",
-                      "threejs",
-                      "webassembly",
-                      "webcam",
-                      "webrtc"
-                    ]
-                  },
-                  "first_seen": "2026-11-01T11:31:27.400Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Nodes:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "NodeToPython",
-                  "description": "Converts Geometry, Shader, and Compositing node trees into clean, reusable Python scripts and add-ons.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Convert Blender node groups to a Python add-on",
-                    "homepage": null,
-                    "id": 517152407,
-                    "language": "Python",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-16T00:53:16Z",
-                    "open_issues": 21,
-                    "owner": "BrendanParmer",
-                    "repo": "NodeToPython",
-                    "stars": 367,
-                    "topics": [
-                      "add-on",
-                      "art",
-                      "blender",
-                      "blender-addon",
-                      "blender-python",
-                      "blender-script",
-                      "geometry-nodes",
-                      "geonodes",
-                      "material",
-                      "node-editor",
-                      "node-to-python",
-                      "procedural",
-                      "procedural-art",
-                      "python"
                     ]
                   },
                   "first_seen": "2026-08-28T16:57:14.177Z"
@@ -3012,10 +2727,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-18T10:27:07Z",
-                "open_issues": 65,
+                "open_issues": 67,
                 "owner": "ahujasid",
                 "repo": "mcp-for-blender",
-                "stars": 34895,
+                "stars": 35014,
                 "topics": [
                   "3d-modeling",
                   "ai",
@@ -3045,10 +2760,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-17T15:20:14Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "EL4CTEO",
                 "repo": "blender-skills",
-                "stars": 2138,
+                "stars": 2364,
                 "topics": [
                   "3d",
                   "agent-skills",
@@ -3084,11 +2799,11 @@
                 "id": 1242402978,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T11:26:50Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-19T11:27:52Z",
+                "open_issues": 13,
                 "owner": "Mixar-AI",
                 "repo": "mixar-app",
-                "stars": 610,
+                "stars": 611,
                 "topics": [
                   "3d",
                   "agent",
@@ -3114,7 +2829,7 @@
                 "open_issues": 1,
                 "owner": "apekshik",
                 "repo": "anyscene",
-                "stars": 382,
+                "stars": 408,
                 "topics": []
               },
               "first_seen": "2026-11-02T12:53:33.336Z"
@@ -3160,7 +2875,7 @@
                 "open_issues": 0,
                 "owner": "elithril",
                 "repo": "blender-kiln",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "3d-models",
                   "3d-printing",
@@ -3202,7 +2917,7 @@
                 "open_issues": 0,
                 "owner": "rtmandreyev",
                 "repo": "construct",
-                "stars": 146,
+                "stars": 162,
                 "topics": [
                   "3d-printing",
                   "3d-visualization",
@@ -3230,6 +2945,40 @@
             },
             {
               "node_type": "item",
+              "title": "Blender Agent Studio",
+              "description": "Open-source Blender AI plugin and skill suite for Claude Code and Codex that produces editable scenes, Python scripts, and visually reviewed renders locally.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Free, open-source Blender AI plugin for the tools you already use. Codex and Claude Code installers, local MCP tools, editable .blend files and Python source.",
+                "homepage": "https://ifbars.github.io/blender-agent-studio/",
+                "id": 1311619177,
+                "language": "TypeScript",
+                "license": "MIT",
+                "last_commit": "2026-11-17T08:02:26Z",
+                "open_issues": 8,
+                "owner": "ifBars",
+                "repo": "blender-agent-studio",
+                "stars": 122,
+                "topics": [
+                  "3d",
+                  "agent-plugins",
+                  "agent-skills",
+                  "benchmarking",
+                  "blender",
+                  "blender-ai",
+                  "blender-python",
+                  "claude-code",
+                  "codex",
+                  "mcp",
+                  "open-source",
+                  "procedural-modeling"
+                ]
+              },
+              "first_seen": "2026-11-18T13:29:45.727Z"
+            },
+            {
+              "node_type": "item",
               "title": "DESIGN:OS 3D Blender",
               "description": "Agent toolkit that lets AI coding agents build models in Blender with a knowledge base, an execution contract, and a 3D-print production gate.",
               "children": [],
@@ -3244,7 +2993,7 @@
                 "open_issues": 9,
                 "owner": "jangtrinh",
                 "repo": "design-os-3d-blender",
-                "stars": 120,
+                "stars": 121,
                 "topics": [
                   "3d-printing",
                   "3mf",
@@ -3269,40 +3018,6 @@
             },
             {
               "node_type": "item",
-              "title": "Blender Agent Studio",
-              "description": "Open-source Blender AI plugin and skill suite for Claude Code and Codex that produces editable scenes, Python scripts, and visually reviewed renders locally.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Free, open-source Blender AI plugin for the tools you already use. Codex and Claude Code installers, local MCP tools, editable .blend files and Python source.",
-                "homepage": "https://ifbars.github.io/blender-agent-studio/",
-                "id": 1311619177,
-                "language": "TypeScript",
-                "license": "MIT",
-                "last_commit": "2026-11-17T08:02:26Z",
-                "open_issues": 8,
-                "owner": "ifBars",
-                "repo": "blender-agent-studio",
-                "stars": 118,
-                "topics": [
-                  "3d",
-                  "agent-plugins",
-                  "agent-skills",
-                  "benchmarking",
-                  "blender",
-                  "blender-ai",
-                  "blender-python",
-                  "claude-code",
-                  "codex",
-                  "mcp",
-                  "open-source",
-                  "procedural-modeling"
-                ]
-              },
-              "first_seen": "2026-11-18T13:29:45.727Z"
-            },
-            {
-              "node_type": "item",
               "title": "bpy-dev/blender-mcp",
               "description": "Enhanced Blender MCP distribution offering standalone execution, runtime API documentation lookup, and benchmark tooling.",
               "children": [],
@@ -3313,11 +3028,11 @@
                 "id": 1363080361,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T07:48:12Z",
+                "last_commit": "2026-11-18T21:21:48Z",
                 "open_issues": 0,
                 "owner": "bpy-dev",
                 "repo": "blender-mcp",
-                "stars": 97,
+                "stars": 98,
                 "topics": []
               },
               "first_seen": "2026-11-18T13:29:45.727Z"
@@ -3434,11 +3149,11 @@
                 "id": 1208602537,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T11:30:02Z",
-                "open_issues": 7,
+                "last_commit": "2026-11-19T11:53:34Z",
+                "open_issues": 1,
                 "owner": "dcc-mcp",
                 "repo": "dcc-mcp-blender",
-                "stars": 64,
+                "stars": 65,
                 "topics": [
                   "3d",
                   "3d-modeling",
@@ -3484,7 +3199,7 @@
                 "open_issues": 254,
                 "owner": "Tencent-Hunyuan",
                 "repo": "Hunyuan3D-2",
-                "stars": 15489,
+                "stars": 15498,
                 "topics": [
                   "3d",
                   "3d-aigc",
@@ -3516,7 +3231,7 @@
                 "open_issues": 15,
                 "owner": "carson-katri",
                 "repo": "dream-textures",
-                "stars": 8252,
+                "stars": 8254,
                 "topics": [
                   "ai",
                   "blender",
@@ -3594,7 +3309,7 @@
                 "id": 616620075,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-14T00:58:00Z",
+                "last_commit": "2026-11-18T21:35:18Z",
                 "open_issues": 5,
                 "owner": "tin2tin",
                 "repo": "Pallaidium",
@@ -3659,11 +3374,11 @@
                 "id": 1320384572,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T13:18:25Z",
+                "last_commit": "2026-11-18T13:33:04Z",
                 "open_issues": 16,
                 "owner": "Bingeljell",
                 "repo": "image-to-3dlab",
-                "stars": 1209,
+                "stars": 1216,
                 "topics": [
                   "3d-generation",
                   "3d-models",
@@ -3705,7 +3420,7 @@
                 "open_issues": 54,
                 "owner": "scenario-labs",
                 "repo": "blender-plugin",
-                "stars": 1048,
+                "stars": 1051,
                 "topics": [
                   "3d-models",
                   "agentic-ai",
@@ -3745,7 +3460,7 @@
                 "open_issues": 68,
                 "owner": "visualbruno",
                 "repo": "ComfyUI-Hunyuan3d-2-1",
-                "stars": 400,
+                "stars": 401,
                 "topics": [
                   "3d",
                   "3d-generation",
@@ -3776,7 +3491,7 @@
                 "open_issues": 13,
                 "owner": "alexisrolland",
                 "repo": "ComfyUI-Blender",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "blender",
                   "blender-addon",
@@ -3898,6 +3613,27 @@
                 ]
               },
               "first_seen": "2026-11-18T13:29:45.727Z"
+            },
+            {
+              "node_type": "item",
+              "title": "fal.ai for Blender",
+              "description": "Official Blender 4.2+ extension from fal.ai integrating Text/Image-to-3D (Meshy, Hunyuan3D, Tripo, Rodin), PBR material synthesis, AI rendering, video, and audio workflows into the 3D Viewport and VSE (requires fal.ai API key).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official fal.ai Blender extension",
+                "homepage": null,
+                "id": 1219113318,
+                "language": "Python",
+                "license": "GPL-3.0",
+                "last_commit": "2026-11-06T21:44:47Z",
+                "open_issues": 0,
+                "owner": "fal-ai",
+                "repo": "fal-blender-extension",
+                "stars": 20,
+                "topics": []
+              },
+              "first_seen": "2026-11-19T13:57:34.522Z"
             }
           ],
           "description": null,
@@ -3967,7 +3703,7 @@
                     "open_issues": 79,
                     "owner": "google-research",
                     "repo": "kubric",
-                    "stars": 2855,
+                    "stars": 2857,
                     "topics": []
                   },
                   "first_seen": "2026-11-01T11:31:27.400Z"
@@ -4009,7 +3745,7 @@
                     "open_issues": 0,
                     "owner": "OllieBoyne",
                     "repo": "BlenderSynth",
-                    "stars": 100,
+                    "stars": 101,
                     "topics": [
                       "blender",
                       "depth-images",
@@ -4047,7 +3783,7 @@
                     "open_issues": 2,
                     "owner": "TripoGrowthLab",
                     "repo": "awesome-astra-prompts",
-                    "stars": 381,
+                    "stars": 387,
                     "topics": [
                       "3d",
                       "ai-prompts",
@@ -4077,10 +3813,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-20T12:04:04Z",
-                    "open_issues": 2,
+                    "open_issues": 3,
                     "owner": "QwenLM",
                     "repo": "BlenderWorld",
-                    "stars": 336,
+                    "stars": 337,
                     "topics": []
                   },
                   "first_seen": "2026-11-18T13:29:45.727Z"
@@ -4254,7 +3990,7 @@
                     "open_issues": 190,
                     "owner": "freemocap",
                     "repo": "freemocap",
-                    "stars": 10836,
+                    "stars": 10853,
                     "topics": []
                   },
                   "first_seen": "2026-11-18T13:29:45.727Z"
@@ -4275,7 +4011,7 @@
                     "open_issues": 37,
                     "owner": "zju3dv",
                     "repo": "GVHMR",
-                    "stars": 2306,
+                    "stars": 2307,
                     "topics": []
                   },
                   "first_seen": "2026-11-18T13:29:45.727Z"
@@ -4355,8 +4091,8 @@
                     "id": 15501798,
                     "language": "Rust",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-11-18T10:56:47Z",
-                    "open_issues": 200,
+                    "last_commit": "2026-11-19T10:55:34Z",
+                    "open_issues": 198,
                     "owner": "dezoomify",
                     "repo": "dezoomify",
                     "stars": 850,
@@ -4405,7 +4141,7 @@
                     "open_issues": 401,
                     "owner": "facebookresearch",
                     "repo": "audiocraft",
-                    "stars": 23907,
+                    "stars": 23924,
                     "topics": []
                   },
                   "first_seen": "2026-11-18T13:29:45.727Z"
@@ -4426,7 +4162,7 @@
                     "open_issues": 13,
                     "owner": "hkchengrex",
                     "repo": "MMAudio",
-                    "stars": 2323,
+                    "stars": 2324,
                     "topics": [
                       "audio",
                       "audio-synthesis",
@@ -4525,7 +4261,7 @@
                 "open_issues": 145,
                 "owner": "neutraltone",
                 "repo": "awesome-stock-resources",
-                "stars": 14859,
+                "stars": 14864,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4583,7 +4319,7 @@
               "description": "Curated collection of game development assets, engines, and learning links.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": " :video_game: :game_die: A wonderful list of Game Development resources.",
                 "homepage": null,
                 "id": 72375372,
@@ -4593,7 +4329,7 @@
                 "open_issues": 53,
                 "owner": "Kavex",
                 "repo": "GameDev-Resources",
-                "stars": 7215,
+                "stars": 7217,
                 "topics": [
                   "2d",
                   "2d-framework",
@@ -4635,7 +4371,7 @@
                 "open_issues": 44,
                 "owner": "Calinou",
                 "repo": "awesome-gamedev",
-                "stars": 3229,
+                "stars": 3230,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -4732,8 +4468,8 @@
                 "id": 1041237501,
                 "language": "JavaScript",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-16T11:56:04Z",
-                "open_issues": 2,
+                "last_commit": "2026-11-19T12:12:07Z",
+                "open_issues": 0,
                 "owner": "devanshutak25",
                 "repo": "3d-resources",
                 "stars": 1031,
@@ -4803,117 +4539,7 @@
           "children": [
             {
               "node_type": "group",
-              "title": "Mesh Processing, Retopology & Voxels:",
-              "description": null,
-              "children": [
-                {
-                  "node_type": "item",
-                  "title": "Instant Meshes",
-                  "description": "Interactive field-aligned mesh generator.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Interactive field-aligned mesh generator",
-                    "homepage": null,
-                    "id": 42442099,
-                    "language": "C++",
-                    "license": "NOASSERTION",
-                    "last_commit": "2022-01-03T03:31:55Z",
-                    "open_issues": 99,
-                    "owner": "wjakob",
-                    "repo": "instant-meshes",
-                    "stars": 6305,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "MeshLab",
-                  "description": "Open source system for processing and editing 3D triangular meshes.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "The open source mesh processing system",
-                    "homepage": "http://www.meshlab.net",
-                    "id": 73027304,
-                    "language": "C++",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-11-02T18:56:42Z",
-                    "open_issues": 197,
-                    "owner": "cnr-isti-vclab",
-                    "repo": "meshlab",
-                    "stars": 5921,
-                    "topics": [
-                      "3d",
-                      "3d-models",
-                      "3d-printing",
-                      "3d-reconstruction",
-                      "3d-scanning",
-                      "mesh",
-                      "mesh-editing",
-                      "mesh-generation",
-                      "mesh-processing",
-                      "mesh-simplification",
-                      "point-cloud",
-                      "triangle-mesh"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "AutoRemesher",
-                  "description": "Open-source auto-retopology tool intended to convert source meshes into clean, animation-friendly all-quad geometry.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Automatic quad remeshing tool",
-                    "homepage": "https://autoremesher.dust3d.org",
-                    "id": 273084732,
-                    "language": "C++",
-                    "license": "MIT",
-                    "last_commit": "2026-10-07T10:21:12Z",
-                    "open_issues": 37,
-                    "owner": "huxingyi",
-                    "repo": "autoremesher",
-                    "stars": 3703,
-                    "topics": [
-                      "quadremesh",
-                      "retopology"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Goxel",
-                  "description": "Create voxel graphics. Export to obj, pyl, png, magica voxel, qubicle.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Goxel: Free and Open Source 3D Voxel Editor ",
-                    "homepage": null,
-                    "id": 43659475,
-                    "language": "C++",
-                    "license": "GPL-3.0",
-                    "last_commit": "2026-07-26T03:18:33Z",
-                    "open_issues": 133,
-                    "owner": "guillaumechereau",
-                    "repo": "goxel",
-                    "stars": 3242,
-                    "topics": [
-                      "voxel-editors",
-                      "voxels"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                }
-              ]
-            },
-            {
-              "node_type": "group",
-              "title": "Modeling, Architecture, Volumetrics & Scene Tools:",
+              "title": "CAD, Modeling & Blockout:",
               "description": null,
               "children": [
                 {
@@ -4928,11 +4554,11 @@
                     "id": 5736080,
                     "language": "C++",
                     "license": "LGPL-2.1",
-                    "last_commit": "2026-11-18T12:54:31Z",
-                    "open_issues": 4067,
+                    "last_commit": "2026-11-19T13:37:41Z",
+                    "open_issues": 4071,
                     "owner": "FreeCAD",
                     "repo": "FreeCAD",
-                    "stars": 35576,
+                    "stars": 35611,
                     "topics": [
                       "3d",
                       "3d-printing",
@@ -4967,10 +4593,10 @@
                     "language": "JavaScript",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-15T06:01:01Z",
-                    "open_issues": 698,
+                    "open_issues": 697,
                     "owner": "JannisX11",
                     "repo": "blockbench",
-                    "stars": 6220,
+                    "stars": 6221,
                     "topics": [
                       "3d",
                       "blockbench",
@@ -5003,6 +4629,175 @@
                     "topics": []
                   },
                   "first_seen": "2026-11-18T13:29:45.727Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "TrenchBroom",
+                  "description": "Open-source brush-based 3D level editor widely used for fast architectural blockouts and indie game environments exported to Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Cross-Platform Level Editor",
+                    "homepage": "kristianduske.com/trenchbroom",
+                    "id": 4003232,
+                    "language": "C++",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-17T09:01:29Z",
+                    "open_issues": 433,
+                    "owner": "TrenchBroom",
+                    "repo": "TrenchBroom",
+                    "stars": 2916,
+                    "topics": [
+                      "c-plus-plus",
+                      "game-development",
+                      "games",
+                      "level-editor"
+                    ]
+                  },
+                  "first_seen": "2026-11-19T13:57:34.522Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Mesh Processing, Retopology & Voxels:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Instant Meshes",
+                  "description": "Interactive field-aligned quad/triangle remeshing tool.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Interactive field-aligned mesh generator",
+                    "homepage": null,
+                    "id": 42442099,
+                    "language": "C++",
+                    "license": "NOASSERTION",
+                    "last_commit": "2022-01-03T03:31:55Z",
+                    "open_issues": 99,
+                    "owner": "wjakob",
+                    "repo": "instant-meshes",
+                    "stars": 6305,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MeshLab",
+                  "description": "Open-source system for processing, cleaning, and converting 3D triangular meshes.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The open source mesh processing system",
+                    "homepage": "http://www.meshlab.net",
+                    "id": 73027304,
+                    "language": "C++",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-11-02T18:56:42Z",
+                    "open_issues": 197,
+                    "owner": "cnr-isti-vclab",
+                    "repo": "meshlab",
+                    "stars": 5924,
+                    "topics": [
+                      "3d",
+                      "3d-models",
+                      "3d-printing",
+                      "3d-reconstruction",
+                      "3d-scanning",
+                      "mesh",
+                      "mesh-editing",
+                      "mesh-generation",
+                      "mesh-processing",
+                      "mesh-simplification",
+                      "point-cloud",
+                      "triangle-mesh"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "CloudCompare",
+                  "description": "Open-source 3D point-cloud and triangular mesh processing suite for scan alignment, inspection, and decimation.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "CloudCompare main repository",
+                    "homepage": "https://cloudcompare.org",
+                    "id": 6568697,
+                    "language": "C++",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-15T08:22:37Z",
+                    "open_issues": 271,
+                    "owner": "CloudCompare",
+                    "repo": "CloudCompare",
+                    "stars": 4877,
+                    "topics": [
+                      "3d-point-clouds",
+                      "point-cloud"
+                    ]
+                  },
+                  "first_seen": "2026-11-19T13:57:34.522Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Goxel",
+                  "description": "Open-source 3D voxel editor with , , , and MagicaVoxel export support.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Goxel: Free and Open Source 3D Voxel Editor ",
+                    "homepage": null,
+                    "id": 43659475,
+                    "language": "C++",
+                    "license": "GPL-3.0",
+                    "last_commit": "2026-07-26T03:18:33Z",
+                    "open_issues": 133,
+                    "owner": "guillaumechereau",
+                    "repo": "goxel",
+                    "stars": 3242,
+                    "topics": [
+                      "voxel-editors",
+                      "voxels"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                }
+              ]
+            },
+            {
+              "node_type": "group",
+              "title": "Simulation, Camera, Lighting & Web 3D:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "fSpy",
+                  "description": "Open-source standalone still-image camera matching app for calibrating perspective and focal length before importing into Blender.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A cross platform app for quick and easy still image camera matching",
+                    "homepage": "https://fspy.io",
+                    "id": 137477588,
+                    "language": "TypeScript",
+                    "license": "GPL-3.0",
+                    "last_commit": "2022-12-08T17:16:22Z",
+                    "open_issues": 114,
+                    "owner": "perarnia",
+                    "repo": "fSpy",
+                    "stars": 2633,
+                    "topics": [
+                      "3d-graphics",
+                      "blender",
+                      "camera-calibration",
+                      "fspy"
+                    ]
+                  },
+                  "first_seen": "2026-11-19T13:57:34.522Z"
                 }
               ]
             }
@@ -5030,8 +4825,8 @@
                     "id": 151309018,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-18T03:21:46Z",
-                    "open_issues": 68,
+                    "last_commit": "2026-11-19T03:45:45Z",
+                    "open_issues": 69,
                     "owner": "grizzlypeak3d",
                     "repo": "DJV",
                     "stars": 1172,
@@ -5085,7 +4880,7 @@
             },
             {
               "node_type": "group",
-              "title": "Compositing, Shaders & Particles:",
+              "title": "Shaders, Particles & 3D Viewers:",
               "description": null,
               "children": [
                 {
@@ -5104,28 +4899,7 @@
                     "open_issues": 0,
                     "owner": "processing",
                     "repo": "processing",
-                    "stars": 6474,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:57:14.177Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Natron",
-                  "description": "Open Source Compositing Software For VFX and Motion Graphics.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
-                    "homepage": "http://NatronGitHub.github.io",
-                    "id": 116941150,
-                    "language": "C++",
-                    "license": "GPL-2.0",
-                    "last_commit": "2026-11-18T13:29:10Z",
-                    "open_issues": 340,
-                    "owner": "NatronGitHub",
-                    "repo": "Natron",
-                    "stars": 5728,
+                    "stars": 6473,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:57:14.177Z"
@@ -5142,11 +4916,11 @@
                     "id": 241178673,
                     "language": "C++",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-11-18T12:09:29Z",
-                    "open_issues": 319,
+                    "last_commit": "2026-11-19T11:24:07Z",
+                    "open_issues": 316,
                     "owner": "f3d-app",
                     "repo": "f3d",
-                    "stars": 5077,
+                    "stars": 5081,
                     "topics": [
                       "3d",
                       "3d-graphics",
@@ -5214,6 +4988,33 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "UPBGE",
+                  "description": "Open-source standalone 3D game engine forked from Blender and distributed as a custom Blender build.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "UPBGE, the best integrated game engine in Blender",
+                    "homepage": "https://upbge.org",
+                    "id": 46817566,
+                    "language": "C++",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-11-19T05:00:49Z",
+                    "open_issues": 135,
+                    "owner": "UPBGE",
+                    "repo": "upbge",
+                    "stars": 1875,
+                    "topics": [
+                      "bge",
+                      "blender",
+                      "blender-game-engine",
+                      "game-development",
+                      "game-engine-development"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Goo Engine",
                   "description": "Custom open-source build of Blender by DillonGoo Studios tailored for 3D anime and Non-Photorealistic Rendering (NPR).",
                   "children": [],
@@ -5245,8 +5046,8 @@
                     "id": 41438079,
                     "language": "C++",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-18T12:35:49Z",
-                    "open_issues": 149,
+                    "last_commit": "2026-11-18T14:20:22Z",
+                    "open_issues": 150,
                     "owner": "Bforartists",
                     "repo": "Bforartists",
                     "stars": 819,
@@ -5285,10 +5086,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-11-16T00:33:40Z",
-                    "open_issues": 60,
+                    "open_issues": 61,
                     "owner": "Victor-IX",
                     "repo": "Blender-Launcher-V2",
-                    "stars": 745,
+                    "stars": 746,
                     "topics": [
                       "b3d",
                       "bforartists",
@@ -5417,11 +5218,11 @@
                 "id": 23007417,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T13:15:24Z",
-                "open_issues": 803,
+                "last_commit": "2026-11-18T15:23:43Z",
+                "open_issues": 802,
                 "owner": "colmap",
                 "repo": "colmap",
-                "stars": 13247,
+                "stars": 13255,
                 "topics": [
                   "computer-vision",
                   "geometry",
@@ -5444,11 +5245,11 @@
                 "id": 34405381,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-18T13:24:01Z",
-                "open_issues": 546,
+                "last_commit": "2026-11-19T11:25:28Z",
+                "open_issues": 550,
                 "owner": "alicevision",
                 "repo": "Meshroom",
-                "stars": 13103,
+                "stars": 13105,
                 "topics": [
                   "3d-reconstruction",
                   "alicevision",
@@ -5484,7 +5285,7 @@
                 "open_issues": 974,
                 "owner": "nerfstudio-project",
                 "repo": "nerfstudio",
-                "stars": 12226,
+                "stars": 12229,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -5512,11 +5313,11 @@
                 "id": 707265118,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-17T17:35:19Z",
-                "open_issues": 113,
+                "last_commit": "2026-11-19T13:37:33Z",
+                "open_issues": 115,
                 "owner": "playcanvas",
                 "repo": "supersplat",
-                "stars": 10680,
+                "stars": 10684,
                 "topics": [
                   "3d-gaussian-splatting",
                   "3dgs",
@@ -5546,7 +5347,7 @@
                 "open_issues": 405,
                 "owner": "nerfstudio-project",
                 "repo": "gsplat",
-                "stars": 5916,
+                "stars": 5919,
                 "topics": [
                   "gaussian-splatting"
                 ]
@@ -5569,7 +5370,7 @@
                 "open_issues": 60,
                 "owner": "ArthurBrussee",
                 "repo": "brush",
-                "stars": 5308,
+                "stars": 5314,
                 "topics": [
                   "gaussian-splatting",
                   "graphics",
@@ -5609,7 +5410,7 @@
             {
               "node_type": "item",
               "title": "Material Maker",
-              "description": "Simple procedural materials generation tool.",
+              "description": "Open-source node-based procedural PBR material authoring and 3D model texture painting application built with Godot.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5622,7 +5423,7 @@
                 "open_issues": 316,
                 "owner": "RodZill4",
                 "repo": "material-maker",
-                "stars": 6271,
+                "stars": 6274,
                 "topics": [
                   "glsl",
                   "godot-engine",
@@ -5639,7 +5440,7 @@
             {
               "node_type": "item",
               "title": "ArmorPaint",
-              "description": "Open-Source 3D PBR Texture Painting Software.",
+              "description": "Open-source 3D PBR texture painting application with node-based brushes and GPU map baking.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5648,11 +5449,11 @@
                 "id": 81142732,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-16T10:32:30Z",
-                "open_issues": 79,
+                "last_commit": "2026-11-18T16:45:58Z",
+                "open_issues": 80,
                 "owner": "armory3d",
                 "repo": "armorpaint",
-                "stars": 5506,
+                "stars": 5507,
                 "topics": [
                   "3d",
                   "animation",
@@ -5670,7 +5471,7 @@
             {
               "node_type": "item",
               "title": "Materialize",
-              "description": "Stand alone tool for creating materials from images.",
+              "description": "Open-source tool for generating tileable diffuse, height, normal, AO, and metallic PBR texture maps from a single image.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5696,86 +5497,73 @@
         {
           "children": [
             {
-              "node_type": "item",
-              "title": "USGS/Entwine",
-              "description": "This website provides Potree and Plasio.js interfaces to the AWS USGS LiDAR Public Dataset.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo",
-                "homepage": "https://registry.opendata.aws/usgs-lidar/",
-                "id": 166285655,
-                "language": "JavaScript",
-                "license": null,
-                "last_commit": "2026-11-17T15:59:07Z",
-                "open_issues": 33,
-                "owner": "hobuinc",
-                "repo": "usgs-lidar",
-                "stars": 172,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
+              "node_type": "group",
+              "title": "Real-World DEM & LiDAR Data:",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "USGS National Map & LiDAR",
+                  "description": "U.S. Geological Survey elevation and LiDAR downloader, alongside Earth Explorer and the browser-based USGS Entwine Point Cloud Viewer.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "AWS Entwine Point Tiles USGS LiDAR Public Dataset GitHub repo",
+                    "homepage": "https://registry.opendata.aws/usgs-lidar/",
+                    "id": 166285655,
+                    "language": "JavaScript",
+                    "license": null,
+                    "last_commit": "2026-11-18T16:01:38Z",
+                    "open_issues": 33,
+                    "owner": "hobuinc",
+                    "repo": "usgs-lidar",
+                    "stars": 172,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:57:14.177Z"
+                }
+              ]
             }
           ],
           "description": null,
           "node_type": "group",
-          "title": "📡 Point Cloud/LiDAR Data"
+          "title": "🗻 Terrain, GIS & LiDAR"
         },
         {
           "children": [
             {
               "node_type": "item",
-              "title": "city-roads",
-              "description": "This website allows you to select a city and then draws every single road on a screen.",
+              "title": "Audacity",
+              "description": "Free, open-source, cross-platform multi-track audio editor and recorder.",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Visualization of all roads within any city",
-                "homepage": "https://anvaka.github.io/city-roads/",
-                "id": 234931559,
-                "language": "JavaScript",
-                "license": "MIT",
-                "last_commit": "2026-11-14T08:52:57Z",
-                "open_issues": 64,
-                "owner": "anvaka",
-                "repo": "city-roads",
-                "stars": 9826,
-                "topics": []
+                "description": "Audio Editor                                     ",
+                "homepage": "https://www.audacityteam.org/manual/getting-started/",
+                "id": 32921736,
+                "language": "C++",
+                "license": "NOASSERTION",
+                "last_commit": "2026-11-19T13:25:55Z",
+                "open_issues": 1927,
+                "owner": "audacity",
+                "repo": "audacity",
+                "stars": 19106,
+                "topics": [
+                  "audio",
+                  "cross-platform",
+                  "editor",
+                  "gplv2",
+                  "qt-application",
+                  "qt-qml",
+                  "wxwidgets-applications"
+                ]
               },
-              "first_seen": "2026-08-28T16:57:14.177Z"
+              "first_seen": "2026-11-19T13:57:34.522Z"
             },
             {
               "node_type": "item",
-              "title": "Procedural City Generator",
-              "description": "Create procedurally generated city maps in the style of American grid-based cities.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "ProcGen American City Maps",
-                "homepage": "https://maps.probabletrain.com",
-                "id": 252236610,
-                "language": "TypeScript",
-                "license": "LGPL-3.0",
-                "last_commit": "2024-05-09T21:32:30Z",
-                "open_issues": 40,
-                "owner": "ProbableTrain",
-                "repo": "MapGenerator",
-                "stars": 1487,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T16:57:14.177Z"
-            }
-          ],
-          "description": null,
-          "node_type": "group",
-          "title": "🪄 Generator"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
               "title": "Krita",
-              "description": "Professional free and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
+              "description": "Professional free and open-source digital painting and texture editing application.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5784,14 +5572,56 @@
                 "id": 43975673,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-18T11:47:06Z",
+                "last_commit": "2026-11-19T04:08:02Z",
                 "open_issues": 0,
                 "owner": "KDE",
                 "repo": "krita",
-                "stars": 10767,
+                "stars": 10773,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Natron",
+              "description": "Open-source node-based compositing software for VFX and motion-graphics multi-pass rendering workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.",
+                "homepage": "http://NatronGitHub.github.io",
+                "id": 116941150,
+                "language": "C++",
+                "license": "GPL-2.0",
+                "last_commit": "2026-11-19T13:49:22Z",
+                "open_issues": 288,
+                "owner": "NatronGitHub",
+                "repo": "Natron",
+                "stars": 5742,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T16:57:14.177Z"
+            },
+            {
+              "node_type": "item",
+              "title": "ArtCraft",
+              "description": "Open-source, Rust-built suite of 17 native creative apps serving as free alternatives to Adobe Creative Cloud and Substance (, , , , , , , ).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "The Craft App Launcher",
+                "homepage": null,
+                "id": 1412548284,
+                "language": "Rust",
+                "license": "Apache-2.0",
+                "last_commit": "2026-11-19T11:09:27Z",
+                "open_issues": 804,
+                "owner": "storytold",
+                "repo": "craft-launcher",
+                "stars": 5498,
+                "topics": []
+              },
+              "first_seen": "2026-11-19T13:57:34.522Z"
             }
           ],
           "description": null,
@@ -5822,7 +5652,7 @@
                 "open_issues": 4,
                 "owner": "ssloy",
                 "repo": "tinyrenderer",
-                "stars": 24539,
+                "stars": 24547,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -5864,7 +5694,7 @@
                 "open_issues": 16,
                 "owner": "ssloy",
                 "repo": "tinyraytracer",
-                "stars": 5394,
+                "stars": 5395,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -6036,7 +5866,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T13:29:45.727Z",
+    "last_updated": "2026-11-19T13:57:34.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "🪐 A curated list of awesome Blender add-ons, AI/MCP tools, tutorials, and 3D resources.",
@@ -6044,11 +5874,11 @@
       "id": 234972124,
       "language": "TypeScript",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-18T12:21:29Z",
+      "last_commit": "2026-11-18T20:28:26Z",
       "open_issues": 0,
       "owner": "agmmnn",
       "repo": "awesome-blender",
-      "stars": 7683,
+      "stars": 7690,
       "topics": [
         "3d",
         "3d-models",
@@ -6064,7 +5894,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "0734e063029d889c8b6793f8597abaf506fc497e",
+    "original_repository_sha": "13f2c066e091e2a763db3be7594a2f91bff68137",
     "enhanced_repository": "enhansome/enhansome-blender",
     "enhanced_repository_description": null,
     "title": "Awesome blender with stars"
